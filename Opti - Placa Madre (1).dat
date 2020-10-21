@@ -1,0 +1,7 @@
+ID,Marca,Plataforma,Stock,Precio ($),Tipo de memoria,Slots de memoria,Máximo de memoria,Velocidad minima,Velocidad maxima,Almacenamiento
+,Asus,AMD,1,34990,DDR3 DIMM,2,32GB,"1333 MHz (PC3-10666)
+",2400 MHz (PC3-19300),SATA III
+,ECS,Intel,30,57890,DDR4 DIMM,2,32GB,2400 MHz (PC3-19300),2666 MHz (PC3-21300),"M.2 PCIe Gen3
+ SATA III"
+,ECS,AMD,100,54990,DDR3 DIMM,2,32GB,"2133 MHz (PC4-17000)
+",2400 MHz (PC4-19300),SATA III
