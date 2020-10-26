@@ -1,21 +1,21 @@
-ID,Marca,Modelo y serie,Stock 1,Stock 2,Precio,Velocidad del procesador,Cantidad de núcleos,Capacidad de la memoria,Tipos de memoria,Potencia
-35556,Intel,Celeron G1820,30,,19390,2.7 GHz,2,32 GB,DDR3  DDR3L,
-20626,Intel,,,,,,,,,
-38159,Intel,,,,,,,,,
-35302,Asus,,,,,,,,,
-32246,Intel,,,,,,,,,
-33704,Intel,,,,,,,,,
-28204,AMD,,,,,,,,,
-34049,AMD,,,,,,,,,
-37247,Intel,,,,,,,,,
-36158,Intel,,,,,,,,,
-37483,AMD,,,,,,,,,
-32738,Intel,,,,,,,,,
-34050,AMD,,,,,,,,,
-38456,AMD,,,,,,,,,
-37859,Intel,,,,,,,,,
-34297,Intel,,,,,,,,,
-29097,AMD,,,,,,,,,
-34145,Intel,,,,,,,,,
-29098,AMD,,,,,,,,,
-34051,,,,,,,,,,
+ID,Marca,Modelo y serie,Las Condes,Manuel Montt,Mall Arauco Maipu,Mall Plaza Alameda,Chillan,Precio ($),Velocidad del procesador(GHz),Cantidad de núcleos,Capacidad de la memoria(GB),Tipos de memoria,Velocidad maxima (MHz),Potencia (W),Especificacion 
+35556,Intel,Celeron G1820,3,4,1,1,1,19990,"2,7",2,32,DDR3,1333,-53,5.4
+20626,Intel,Pentium G3250,0,1,0,0,0,49490,"3,2",2,32,DDR3  ,1333,-53,6.4
+38159,Intel,Pentium G6400,0,0,0,0,0,61290,4,2,128,DDR4,2666,-58,8
+35302,Asus,Celeron Prime J4005I-C,4,7,4,5,2,61260,"2,4",2,8,DDR4,2400,-58,4.8
+32246,Intel,Pentium G5400,0,0,0,0,0,69990,"1,05",2,64,DDR4,2400,-58,2.1
+33704,Intel,Core i3-9100F,3,0,0,0,0,89990,"3,6",4,16,DDR4,2400,-65,14.4
+34049,AMD,Ryuzen 3 3200G,1,0,0,2,0,119990,"2,9",4,64,DDR4,2933,-65,11.6
+37247,Intel,Core i3-10100,13,11,6,5,4,137090,"3,6",4,64,DDR4,2666,-65,14.4
+36158,Intel,Core i3- 9100,2,0,2,2,2,139990,"3,6",4,16,DDR4,2400,-65,14.4
+37483,AMD,Ryzen 3 3100,8,7,6,5,0,142490,"3,6",4,128,DDR4,3200,-65,14.4
+32738,Intel,Core i5- 9400F,15,26,9,7,1,159990,"2,9",6,64,DDR4,2900,-65,17.4
+34050,AMD,Ryzen 5 3400G,11,16,2,1,1,169990,"3,7",4,64,DDR4,2933,-65,14.8
+38456,AMD,Ryzen 5 3500X,10,10,4,4,3,199990,"3,6",6,64,DDR4,3200,-65,21.6
+37859,Intel,Core i5-10400F,0,0,0,0,0,199990,"2,9",6,128,DDR4,2666,-65,17.4
+34297,Intel,Core i5-9400,6,9,5,4,3,199990,"4,1",6,128,DDR4,2666,-65,24.6
+29097,AMD,Ryzen 5 2600,2,0,1,1,1,219990,"3,4",6,16,DDR4,2933,-65,20.4
+34145,Intel,Core i5-9600KF,0,0,0,0,0,219990,"3,7",6,128,DDR4,2666,-65,22.2
+29098,AMD,Ryzen 5 2600X,0,0,0,0,0,229990,"3,6",6,16,DDR4,2933,-95,21.6
+34051,AMD,Ryzen 5 3600,0,0,0,0,0,229990,"3,2",6,128,DDR4,3200,-65,19.2
+37819,AMD,Ryzen 7 3800XT,1,0,0,1,0,494690,"3,9",8,128,DDR4,3200,-105,31.2
