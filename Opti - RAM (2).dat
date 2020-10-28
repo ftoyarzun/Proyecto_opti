@@ -1,6 +1,6 @@
 ID,Marca,Las Condes,Manuel Montt,Mall Arauco Maipu,Mall Plaza Alameda,Chillan,Precio ($),Tipo de memoria,Capacidad (GB),Frecuencia (MHz),Especificacion,Potencia (W)
 23013,Crucial,1,0,0,0,0,13890,DDR3 DIMM,2,1600,2,-1.5
-34616,Kingston,0,0,0,0,0,19990,DDR3 DIMM,4,1600,4,-3
+34616,Kingston,1,0,0,0,0,19990,DDR3 DIMM,4,1600,4,-3
 16322,G. Skill,0,0,3,1,0,21590,DDR3 DIMM,4,1333,4,-3
 37039,G. Skill,1,0,0,2,0,21090,DDR4 DIMM,4,2400,4,-3
 34619,Kingston,0,1,0,0,0,23190,DDR4 DIMM,4,2400,4,-3
@@ -10,10 +10,10 @@ ID,Marca,Las Condes,Manuel Montt,Mall Arauco Maipu,Mall Plaza Alameda,Chillan,Pr
 9024,Kingston,3,0,0,0,0,25290,DDR3 DIMM,4,1333,4,-3
 24742,Crucial,2,1,0,1,0,25290,DDR3 DIMM,4,1600,4,-3
 37040,G. Skill,1,0,0,0,0,34690,DDR4 DIMM,8,2400,8,-6
-35211,Corsair,0,0,0,0,0,35090,DDR4 DIMM,8,2400,8,-6
+35211,Corsair,1,0,0,0,0,35090,DDR4 DIMM,8,2400,8,-6
 32318,G. Skill,1,1,1,1,0,36790,DDR4 DIMM,8,2666,8,-6
 28299,G. Skill,2,3,2,1,0,38990,DDR4 DIMM,8,2800,8,-6
-34618,Kingston,0,0,0,0,0,41090,DDR3 DIMM,8,1600,8,-6
+34618,Kingston,1,0,0,0,0,41090,DDR3 DIMM,8,1600,8,-6
 33919,Crucial,1,0,2,0,0,42090,DDR4 DIMM,8,2666,8,-6
 35671,Kingston,12,2,3,3,0,42090,DDR4 DIMM,8,2666,8,-6
 37117,Corsair,1,0,0,0,0,42090,DDR4 DIMM,8,2666,8,-6

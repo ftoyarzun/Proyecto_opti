@@ -201,131 +201,183 @@ Minimize
    + 229990 Componente[3,18,4] + 494690 Componente[3,19,0]
    + 494690 Componente[3,19,1] + 494690 Componente[3,19,2]
    + 494690 Componente[3,19,3] + 494690 Componente[3,19,4]
-   + 17990 Componente[4,0,0] + 17990 Componente[4,0,1]
-   + 17990 Componente[4,0,2] + 17990 Componente[4,0,3]
-   + 17990 Componente[4,0,4] + 18990 Componente[4,1,0]
-   + 18990 Componente[4,1,1] + 18990 Componente[4,1,2]
-   + 18990 Componente[4,1,3] + 18990 Componente[4,1,4]
-   + 29990 Componente[4,2,0] + 29990 Componente[4,2,1]
-   + 29990 Componente[4,2,2] + 29990 Componente[4,2,3]
-   + 29990 Componente[4,2,4] + 49990 Componente[4,3,0]
-   + 49990 Componente[4,3,1] + 49990 Componente[4,3,2]
-   + 49990 Componente[4,3,3] + 49990 Componente[4,3,4]
-   + 69990 Componente[4,4,0] + 69990 Componente[4,4,1]
-   + 69990 Componente[4,4,2] + 69990 Componente[4,4,3]
-   + 69990 Componente[4,4,4] + 89990 Componente[4,5,0]
-   + 89990 Componente[4,5,1] + 89990 Componente[4,5,2]
-   + 89990 Componente[4,5,3] + 89990 Componente[4,5,4]
-   + 92990 Componente[4,6,0] + 92990 Componente[4,6,1]
-   + 92990 Componente[4,6,2] + 92990 Componente[4,6,3]
-   + 92990 Componente[4,6,4] + 389990 Componente[4,7,0]
-   + 389990 Componente[4,7,1] + 389990 Componente[4,7,2]
-   + 389990 Componente[4,7,3] + 389990 Componente[4,7,4]
-   + 49990 Componente[5,0,0] + 49990 Componente[5,0,1]
-   + 49990 Componente[5,0,2] + 49990 Componente[5,0,3]
-   + 49990 Componente[5,0,4] + 52190 Componente[5,1,0]
-   + 52190 Componente[5,1,1] + 52190 Componente[5,1,2]
-   + 52190 Componente[5,1,3] + 52190 Componente[5,1,4]
-   + 54990 Componente[5,2,0] + 54990 Componente[5,2,1]
-   + 54990 Componente[5,2,2] + 54990 Componente[5,2,3]
-   + 54990 Componente[5,2,4] + 59990 Componente[5,3,0]
-   + 59990 Componente[5,3,1] + 59990 Componente[5,3,2]
-   + 59990 Componente[5,3,3] + 59990 Componente[5,3,4]
-   + 59990 Componente[5,4,0] + 59990 Componente[5,4,1]
-   + 59990 Componente[5,4,2] + 59990 Componente[5,4,3]
-   + 59990 Componente[5,4,4] + 64990 Componente[5,5,0]
-   + 64990 Componente[5,5,1] + 64990 Componente[5,5,2]
-   + 64990 Componente[5,5,3] + 64990 Componente[5,5,4]
-   + 139990 Componente[5,6,0] + 139990 Componente[5,6,1]
-   + 139990 Componente[5,6,2] + 139990 Componente[5,6,3]
-   + 139990 Componente[5,6,4] + 163390 Componente[5,7,0]
-   + 163390 Componente[5,7,1] + 163390 Componente[5,7,2]
-   + 163390 Componente[5,7,3] + 163390 Componente[5,7,4]
-   + 169990 Componente[5,8,0] + 169990 Componente[5,8,1]
-   + 169990 Componente[5,8,2] + 169990 Componente[5,8,3]
-   + 169990 Componente[5,8,4] + 171690 Componente[5,9,0]
-   + 171690 Componente[5,9,1] + 171690 Componente[5,9,2]
-   + 171690 Componente[5,9,3] + 171690 Componente[5,9,4]
-   + 179990 Componente[5,10,0] + 179990 Componente[5,10,1]
-   + 179990 Componente[5,10,2] + 179990 Componente[5,10,3]
-   + 179990 Componente[5,10,4] + 199990 Componente[5,11,0]
-   + 199990 Componente[5,11,1] + 199990 Componente[5,11,2]
-   + 199990 Componente[5,11,3] + 199990 Componente[5,11,4]
-   + 199990 Componente[5,12,0] + 199990 Componente[5,12,1]
-   + 199990 Componente[5,12,2] + 199990 Componente[5,12,3]
-   + 199990 Componente[5,12,4] + 209990 Componente[5,13,0]
-   + 209990 Componente[5,13,1] + 209990 Componente[5,13,2]
-   + 209990 Componente[5,13,3] + 209990 Componente[5,13,4]
-   + 209990 Componente[5,14,0] + 209990 Componente[5,14,1]
-   + 209990 Componente[5,14,2] + 209990 Componente[5,14,3]
-   + 209990 Componente[5,14,4] + 219990 Componente[5,15,0]
-   + 219990 Componente[5,15,1] + 219990 Componente[5,15,2]
-   + 219990 Componente[5,15,3] + 219990 Componente[5,15,4]
-   + 219990 Componente[5,16,0] + 219990 Componente[5,16,1]
-   + 219990 Componente[5,16,2] + 219990 Componente[5,16,3]
-   + 219990 Componente[5,16,4] + 239990 Componente[5,17,0]
-   + 239990 Componente[5,17,1] + 239990 Componente[5,17,2]
-   + 239990 Componente[5,17,3] + 239990 Componente[5,17,4]
-   + 239990 Componente[5,18,0] + 239990 Componente[5,18,1]
-   + 239990 Componente[5,18,2] + 239990 Componente[5,18,3]
-   + 239990 Componente[5,18,4] + 239990 Componente[5,19,0]
-   + 239990 Componente[5,19,1] + 239990 Componente[5,19,2]
-   + 239990 Componente[5,19,3] + 239990 Componente[5,19,4]
-   + 239990 Componente[5,20,0] + 239990 Componente[5,20,1]
-   + 239990 Componente[5,20,2] + 239990 Componente[5,20,3]
-   + 239990 Componente[5,20,4] + 239990 Componente[5,21,0]
-   + 239990 Componente[5,21,1] + 239990 Componente[5,21,2]
-   + 239990 Componente[5,21,3] + 239990 Componente[5,21,4]
-   + 249990 Componente[5,22,0] + 249990 Componente[5,22,1]
-   + 249990 Componente[5,22,2] + 249990 Componente[5,22,3]
-   + 249990 Componente[5,22,4] + 249990 Componente[5,23,0]
-   + 249990 Componente[5,23,1] + 249990 Componente[5,23,2]
-   + 249990 Componente[5,23,3] + 249990 Componente[5,23,4]
-   + 254990 Componente[5,24,0] + 254990 Componente[5,24,1]
-   + 254990 Componente[5,24,2] + 254990 Componente[5,24,3]
-   + 254990 Componente[5,24,4] + 256490 Componente[5,25,0]
-   + 256490 Componente[5,25,1] + 256490 Componente[5,25,2]
-   + 256490 Componente[5,25,3] + 256490 Componente[5,25,4]
-   + 259990 Componente[5,26,0] + 259990 Componente[5,26,1]
-   + 259990 Componente[5,26,2] + 259990 Componente[5,26,3]
-   + 259990 Componente[5,26,4] + 269990 Componente[5,27,0]
-   + 269990 Componente[5,27,1] + 269990 Componente[5,27,2]
-   + 269990 Componente[5,27,3] + 269990 Componente[5,27,4]
-   + 269990 Componente[5,28,0] + 269990 Componente[5,28,1]
-   + 269990 Componente[5,28,2] + 269990 Componente[5,28,3]
-   + 269990 Componente[5,28,4] + 269990 Componente[5,29,0]
-   + 269990 Componente[5,29,1] + 269990 Componente[5,29,2]
-   + 269990 Componente[5,29,3] + 269990 Componente[5,29,4]
-   + 269990 Componente[5,30,0] + 269990 Componente[5,30,1]
-   + 269990 Componente[5,30,2] + 269990 Componente[5,30,3]
-   + 269990 Componente[5,30,4] + 269990 Componente[5,31,0]
-   + 269990 Componente[5,31,1] + 269990 Componente[5,31,2]
-   + 269990 Componente[5,31,3] + 269990 Componente[5,31,4]
-   + 289990 Componente[5,32,0] + 289990 Componente[5,32,1]
-   + 289990 Componente[5,32,2] + 289990 Componente[5,32,3]
-   + 289990 Componente[5,32,4] + 299990 Componente[5,33,0]
-   + 299990 Componente[5,33,1] + 299990 Componente[5,33,2]
-   + 299990 Componente[5,33,3] + 299990 Componente[5,33,4]
-   + 299990 Componente[5,34,0] + 299990 Componente[5,34,1]
-   + 299990 Componente[5,34,2] + 299990 Componente[5,34,3]
-   + 299990 Componente[5,34,4] + 309990 Componente[5,35,0]
-   + 309990 Componente[5,35,1] + 309990 Componente[5,35,2]
-   + 309990 Componente[5,35,3] + 309990 Componente[5,35,4]
-   + 369990 Componente[5,36,0] + 369990 Componente[5,36,1]
-   + 369990 Componente[5,36,2] + 369990 Componente[5,36,3]
-   + 369990 Componente[5,36,4] + 369990 Componente[5,37,0]
-   + 369990 Componente[5,37,1] + 369990 Componente[5,37,2]
-   + 369990 Componente[5,37,3] + 369990 Componente[5,37,4]
-   + 374990 Componente[5,38,0] + 374990 Componente[5,38,1]
-   + 374990 Componente[5,38,2] + 374990 Componente[5,38,3]
-   + 374990 Componente[5,38,4] + 379990 Componente[5,39,0]
-   + 379990 Componente[5,39,1] + 379990 Componente[5,39,2]
-   + 379990 Componente[5,39,3] + 379990 Componente[5,39,4]
-   + 379990 Componente[5,40,0] + 379990 Componente[5,40,1]
-   + 379990 Componente[5,40,2] + 379990 Componente[5,40,3]
-   + 379990 Componente[5,40,4] + envio[0] + envio[1] + envio[2] + envio[3]
-   + envio[4] - envio_gratis[0] - envio_gratis[1] - envio_gratis[2]
-   - envio_gratis[3] - envio_gratis[4]
+   + 249999 Componente[3,20,0] + 249999 Componente[3,20,1]
+   + 249999 Componente[3,20,2] + 249999 Componente[3,20,3]
+   + 249999 Componente[3,20,4] + 267990 Componente[3,21,0]
+   + 267990 Componente[3,21,1] + 267990 Componente[3,21,2]
+   + 267990 Componente[3,21,3] + 267990 Componente[3,21,4]
+   + 288690 Componente[3,22,0] + 288690 Componente[3,22,1]
+   + 288690 Componente[3,22,2] + 288690 Componente[3,22,3]
+   + 288690 Componente[3,22,4] + 299990 Componente[3,23,0]
+   + 299990 Componente[3,23,1] + 299990 Componente[3,23,2]
+   + 299990 Componente[3,23,3] + 299990 Componente[3,23,4]
+   + 315790 Componente[3,24,0] + 315790 Componente[3,24,1]
+   + 315790 Componente[3,24,2] + 315790 Componente[3,24,3]
+   + 315790 Componente[3,24,4] + 326290 Componente[3,25,0]
+   + 326290 Componente[3,25,1] + 326290 Componente[3,25,2]
+   + 326290 Componente[3,25,3] + 326290 Componente[3,25,4]
+   + 381490 Componente[3,26,0] + 381490 Componente[3,26,1]
+   + 381490 Componente[3,26,2] + 381490 Componente[3,26,3]
+   + 381490 Componente[3,26,4] + 391970 Componente[3,27,0]
+   + 391970 Componente[3,27,1] + 391970 Componente[3,27,2]
+   + 391970 Componente[3,27,3] + 391970 Componente[3,27,4]
+   + 18990 Componente[4,0,0] + 18990 Componente[4,0,1]
+   + 18990 Componente[4,0,2] + 18990 Componente[4,0,3]
+   + 18990 Componente[4,0,4] + 29990 Componente[4,1,0]
+   + 29990 Componente[4,1,1] + 29990 Componente[4,1,2]
+   + 29990 Componente[4,1,3] + 29990 Componente[4,1,4]
+   + 49990 Componente[4,2,0] + 49990 Componente[4,2,1]
+   + 49990 Componente[4,2,2] + 49990 Componente[4,2,3]
+   + 49990 Componente[4,2,4] + 69990 Componente[4,3,0]
+   + 69990 Componente[4,3,1] + 69990 Componente[4,3,2]
+   + 69990 Componente[4,3,3] + 69990 Componente[4,3,4]
+   + 89990 Componente[4,4,0] + 89990 Componente[4,4,1]
+   + 89990 Componente[4,4,2] + 89990 Componente[4,4,3]
+   + 89990 Componente[4,4,4] + 92990 Componente[4,5,0]
+   + 92990 Componente[4,5,1] + 92990 Componente[4,5,2]
+   + 92990 Componente[4,5,3] + 92990 Componente[4,5,4]
+   + 389990 Componente[4,6,0] + 389990 Componente[4,6,1]
+   + 389990 Componente[4,6,2] + 389990 Componente[4,6,3]
+   + 389990 Componente[4,6,4] + 49990 Componente[5,0,0]
+   + 49990 Componente[5,0,1] + 49990 Componente[5,0,2]
+   + 49990 Componente[5,0,3] + 49990 Componente[5,0,4]
+   + 52190 Componente[5,1,0] + 52190 Componente[5,1,1]
+   + 52190 Componente[5,1,2] + 52190 Componente[5,1,3]
+   + 52190 Componente[5,1,4] + 54990 Componente[5,2,0]
+   + 54990 Componente[5,2,1] + 54990 Componente[5,2,2]
+   + 54990 Componente[5,2,3] + 54990 Componente[5,2,4]
+   + 59990 Componente[5,3,0] + 59990 Componente[5,3,1]
+   + 59990 Componente[5,3,2] + 59990 Componente[5,3,3]
+   + 59990 Componente[5,3,4] + 64990 Componente[5,4,0]
+   + 64990 Componente[5,4,1] + 64990 Componente[5,4,2]
+   + 64990 Componente[5,4,3] + 64990 Componente[5,4,4]
+   + 139990 Componente[5,5,0] + 139990 Componente[5,5,1]
+   + 139990 Componente[5,5,2] + 139990 Componente[5,5,3]
+   + 139990 Componente[5,5,4] + 163390 Componente[5,6,0]
+   + 163390 Componente[5,6,1] + 163390 Componente[5,6,2]
+   + 163390 Componente[5,6,3] + 163390 Componente[5,6,4]
+   + 169990 Componente[5,7,0] + 169990 Componente[5,7,1]
+   + 169990 Componente[5,7,2] + 169990 Componente[5,7,3]
+   + 169990 Componente[5,7,4] + 171690 Componente[5,8,0]
+   + 171690 Componente[5,8,1] + 171690 Componente[5,8,2]
+   + 171690 Componente[5,8,3] + 171690 Componente[5,8,4]
+   + 199990 Componente[5,9,0] + 199990 Componente[5,9,1]
+   + 199990 Componente[5,9,2] + 199990 Componente[5,9,3]
+   + 199990 Componente[5,9,4] + 199990 Componente[5,10,0]
+   + 199990 Componente[5,10,1] + 199990 Componente[5,10,2]
+   + 199990 Componente[5,10,3] + 199990 Componente[5,10,4]
+   + 209990 Componente[5,11,0] + 209990 Componente[5,11,1]
+   + 209990 Componente[5,11,2] + 209990 Componente[5,11,3]
+   + 209990 Componente[5,11,4] + 209990 Componente[5,12,0]
+   + 209990 Componente[5,12,1] + 209990 Componente[5,12,2]
+   + 209990 Componente[5,12,3] + 209990 Componente[5,12,4]
+   + 219990 Componente[5,13,0] + 219990 Componente[5,13,1]
+   + 219990 Componente[5,13,2] + 219990 Componente[5,13,3]
+   + 219990 Componente[5,13,4] + 219990 Componente[5,14,0]
+   + 219990 Componente[5,14,1] + 219990 Componente[5,14,2]
+   + 219990 Componente[5,14,3] + 219990 Componente[5,14,4]
+   + 239990 Componente[5,15,0] + 239990 Componente[5,15,1]
+   + 239990 Componente[5,15,2] + 239990 Componente[5,15,3]
+   + 239990 Componente[5,15,4] + 239990 Componente[5,16,0]
+   + 239990 Componente[5,16,1] + 239990 Componente[5,16,2]
+   + 239990 Componente[5,16,3] + 239990 Componente[5,16,4]
+   + 239990 Componente[5,17,0] + 239990 Componente[5,17,1]
+   + 239990 Componente[5,17,2] + 239990 Componente[5,17,3]
+   + 239990 Componente[5,17,4] + 239990 Componente[5,18,0]
+   + 239990 Componente[5,18,1] + 239990 Componente[5,18,2]
+   + 239990 Componente[5,18,3] + 239990 Componente[5,18,4]
+   + 239990 Componente[5,19,0] + 239990 Componente[5,19,1]
+   + 239990 Componente[5,19,2] + 239990 Componente[5,19,3]
+   + 239990 Componente[5,19,4] + 249990 Componente[5,20,0]
+   + 249990 Componente[5,20,1] + 249990 Componente[5,20,2]
+   + 249990 Componente[5,20,3] + 249990 Componente[5,20,4]
+   + 249990 Componente[5,21,0] + 249990 Componente[5,21,1]
+   + 249990 Componente[5,21,2] + 249990 Componente[5,21,3]
+   + 249990 Componente[5,21,4] + 254990 Componente[5,22,0]
+   + 254990 Componente[5,22,1] + 254990 Componente[5,22,2]
+   + 254990 Componente[5,22,3] + 254990 Componente[5,22,4]
+   + 256490 Componente[5,23,0] + 256490 Componente[5,23,1]
+   + 256490 Componente[5,23,2] + 256490 Componente[5,23,3]
+   + 256490 Componente[5,23,4] + 259990 Componente[5,24,0]
+   + 259990 Componente[5,24,1] + 259990 Componente[5,24,2]
+   + 259990 Componente[5,24,3] + 259990 Componente[5,24,4]
+   + 269990 Componente[5,25,0] + 269990 Componente[5,25,1]
+   + 269990 Componente[5,25,2] + 269990 Componente[5,25,3]
+   + 269990 Componente[5,25,4] + 269990 Componente[5,26,0]
+   + 269990 Componente[5,26,1] + 269990 Componente[5,26,2]
+   + 269990 Componente[5,26,3] + 269990 Componente[5,26,4]
+   + 269990 Componente[5,27,0] + 269990 Componente[5,27,1]
+   + 269990 Componente[5,27,2] + 269990 Componente[5,27,3]
+   + 269990 Componente[5,27,4] + 269990 Componente[5,28,0]
+   + 269990 Componente[5,28,1] + 269990 Componente[5,28,2]
+   + 269990 Componente[5,28,3] + 269990 Componente[5,28,4]
+   + 269990 Componente[5,29,0] + 269990 Componente[5,29,1]
+   + 269990 Componente[5,29,2] + 269990 Componente[5,29,3]
+   + 269990 Componente[5,29,4] + 289990 Componente[5,30,0]
+   + 289990 Componente[5,30,1] + 289990 Componente[5,30,2]
+   + 289990 Componente[5,30,3] + 289990 Componente[5,30,4]
+   + 299990 Componente[5,31,0] + 299990 Componente[5,31,1]
+   + 299990 Componente[5,31,2] + 299990 Componente[5,31,3]
+   + 299990 Componente[5,31,4] + 299990 Componente[5,32,0]
+   + 299990 Componente[5,32,1] + 299990 Componente[5,32,2]
+   + 299990 Componente[5,32,3] + 299990 Componente[5,32,4]
+   + 309990 Componente[5,33,0] + 309990 Componente[5,33,1]
+   + 309990 Componente[5,33,2] + 309990 Componente[5,33,3]
+   + 309990 Componente[5,33,4] + 369990 Componente[5,34,0]
+   + 369990 Componente[5,34,1] + 369990 Componente[5,34,2]
+   + 369990 Componente[5,34,3] + 369990 Componente[5,34,4]
+   + 369990 Componente[5,35,0] + 369990 Componente[5,35,1]
+   + 369990 Componente[5,35,2] + 369990 Componente[5,35,3]
+   + 369990 Componente[5,35,4] + 374990 Componente[5,36,0]
+   + 374990 Componente[5,36,1] + 374990 Componente[5,36,2]
+   + 374990 Componente[5,36,3] + 374990 Componente[5,36,4]
+   + 379990 Componente[5,37,0] + 379990 Componente[5,37,1]
+   + 379990 Componente[5,37,2] + 379990 Componente[5,37,3]
+   + 379990 Componente[5,37,4] + 29990 Componente[6,0,0]
+   + 29990 Componente[6,0,1] + 29990 Componente[6,0,2]
+   + 29990 Componente[6,0,3] + 29990 Componente[6,0,4]
+   + 59990 Componente[6,1,0] + 59990 Componente[6,1,1]
+   + 59990 Componente[6,1,2] + 59990 Componente[6,1,3]
+   + 59990 Componente[6,1,4] + 62990 Componente[6,2,0]
+   + 62990 Componente[6,2,1] + 62990 Componente[6,2,2]
+   + 62990 Componente[6,2,3] + 62990 Componente[6,2,4]
+   + 69990 Componente[6,3,0] + 69990 Componente[6,3,1]
+   + 69990 Componente[6,3,2] + 69990 Componente[6,3,3]
+   + 69990 Componente[6,3,4] + 75990 Componente[6,4,0]
+   + 75990 Componente[6,4,1] + 75990 Componente[6,4,2]
+   + 75990 Componente[6,4,3] + 75990 Componente[6,4,4]
+   + 77990 Componente[6,5,0] + 77990 Componente[6,5,1]
+   + 77990 Componente[6,5,2] + 77990 Componente[6,5,3]
+   + 77990 Componente[6,5,4] + 79990 Componente[6,6,0]
+   + 79990 Componente[6,6,1] + 79990 Componente[6,6,2]
+   + 79990 Componente[6,6,3] + 79990 Componente[6,6,4]
+   + 79990 Componente[6,7,0] + 79990 Componente[6,7,1]
+   + 79990 Componente[6,7,2] + 79990 Componente[6,7,3]
+   + 79990 Componente[6,7,4] + 99990 Componente[6,8,0]
+   + 99990 Componente[6,8,1] + 99990 Componente[6,8,2]
+   + 99990 Componente[6,8,3] + 99990 Componente[6,8,4]
+   + 109990 Componente[6,9,0] + 109990 Componente[6,9,1]
+   + 109990 Componente[6,9,2] + 109990 Componente[6,9,3]
+   + 109990 Componente[6,9,4] + 129990 Componente[6,10,0]
+   + 129990 Componente[6,10,1] + 129990 Componente[6,10,2]
+   + 129990 Componente[6,10,3] + 129990 Componente[6,10,4]
+   + 149990 Componente[6,11,0] + 149990 Componente[6,11,1]
+   + 149990 Componente[6,11,2] + 149990 Componente[6,11,3]
+   + 149990 Componente[6,11,4] + 149990 Componente[6,12,0]
+   + 149990 Componente[6,12,1] + 149990 Componente[6,12,2]
+   + 149990 Componente[6,12,3] + 149990 Componente[6,12,4]
+   + 149990 Componente[6,13,0] + 149990 Componente[6,13,1]
+   + 149990 Componente[6,13,2] + 149990 Componente[6,13,3]
+   + 149990 Componente[6,13,4] + 199990 Componente[6,14,0]
+   + 199990 Componente[6,14,1] + 199990 Componente[6,14,2]
+   + 199990 Componente[6,14,3] + 199990 Componente[6,14,4]
+   + 229990 Componente[6,15,0] + 229990 Componente[6,15,1]
+   + 229990 Componente[6,15,2] + 229990 Componente[6,15,3]
+   + 229990 Componente[6,15,4] + 289990 Componente[6,16,0]
+   + 289990 Componente[6,16,1] + 289990 Componente[6,16,2]
+   + 289990 Componente[6,16,3] + 289990 Componente[6,16,4] + envio[0]
+   + envio[1] + envio[2] + envio[3] + envio[4] - envio_gratis[0]
+   - envio_gratis[1] - envio_gratis[2] - envio_gratis[3] - envio_gratis[4]
 Subject To
  Componentes_unitarios[0]: Componente[0,0,0] + Componente[0,0,1]
    + Componente[0,0,2] + Componente[0,0,3] + Componente[0,0,4]
@@ -394,7 +446,20 @@ Subject To
    + Componente[3,17,4] + Componente[3,18,0] + Componente[3,18,1]
    + Componente[3,18,2] + Componente[3,18,3] + Componente[3,18,4]
    + Componente[3,19,0] + Componente[3,19,1] + Componente[3,19,2]
-   + Componente[3,19,3] + Componente[3,19,4] = 1
+   + Componente[3,19,3] + Componente[3,19,4] + Componente[3,20,0]
+   + Componente[3,20,1] + Componente[3,20,2] + Componente[3,20,3]
+   + Componente[3,20,4] + Componente[3,21,0] + Componente[3,21,1]
+   + Componente[3,21,2] + Componente[3,21,3] + Componente[3,21,4]
+   + Componente[3,22,0] + Componente[3,22,1] + Componente[3,22,2]
+   + Componente[3,22,3] + Componente[3,22,4] + Componente[3,23,0]
+   + Componente[3,23,1] + Componente[3,23,2] + Componente[3,23,3]
+   + Componente[3,23,4] + Componente[3,24,0] + Componente[3,24,1]
+   + Componente[3,24,2] + Componente[3,24,3] + Componente[3,24,4]
+   + Componente[3,25,0] + Componente[3,25,1] + Componente[3,25,2]
+   + Componente[3,25,3] + Componente[3,25,4] + Componente[3,26,0]
+   + Componente[3,26,1] + Componente[3,26,2] + Componente[3,26,3]
+   + Componente[3,26,4] + Componente[3,27,0] + Componente[3,27,1]
+   + Componente[3,27,2] + Componente[3,27,3] + Componente[3,27,4] = 1
  Componentes_unitarios[4]: Componente[4,0,0] + Componente[4,0,1]
    + Componente[4,0,2] + Componente[4,0,3] + Componente[4,0,4]
    + Componente[4,1,0] + Componente[4,1,1] + Componente[4,1,2]
@@ -406,9 +471,36 @@ Subject To
    + Componente[4,4,3] + Componente[4,4,4] + Componente[4,5,0]
    + Componente[4,5,1] + Componente[4,5,2] + Componente[4,5,3]
    + Componente[4,5,4] + Componente[4,6,0] + Componente[4,6,1]
-   + Componente[4,6,2] + Componente[4,6,3] + Componente[4,6,4]
-   + Componente[4,7,0] + Componente[4,7,1] + Componente[4,7,2]
-   + Componente[4,7,3] + Componente[4,7,4] = 1
+   + Componente[4,6,2] + Componente[4,6,3] + Componente[4,6,4] = 1
+ Componentes_unitarios[6]: Componente[6,0,0] + Componente[6,0,1]
+   + Componente[6,0,2] + Componente[6,0,3] + Componente[6,0,4]
+   + Componente[6,1,0] + Componente[6,1,1] + Componente[6,1,2]
+   + Componente[6,1,3] + Componente[6,1,4] + Componente[6,2,0]
+   + Componente[6,2,1] + Componente[6,2,2] + Componente[6,2,3]
+   + Componente[6,2,4] + Componente[6,3,0] + Componente[6,3,1]
+   + Componente[6,3,2] + Componente[6,3,3] + Componente[6,3,4]
+   + Componente[6,4,0] + Componente[6,4,1] + Componente[6,4,2]
+   + Componente[6,4,3] + Componente[6,4,4] + Componente[6,5,0]
+   + Componente[6,5,1] + Componente[6,5,2] + Componente[6,5,3]
+   + Componente[6,5,4] + Componente[6,6,0] + Componente[6,6,1]
+   + Componente[6,6,2] + Componente[6,6,3] + Componente[6,6,4]
+   + Componente[6,7,0] + Componente[6,7,1] + Componente[6,7,2]
+   + Componente[6,7,3] + Componente[6,7,4] + Componente[6,8,0]
+   + Componente[6,8,1] + Componente[6,8,2] + Componente[6,8,3]
+   + Componente[6,8,4] + Componente[6,9,0] + Componente[6,9,1]
+   + Componente[6,9,2] + Componente[6,9,3] + Componente[6,9,4]
+   + Componente[6,10,0] + Componente[6,10,1] + Componente[6,10,2]
+   + Componente[6,10,3] + Componente[6,10,4] + Componente[6,11,0]
+   + Componente[6,11,1] + Componente[6,11,2] + Componente[6,11,3]
+   + Componente[6,11,4] + Componente[6,12,0] + Componente[6,12,1]
+   + Componente[6,12,2] + Componente[6,12,3] + Componente[6,12,4]
+   + Componente[6,13,0] + Componente[6,13,1] + Componente[6,13,2]
+   + Componente[6,13,3] + Componente[6,13,4] + Componente[6,14,0]
+   + Componente[6,14,1] + Componente[6,14,2] + Componente[6,14,3]
+   + Componente[6,14,4] + Componente[6,15,0] + Componente[6,15,1]
+   + Componente[6,15,2] + Componente[6,15,3] + Componente[6,15,4]
+   + Componente[6,16,0] + Componente[6,16,1] + Componente[6,16,2]
+   + Componente[6,16,3] + Componente[6,16,4] = 1
  Componentes_unitarios[5]: Componente[5,0,0] + Componente[5,0,1]
    + Componente[5,0,2] + Componente[5,0,3] + Componente[5,0,4]
    + Componente[5,1,0] + Componente[5,1,1] + Componente[5,1,2]
@@ -472,12 +564,7 @@ Subject To
    + Componente[5,35,4] + Componente[5,36,0] + Componente[5,36,1]
    + Componente[5,36,2] + Componente[5,36,3] + Componente[5,36,4]
    + Componente[5,37,0] + Componente[5,37,1] + Componente[5,37,2]
-   + Componente[5,37,3] + Componente[5,37,4] + Componente[5,38,0]
-   + Componente[5,38,1] + Componente[5,38,2] + Componente[5,38,3]
-   + Componente[5,38,4] + Componente[5,39,0] + Componente[5,39,1]
-   + Componente[5,39,2] + Componente[5,39,3] + Componente[5,39,4]
-   + Componente[5,40,0] + Componente[5,40,1] + Componente[5,40,2]
-   + Componente[5,40,3] + Componente[5,40,4] <= 1
+   + Componente[5,37,3] + Componente[5,37,4] <= 1
  Respetar_RAM: - 2 Componente[0,0,0] - 2 Componente[0,0,1]
    - 2 Componente[0,0,2] - 2 Componente[0,0,3] - 2 Componente[0,0,4]
    - 2 Componente[0,1,0] - 2 Componente[0,1,1] - 2 Componente[0,1,2]
@@ -645,7 +732,7 @@ Subject To
    + 8 Componente[1,17,4] + 8 Componente[1,18,0] + 8 Componente[1,18,1]
    + 8 Componente[1,18,2] + 8 Componente[1,18,3] + 8 Componente[1,18,4]
    + 8 Componente[1,19,0] + 8 Componente[1,19,1] + 8 Componente[1,19,2]
-   + 8 Componente[1,19,3] + 8 Componente[1,19,4] >= 16
+   + 8 Componente[1,19,3] + 8 Componente[1,19,4] >= 8
  Especificaciones_minimas[2]: 256 Componente[2,0,0] + 256 Componente[2,0,1]
    + 256 Componente[2,0,2] + 256 Componente[2,0,3] + 256 Componente[2,0,4]
    + 120 Componente[2,1,0] + 120 Componente[2,1,1] + 120 Componente[2,1,2]
@@ -733,61 +820,81 @@ Subject To
    + 19.2 Componente[3,18,2] + 19.2 Componente[3,18,3]
    + 19.2 Componente[3,18,4] + 31.2 Componente[3,19,0]
    + 31.2 Componente[3,19,1] + 31.2 Componente[3,19,2]
-   + 31.2 Componente[3,19,3] + 31.2 Componente[3,19,4] >= 28.8
+   + 31.2 Componente[3,19,3] + 31.2 Componente[3,19,4]
+   + 11.6 Componente[3,20,0] + 11.6 Componente[3,20,1]
+   + 11.6 Componente[3,20,2] + 11.6 Componente[3,20,3]
+   + 11.6 Componente[3,20,4] + 22.2 Componente[3,21,0]
+   + 22.2 Componente[3,21,1] + 22.2 Componente[3,21,2]
+   + 22.2 Componente[3,21,3] + 22.2 Componente[3,21,4]
+   + 22.8 Componente[3,22,0] + 22.8 Componente[3,22,1]
+   + 22.8 Componente[3,22,2] + 22.8 Componente[3,22,3]
+   + 22.8 Componente[3,22,4] + 19.2 Componente[3,23,0]
+   + 19.2 Componente[3,23,1] + 19.2 Componente[3,23,2]
+   + 19.2 Componente[3,23,3] + 19.2 Componente[3,23,4]
+   + 22.8 Componente[3,24,0] + 22.8 Componente[3,24,1]
+   + 22.8 Componente[3,24,2] + 22.8 Componente[3,24,3]
+   + 22.8 Componente[3,24,4] + 24.6 Componente[3,25,0]
+   + 24.6 Componente[3,25,1] + 24.6 Componente[3,25,2]
+   + 24.6 Componente[3,25,3] + 24.6 Componente[3,25,4]
+   + 28.8 Componente[3,26,0] + 28.8 Componente[3,26,1]
+   + 28.8 Componente[3,26,2] + 28.8 Componente[3,26,3]
+   + 28.8 Componente[3,26,4] + 28.8 Componente[3,27,0]
+   + 28.8 Componente[3,27,1] + 28.8 Componente[3,27,2]
+   + 28.8 Componente[3,27,3] + 28.8 Componente[3,27,4] >= 14.8
  Especificaciones_minimas[5]: Componente[5,0,0] + Componente[5,0,1]
    + Componente[5,0,2] + Componente[5,0,3] + Componente[5,0,4]
    + 2 Componente[5,1,0] + 2 Componente[5,1,1] + 2 Componente[5,1,2]
    + 2 Componente[5,1,3] + 2 Componente[5,1,4] + Componente[5,2,0]
    + Componente[5,2,1] + Componente[5,2,2] + Componente[5,2,3]
-   + Componente[5,2,4] + 2 Componente[5,3,0] + 2 Componente[5,3,1]
-   + 2 Componente[5,3,2] + 2 Componente[5,3,3] + 2 Componente[5,3,4]
-   + Componente[5,4,0] + Componente[5,4,1] + Componente[5,4,2]
-   + Componente[5,4,3] + Componente[5,4,4] + 2 Componente[5,5,0]
+   + Componente[5,2,4] + Componente[5,3,0] + Componente[5,3,1]
+   + Componente[5,3,2] + Componente[5,3,3] + Componente[5,3,4]
+   + 2 Componente[5,4,0] + 2 Componente[5,4,1] + 2 Componente[5,4,2]
+   + 2 Componente[5,4,3] + 2 Componente[5,4,4] + 2 Componente[5,5,0]
    + 2 Componente[5,5,1] + 2 Componente[5,5,2] + 2 Componente[5,5,3]
    + 2 Componente[5,5,4] + 2 Componente[5,6,0] + 2 Componente[5,6,1]
    + 2 Componente[5,6,2] + 2 Componente[5,6,3] + 2 Componente[5,6,4]
-   + 2 Componente[5,7,0] + 2 Componente[5,7,1] + 2 Componente[5,7,2]
-   + 2 Componente[5,7,3] + 2 Componente[5,7,4] + 4 Componente[5,8,0]
+   + 4 Componente[5,7,0] + 4 Componente[5,7,1] + 4 Componente[5,7,2]
+   + 4 Componente[5,7,3] + 4 Componente[5,7,4] + 4 Componente[5,8,0]
    + 4 Componente[5,8,1] + 4 Componente[5,8,2] + 4 Componente[5,8,3]
    + 4 Componente[5,8,4] + 4 Componente[5,9,0] + 4 Componente[5,9,1]
    + 4 Componente[5,9,2] + 4 Componente[5,9,3] + 4 Componente[5,9,4]
-   + 4 Componente[5,10,0] + 4 Componente[5,10,1] + 4 Componente[5,10,2]
-   + 4 Componente[5,10,3] + 4 Componente[5,10,4] + 4 Componente[5,11,0]
+   + 8 Componente[5,10,0] + 8 Componente[5,10,1] + 8 Componente[5,10,2]
+   + 8 Componente[5,10,3] + 8 Componente[5,10,4] + 4 Componente[5,11,0]
    + 4 Componente[5,11,1] + 4 Componente[5,11,2] + 4 Componente[5,11,3]
    + 4 Componente[5,11,4] + 8 Componente[5,12,0] + 8 Componente[5,12,1]
    + 8 Componente[5,12,2] + 8 Componente[5,12,3] + 8 Componente[5,12,4]
    + 4 Componente[5,13,0] + 4 Componente[5,13,1] + 4 Componente[5,13,2]
-   + 4 Componente[5,13,3] + 4 Componente[5,13,4] + 8 Componente[5,14,0]
-   + 8 Componente[5,14,1] + 8 Componente[5,14,2] + 8 Componente[5,14,3]
-   + 8 Componente[5,14,4] + 4 Componente[5,15,0] + 4 Componente[5,15,1]
+   + 4 Componente[5,13,3] + 4 Componente[5,13,4] + 2 Componente[5,14,0]
+   + 2 Componente[5,14,1] + 2 Componente[5,14,2] + 2 Componente[5,14,3]
+   + 2 Componente[5,14,4] + 4 Componente[5,15,0] + 4 Componente[5,15,1]
    + 4 Componente[5,15,2] + 4 Componente[5,15,3] + 4 Componente[5,15,4]
-   + 2 Componente[5,16,0] + 2 Componente[5,16,1] + 2 Componente[5,16,2]
-   + 2 Componente[5,16,3] + 2 Componente[5,16,4] + 4 Componente[5,17,0]
-   + 4 Componente[5,17,1] + 4 Componente[5,17,2] + 4 Componente[5,17,3]
-   + 4 Componente[5,17,4] + 4 Componente[5,18,0] + 4 Componente[5,18,1]
+   + 4 Componente[5,16,0] + 4 Componente[5,16,1] + 4 Componente[5,16,2]
+   + 4 Componente[5,16,3] + 4 Componente[5,16,4] + 8 Componente[5,17,0]
+   + 8 Componente[5,17,1] + 8 Componente[5,17,2] + 8 Componente[5,17,3]
+   + 8 Componente[5,17,4] + 4 Componente[5,18,0] + 4 Componente[5,18,1]
    + 4 Componente[5,18,2] + 4 Componente[5,18,3] + 4 Componente[5,18,4]
-   + 8 Componente[5,19,0] + 8 Componente[5,19,1] + 8 Componente[5,19,2]
-   + 8 Componente[5,19,3] + 8 Componente[5,19,4] + 4 Componente[5,20,0]
+   + 4 Componente[5,19,0] + 4 Componente[5,19,1] + 4 Componente[5,19,2]
+   + 4 Componente[5,19,3] + 4 Componente[5,19,4] + 4 Componente[5,20,0]
    + 4 Componente[5,20,1] + 4 Componente[5,20,2] + 4 Componente[5,20,3]
    + 4 Componente[5,20,4] + 4 Componente[5,21,0] + 4 Componente[5,21,1]
    + 4 Componente[5,21,2] + 4 Componente[5,21,3] + 4 Componente[5,21,4]
    + 4 Componente[5,22,0] + 4 Componente[5,22,1] + 4 Componente[5,22,2]
    + 4 Componente[5,22,3] + 4 Componente[5,22,4] + 4 Componente[5,23,0]
    + 4 Componente[5,23,1] + 4 Componente[5,23,2] + 4 Componente[5,23,3]
-   + 4 Componente[5,23,4] + 4 Componente[5,24,0] + 4 Componente[5,24,1]
-   + 4 Componente[5,24,2] + 4 Componente[5,24,3] + 4 Componente[5,24,4]
+   + 4 Componente[5,23,4] + 6 Componente[5,24,0] + 6 Componente[5,24,1]
+   + 6 Componente[5,24,2] + 6 Componente[5,24,3] + 6 Componente[5,24,4]
    + 4 Componente[5,25,0] + 4 Componente[5,25,1] + 4 Componente[5,25,2]
-   + 4 Componente[5,25,3] + 4 Componente[5,25,4] + 6 Componente[5,26,0]
-   + 6 Componente[5,26,1] + 6 Componente[5,26,2] + 6 Componente[5,26,3]
-   + 6 Componente[5,26,4] + 4 Componente[5,27,0] + 4 Componente[5,27,1]
+   + 4 Componente[5,25,3] + 4 Componente[5,25,4] + 8 Componente[5,26,0]
+   + 8 Componente[5,26,1] + 8 Componente[5,26,2] + 8 Componente[5,26,3]
+   + 8 Componente[5,26,4] + 4 Componente[5,27,0] + 4 Componente[5,27,1]
    + 4 Componente[5,27,2] + 4 Componente[5,27,3] + 4 Componente[5,27,4]
    + 8 Componente[5,28,0] + 8 Componente[5,28,1] + 8 Componente[5,28,2]
    + 8 Componente[5,28,3] + 8 Componente[5,28,4] + 4 Componente[5,29,0]
    + 4 Componente[5,29,1] + 4 Componente[5,29,2] + 4 Componente[5,29,3]
-   + 4 Componente[5,29,4] + 8 Componente[5,30,0] + 8 Componente[5,30,1]
-   + 8 Componente[5,30,2] + 8 Componente[5,30,3] + 8 Componente[5,30,4]
-   + 4 Componente[5,31,0] + 4 Componente[5,31,1] + 4 Componente[5,31,2]
-   + 4 Componente[5,31,3] + 4 Componente[5,31,4] + 6 Componente[5,32,0]
+   + 4 Componente[5,29,4] + 6 Componente[5,30,0] + 6 Componente[5,30,1]
+   + 6 Componente[5,30,2] + 6 Componente[5,30,3] + 6 Componente[5,30,4]
+   + 6 Componente[5,31,0] + 6 Componente[5,31,1] + 6 Componente[5,31,2]
+   + 6 Componente[5,31,3] + 6 Componente[5,31,4] + 6 Componente[5,32,0]
    + 6 Componente[5,32,1] + 6 Componente[5,32,2] + 6 Componente[5,32,3]
    + 6 Componente[5,32,4] + 6 Componente[5,33,0] + 6 Componente[5,33,1]
    + 6 Componente[5,33,2] + 6 Componente[5,33,3] + 6 Componente[5,33,4]
@@ -797,12 +904,7 @@ Subject To
    + 6 Componente[5,35,4] + 6 Componente[5,36,0] + 6 Componente[5,36,1]
    + 6 Componente[5,36,2] + 6 Componente[5,36,3] + 6 Componente[5,36,4]
    + 6 Componente[5,37,0] + 6 Componente[5,37,1] + 6 Componente[5,37,2]
-   + 6 Componente[5,37,3] + 6 Componente[5,37,4] + 6 Componente[5,38,0]
-   + 6 Componente[5,38,1] + 6 Componente[5,38,2] + 6 Componente[5,38,3]
-   + 6 Componente[5,38,4] + 6 Componente[5,39,0] + 6 Componente[5,39,1]
-   + 6 Componente[5,39,2] + 6 Componente[5,39,3] + 6 Componente[5,39,4]
-   + 6 Componente[5,40,0] + 6 Componente[5,40,1] + 6 Componente[5,40,2]
-   + 6 Componente[5,40,3] + 6 Componente[5,40,4] >= 8
+   + 6 Componente[5,37,3] + 6 Componente[5,37,4] >= 1
  Respetar_limite_potencia: - 1.5 Componente[1,0,0] - 1.5 Componente[1,0,1]
    - 1.5 Componente[1,0,2] - 1.5 Componente[1,0,3] - 1.5 Componente[1,0,4]
    - 3 Componente[1,1,0] - 3 Componente[1,1,1] - 3 Componente[1,1,2]
@@ -871,109 +973,115 @@ Subject To
    - 65 Componente[3,18,4] - 105 Componente[3,19,0]
    - 105 Componente[3,19,1] - 105 Componente[3,19,2]
    - 105 Componente[3,19,3] - 105 Componente[3,19,4]
-   + 650 Componente[4,0,0] + 650 Componente[4,0,1] + 650 Componente[4,0,2]
-   + 650 Componente[4,0,3] + 650 Componente[4,0,4] + 500 Componente[4,1,0]
-   + 500 Componente[4,1,1] + 500 Componente[4,1,2] + 500 Componente[4,1,3]
-   + 500 Componente[4,1,4] + 650 Componente[4,2,0] + 650 Componente[4,2,1]
-   + 650 Componente[4,2,2] + 650 Componente[4,2,3] + 650 Componente[4,2,4]
-   + 800 Componente[4,3,0] + 800 Componente[4,3,1] + 800 Componente[4,3,2]
-   + 800 Componente[4,3,3] + 800 Componente[4,3,4] + 450 Componente[4,4,0]
-   + 450 Componente[4,4,1] + 450 Componente[4,4,2] + 450 Componente[4,4,3]
-   + 450 Componente[4,4,4] + 600 Componente[4,5,0] + 600 Componente[4,5,1]
-   + 600 Componente[4,5,2] + 600 Componente[4,5,3] + 600 Componente[4,5,4]
-   + 600 Componente[4,6,0] + 600 Componente[4,6,1] + 600 Componente[4,6,2]
-   + 600 Componente[4,6,3] + 600 Componente[4,6,4] + 1200 Componente[4,7,0]
-   + 1200 Componente[4,7,1] + 1200 Componente[4,7,2]
-   + 1200 Componente[4,7,3] + 1200 Componente[4,7,4]
+   - 65 Componente[3,20,0] - 65 Componente[3,20,1] - 65 Componente[3,20,2]
+   - 65 Componente[3,20,3] - 65 Componente[3,20,4] - 95 Componente[3,21,0]
+   - 95 Componente[3,21,1] - 95 Componente[3,21,2] - 95 Componente[3,21,3]
+   - 95 Componente[3,21,4] - 95 Componente[3,22,0] - 95 Componente[3,22,1]
+   - 95 Componente[3,22,2] - 95 Componente[3,22,3] - 95 Componente[3,22,4]
+   - 65 Componente[3,23,0] - 65 Componente[3,23,1] - 65 Componente[3,23,2]
+   - 65 Componente[3,23,3] - 65 Componente[3,23,4] - 95 Componente[3,24,0]
+   - 95 Componente[3,24,1] - 95 Componente[3,24,2] - 95 Componente[3,24,3]
+   - 95 Componente[3,24,4] - 95 Componente[3,25,0] - 95 Componente[3,25,1]
+   - 95 Componente[3,25,2] - 95 Componente[3,25,3] - 95 Componente[3,25,4]
+   - 95 Componente[3,26,0] - 95 Componente[3,26,1] - 95 Componente[3,26,2]
+   - 95 Componente[3,26,3] - 95 Componente[3,26,4] - 65 Componente[3,27,0]
+   - 65 Componente[3,27,1] - 65 Componente[3,27,2] - 65 Componente[3,27,3]
+   - 65 Componente[3,27,4] + 500 Componente[4,0,0] + 500 Componente[4,0,1]
+   + 500 Componente[4,0,2] + 500 Componente[4,0,3] + 500 Componente[4,0,4]
+   + 650 Componente[4,1,0] + 650 Componente[4,1,1] + 650 Componente[4,1,2]
+   + 650 Componente[4,1,3] + 650 Componente[4,1,4] + 800 Componente[4,2,0]
+   + 800 Componente[4,2,1] + 800 Componente[4,2,2] + 800 Componente[4,2,3]
+   + 800 Componente[4,2,4] + 450 Componente[4,3,0] + 450 Componente[4,3,1]
+   + 450 Componente[4,3,2] + 450 Componente[4,3,3] + 450 Componente[4,3,4]
+   + 600 Componente[4,4,0] + 600 Componente[4,4,1] + 600 Componente[4,4,2]
+   + 600 Componente[4,4,3] + 600 Componente[4,4,4] + 600 Componente[4,5,0]
+   + 600 Componente[4,5,1] + 600 Componente[4,5,2] + 600 Componente[4,5,3]
+   + 600 Componente[4,5,4] + 1200 Componente[4,6,0]
+   + 1200 Componente[4,6,1] + 1200 Componente[4,6,2]
+   + 1200 Componente[4,6,3] + 1200 Componente[4,6,4]
    - 300 Componente[5,0,0] - 300 Componente[5,0,1] - 300 Componente[5,0,2]
    - 300 Componente[5,0,3] - 300 Componente[5,0,4] - 300 Componente[5,1,0]
    - 300 Componente[5,1,1] - 300 Componente[5,1,2] - 300 Componente[5,1,3]
    - 300 Componente[5,1,4] - 19 Componente[5,2,0] - 19 Componente[5,2,1]
    - 19 Componente[5,2,2] - 19 Componente[5,2,3] - 19 Componente[5,2,4]
-   - 300 Componente[5,3,0] - 300 Componente[5,3,1] - 300 Componente[5,3,2]
-   - 300 Componente[5,3,3] - 300 Componente[5,3,4] - 19 Componente[5,4,0]
+   - 19 Componente[5,3,0] - 19 Componente[5,3,1] - 19 Componente[5,3,2]
+   - 19 Componente[5,3,3] - 19 Componente[5,3,4] - 19 Componente[5,4,0]
    - 19 Componente[5,4,1] - 19 Componente[5,4,2] - 19 Componente[5,4,3]
-   - 19 Componente[5,4,4] - 19 Componente[5,5,0] - 19 Componente[5,5,1]
-   - 19 Componente[5,5,2] - 19 Componente[5,5,3] - 19 Componente[5,5,4]
-   - 30 Componente[5,6,0] - 30 Componente[5,6,1] - 30 Componente[5,6,2]
-   - 30 Componente[5,6,3] - 30 Componente[5,6,4] - 35 Componente[5,7,0]
-   - 35 Componente[5,7,1] - 35 Componente[5,7,2] - 35 Componente[5,7,3]
-   - 35 Componente[5,7,4] - 300 Componente[5,8,0] - 300 Componente[5,8,1]
+   - 19 Componente[5,4,4] - 30 Componente[5,5,0] - 30 Componente[5,5,1]
+   - 30 Componente[5,5,2] - 30 Componente[5,5,3] - 30 Componente[5,5,4]
+   - 35 Componente[5,6,0] - 35 Componente[5,6,1] - 35 Componente[5,6,2]
+   - 35 Componente[5,6,3] - 35 Componente[5,6,4] - 300 Componente[5,7,0]
+   - 300 Componente[5,7,1] - 300 Componente[5,7,2] - 300 Componente[5,7,3]
+   - 300 Componente[5,7,4] - 300 Componente[5,8,0] - 300 Componente[5,8,1]
    - 300 Componente[5,8,2] - 300 Componente[5,8,3] - 300 Componente[5,8,4]
-   - 300 Componente[5,9,0] - 300 Componente[5,9,1] - 300 Componente[5,9,2]
-   - 300 Componente[5,9,3] - 300 Componente[5,9,4] - 300 Componente[5,10,0]
-   - 300 Componente[5,10,1] - 300 Componente[5,10,2]
-   - 300 Componente[5,10,3] - 300 Componente[5,10,4]
+   - 75 Componente[5,9,0] - 75 Componente[5,9,1] - 75 Componente[5,9,2]
+   - 75 Componente[5,9,3] - 75 Componente[5,9,4] - 450 Componente[5,10,0]
+   - 450 Componente[5,10,1] - 450 Componente[5,10,2]
+   - 450 Componente[5,10,3] - 450 Componente[5,10,4]
    - 75 Componente[5,11,0] - 75 Componente[5,11,1] - 75 Componente[5,11,2]
    - 75 Componente[5,11,3] - 75 Componente[5,11,4] - 450 Componente[5,12,0]
    - 450 Componente[5,12,1] - 450 Componente[5,12,2]
    - 450 Componente[5,12,3] - 450 Componente[5,12,4]
-   - 75 Componente[5,13,0] - 75 Componente[5,13,1] - 75 Componente[5,13,2]
-   - 75 Componente[5,13,3] - 75 Componente[5,13,4] - 450 Componente[5,14,0]
-   - 450 Componente[5,14,1] - 450 Componente[5,14,2]
-   - 450 Componente[5,14,3] - 450 Componente[5,14,4]
-   - 130 Componente[5,15,0] - 130 Componente[5,15,1]
-   - 130 Componente[5,15,2] - 130 Componente[5,15,3]
-   - 130 Componente[5,15,4] - 40 Componente[5,16,0] - 40 Componente[5,16,1]
-   - 40 Componente[5,16,2] - 40 Componente[5,16,3] - 40 Componente[5,16,4]
-   - 85 Componente[5,17,0] - 85 Componente[5,17,1] - 85 Componente[5,17,2]
-   - 85 Componente[5,17,3] - 85 Componente[5,17,4] - 450 Componente[5,18,0]
-   - 450 Componente[5,18,1] - 450 Componente[5,18,2]
-   - 450 Componente[5,18,3] - 450 Componente[5,18,4]
-   - 550 Componente[5,19,0] - 550 Componente[5,19,1]
-   - 550 Componente[5,19,2] - 550 Componente[5,19,3]
-   - 550 Componente[5,19,4] - 300 Componente[5,20,0]
-   - 300 Componente[5,20,1] - 300 Componente[5,20,2]
-   - 300 Componente[5,20,3] - 300 Componente[5,20,4]
-   - 75 Componente[5,21,0] - 75 Componente[5,21,1] - 75 Componente[5,21,2]
-   - 75 Componente[5,21,3] - 75 Componente[5,21,4] - 100 Componente[5,22,0]
-   - 100 Componente[5,22,1] - 100 Componente[5,22,2]
-   - 100 Componente[5,22,3] - 100 Componente[5,22,4]
-   - 450 Componente[5,23,0] - 450 Componente[5,23,1]
-   - 450 Componente[5,23,2] - 450 Componente[5,23,3]
-   - 450 Componente[5,23,4] - 350 Componente[5,24,0]
-   - 350 Componente[5,24,1] - 350 Componente[5,24,2]
-   - 350 Componente[5,24,3] - 350 Componente[5,24,4]
-   - 100 Componente[5,25,0] - 100 Componente[5,25,1]
-   - 100 Componente[5,25,2] - 100 Componente[5,25,3]
-   - 100 Componente[5,25,4] - 450 Componente[5,26,0]
+   - 130 Componente[5,13,0] - 130 Componente[5,13,1]
+   - 130 Componente[5,13,2] - 130 Componente[5,13,3]
+   - 130 Componente[5,13,4] - 40 Componente[5,14,0] - 40 Componente[5,14,1]
+   - 40 Componente[5,14,2] - 40 Componente[5,14,3] - 40 Componente[5,14,4]
+   - 85 Componente[5,15,0] - 85 Componente[5,15,1] - 85 Componente[5,15,2]
+   - 85 Componente[5,15,3] - 85 Componente[5,15,4] - 450 Componente[5,16,0]
+   - 450 Componente[5,16,1] - 450 Componente[5,16,2]
+   - 450 Componente[5,16,3] - 450 Componente[5,16,4]
+   - 550 Componente[5,17,0] - 550 Componente[5,17,1]
+   - 550 Componente[5,17,2] - 550 Componente[5,17,3]
+   - 550 Componente[5,17,4] - 300 Componente[5,18,0]
+   - 300 Componente[5,18,1] - 300 Componente[5,18,2]
+   - 300 Componente[5,18,3] - 300 Componente[5,18,4]
+   - 75 Componente[5,19,0] - 75 Componente[5,19,1] - 75 Componente[5,19,2]
+   - 75 Componente[5,19,3] - 75 Componente[5,19,4] - 100 Componente[5,20,0]
+   - 100 Componente[5,20,1] - 100 Componente[5,20,2]
+   - 100 Componente[5,20,3] - 100 Componente[5,20,4]
+   - 450 Componente[5,21,0] - 450 Componente[5,21,1]
+   - 450 Componente[5,21,2] - 450 Componente[5,21,3]
+   - 450 Componente[5,21,4] - 350 Componente[5,22,0]
+   - 350 Componente[5,22,1] - 350 Componente[5,22,2]
+   - 350 Componente[5,22,3] - 350 Componente[5,22,4]
+   - 100 Componente[5,23,0] - 100 Componente[5,23,1]
+   - 100 Componente[5,23,2] - 100 Componente[5,23,3]
+   - 100 Componente[5,23,4] - 450 Componente[5,24,0]
+   - 450 Componente[5,24,1] - 450 Componente[5,24,2]
+   - 450 Componente[5,24,3] - 450 Componente[5,24,4]
+   - 300 Componente[5,25,0] - 300 Componente[5,25,1]
+   - 300 Componente[5,25,2] - 300 Componente[5,25,3]
+   - 300 Componente[5,25,4] - 450 Componente[5,26,0]
    - 450 Componente[5,26,1] - 450 Componente[5,26,2]
    - 450 Componente[5,26,3] - 450 Componente[5,26,4]
-   - 300 Componente[5,27,0] - 300 Componente[5,27,1]
-   - 300 Componente[5,27,2] - 300 Componente[5,27,3]
-   - 300 Componente[5,27,4] - 450 Componente[5,28,0]
+   - 100 Componente[5,27,0] - 100 Componente[5,27,1]
+   - 100 Componente[5,27,2] - 100 Componente[5,27,3]
+   - 100 Componente[5,27,4] - 450 Componente[5,28,0]
    - 450 Componente[5,28,1] - 450 Componente[5,28,2]
    - 450 Componente[5,28,3] - 450 Componente[5,28,4]
-   - 100 Componente[5,29,0] - 100 Componente[5,29,1]
-   - 100 Componente[5,29,2] - 100 Componente[5,29,3]
-   - 100 Componente[5,29,4] - 450 Componente[5,30,0]
-   - 450 Componente[5,30,1] - 450 Componente[5,30,2]
-   - 450 Componente[5,30,3] - 450 Componente[5,30,4]
-   - 350 Componente[5,31,0] - 350 Componente[5,31,1]
-   - 350 Componente[5,31,2] - 350 Componente[5,31,3]
-   - 350 Componente[5,31,4] - 125 Componente[5,32,0]
-   - 125 Componente[5,32,1] - 125 Componente[5,32,2]
-   - 125 Componente[5,32,3] - 125 Componente[5,32,4]
-   - 125 Componente[5,33,0] - 125 Componente[5,33,1]
-   - 125 Componente[5,33,2] - 125 Componente[5,33,3]
-   - 125 Componente[5,33,4] - 450 Componente[5,34,0]
+   - 350 Componente[5,29,0] - 350 Componente[5,29,1]
+   - 350 Componente[5,29,2] - 350 Componente[5,29,3]
+   - 350 Componente[5,29,4] - 125 Componente[5,30,0]
+   - 125 Componente[5,30,1] - 125 Componente[5,30,2]
+   - 125 Componente[5,30,3] - 125 Componente[5,30,4]
+   - 125 Componente[5,31,0] - 125 Componente[5,31,1]
+   - 125 Componente[5,31,2] - 125 Componente[5,31,3]
+   - 125 Componente[5,31,4] - 450 Componente[5,32,0]
+   - 450 Componente[5,32,1] - 450 Componente[5,32,2]
+   - 450 Componente[5,32,3] - 450 Componente[5,32,4]
+   - 450 Componente[5,33,0] - 450 Componente[5,33,1]
+   - 450 Componente[5,33,2] - 450 Componente[5,33,3]
+   - 450 Componente[5,33,4] - 450 Componente[5,34,0]
    - 450 Componente[5,34,1] - 450 Componente[5,34,2]
    - 450 Componente[5,34,3] - 450 Componente[5,34,4]
-   - 450 Componente[5,35,0] - 450 Componente[5,35,1]
-   - 450 Componente[5,35,2] - 450 Componente[5,35,3]
-   - 450 Componente[5,35,4] - 450 Componente[5,36,0]
+   - 120 Componente[5,35,0] - 120 Componente[5,35,1]
+   - 120 Componente[5,35,2] - 120 Componente[5,35,3]
+   - 120 Componente[5,35,4] - 450 Componente[5,36,0]
    - 450 Componente[5,36,1] - 450 Componente[5,36,2]
    - 450 Componente[5,36,3] - 450 Componente[5,36,4]
-   - 120 Componente[5,37,0] - 120 Componente[5,37,1]
-   - 120 Componente[5,37,2] - 120 Componente[5,37,3]
-   - 120 Componente[5,37,4] - 450 Componente[5,38,0]
-   - 450 Componente[5,38,1] - 450 Componente[5,38,2]
-   - 450 Componente[5,38,3] - 450 Componente[5,38,4]
-   - 450 Componente[5,39,0] - 450 Componente[5,39,1]
-   - 450 Componente[5,39,2] - 450 Componente[5,39,3]
-   - 450 Componente[5,39,4] - 130 Componente[5,40,0]
-   - 130 Componente[5,40,1] - 130 Componente[5,40,2]
-   - 130 Componente[5,40,3] - 130 Componente[5,40,4] >= 0
+   - 130 Componente[5,37,0] - 130 Componente[5,37,1]
+   - 130 Componente[5,37,2] - 130 Componente[5,37,3]
+   - 130 Componente[5,37,4] >= 0
  cobrar_envio[0]: Componente[0,0,0] + Componente[0,1,0] + Componente[0,2,0]
    + Componente[0,3,0] + Componente[0,4,0] + Componente[0,5,0]
    + Componente[0,6,0] + Componente[0,7,0] + Componente[0,8,0]
@@ -1000,23 +1108,30 @@ Subject To
    + Componente[3,9,0] + Componente[3,10,0] + Componente[3,11,0]
    + Componente[3,12,0] + Componente[3,13,0] + Componente[3,14,0]
    + Componente[3,15,0] + Componente[3,16,0] + Componente[3,17,0]
-   + Componente[3,18,0] + Componente[3,19,0] + Componente[4,0,0]
-   + Componente[4,1,0] + Componente[4,2,0] + Componente[4,3,0]
-   + Componente[4,4,0] + Componente[4,5,0] + Componente[4,6,0]
-   + Componente[4,7,0] + Componente[5,0,0] + Componente[5,1,0]
-   + Componente[5,2,0] + Componente[5,3,0] + Componente[5,4,0]
-   + Componente[5,5,0] + Componente[5,6,0] + Componente[5,7,0]
-   + Componente[5,8,0] + Componente[5,9,0] + Componente[5,10,0]
-   + Componente[5,11,0] + Componente[5,12,0] + Componente[5,13,0]
-   + Componente[5,14,0] + Componente[5,15,0] + Componente[5,16,0]
-   + Componente[5,17,0] + Componente[5,18,0] + Componente[5,19,0]
-   + Componente[5,20,0] + Componente[5,21,0] + Componente[5,22,0]
-   + Componente[5,23,0] + Componente[5,24,0] + Componente[5,25,0]
-   + Componente[5,26,0] + Componente[5,27,0] + Componente[5,28,0]
-   + Componente[5,29,0] + Componente[5,30,0] + Componente[5,31,0]
-   + Componente[5,32,0] + Componente[5,33,0] + Componente[5,34,0]
-   + Componente[5,35,0] + Componente[5,36,0] + Componente[5,37,0]
-   + Componente[5,38,0] + Componente[5,39,0] + Componente[5,40,0]
+   + Componente[3,18,0] + Componente[3,19,0] + Componente[3,20,0]
+   + Componente[3,21,0] + Componente[3,22,0] + Componente[3,23,0]
+   + Componente[3,24,0] + Componente[3,25,0] + Componente[3,26,0]
+   + Componente[3,27,0] + Componente[4,0,0] + Componente[4,1,0]
+   + Componente[4,2,0] + Componente[4,3,0] + Componente[4,4,0]
+   + Componente[4,5,0] + Componente[4,6,0] + Componente[5,0,0]
+   + Componente[5,1,0] + Componente[5,2,0] + Componente[5,3,0]
+   + Componente[5,4,0] + Componente[5,5,0] + Componente[5,6,0]
+   + Componente[5,7,0] + Componente[5,8,0] + Componente[5,9,0]
+   + Componente[5,10,0] + Componente[5,11,0] + Componente[5,12,0]
+   + Componente[5,13,0] + Componente[5,14,0] + Componente[5,15,0]
+   + Componente[5,16,0] + Componente[5,17,0] + Componente[5,18,0]
+   + Componente[5,19,0] + Componente[5,20,0] + Componente[5,21,0]
+   + Componente[5,22,0] + Componente[5,23,0] + Componente[5,24,0]
+   + Componente[5,25,0] + Componente[5,26,0] + Componente[5,27,0]
+   + Componente[5,28,0] + Componente[5,29,0] + Componente[5,30,0]
+   + Componente[5,31,0] + Componente[5,32,0] + Componente[5,33,0]
+   + Componente[5,34,0] + Componente[5,35,0] + Componente[5,36,0]
+   + Componente[5,37,0] + Componente[6,0,0] + Componente[6,1,0]
+   + Componente[6,2,0] + Componente[6,3,0] + Componente[6,4,0]
+   + Componente[6,5,0] + Componente[6,6,0] + Componente[6,7,0]
+   + Componente[6,8,0] + Componente[6,9,0] + Componente[6,10,0]
+   + Componente[6,11,0] + Componente[6,12,0] + Componente[6,13,0]
+   + Componente[6,14,0] + Componente[6,15,0] + Componente[6,16,0]
    - 1e+10 envio[0] <= 0
  cobrar_envio[1]: Componente[0,0,1] + Componente[0,1,1] + Componente[0,2,1]
    + Componente[0,3,1] + Componente[0,4,1] + Componente[0,5,1]
@@ -1044,23 +1159,30 @@ Subject To
    + Componente[3,9,1] + Componente[3,10,1] + Componente[3,11,1]
    + Componente[3,12,1] + Componente[3,13,1] + Componente[3,14,1]
    + Componente[3,15,1] + Componente[3,16,1] + Componente[3,17,1]
-   + Componente[3,18,1] + Componente[3,19,1] + Componente[4,0,1]
-   + Componente[4,1,1] + Componente[4,2,1] + Componente[4,3,1]
-   + Componente[4,4,1] + Componente[4,5,1] + Componente[4,6,1]
-   + Componente[4,7,1] + Componente[5,0,1] + Componente[5,1,1]
-   + Componente[5,2,1] + Componente[5,3,1] + Componente[5,4,1]
-   + Componente[5,5,1] + Componente[5,6,1] + Componente[5,7,1]
-   + Componente[5,8,1] + Componente[5,9,1] + Componente[5,10,1]
-   + Componente[5,11,1] + Componente[5,12,1] + Componente[5,13,1]
-   + Componente[5,14,1] + Componente[5,15,1] + Componente[5,16,1]
-   + Componente[5,17,1] + Componente[5,18,1] + Componente[5,19,1]
-   + Componente[5,20,1] + Componente[5,21,1] + Componente[5,22,1]
-   + Componente[5,23,1] + Componente[5,24,1] + Componente[5,25,1]
-   + Componente[5,26,1] + Componente[5,27,1] + Componente[5,28,1]
-   + Componente[5,29,1] + Componente[5,30,1] + Componente[5,31,1]
-   + Componente[5,32,1] + Componente[5,33,1] + Componente[5,34,1]
-   + Componente[5,35,1] + Componente[5,36,1] + Componente[5,37,1]
-   + Componente[5,38,1] + Componente[5,39,1] + Componente[5,40,1]
+   + Componente[3,18,1] + Componente[3,19,1] + Componente[3,20,1]
+   + Componente[3,21,1] + Componente[3,22,1] + Componente[3,23,1]
+   + Componente[3,24,1] + Componente[3,25,1] + Componente[3,26,1]
+   + Componente[3,27,1] + Componente[4,0,1] + Componente[4,1,1]
+   + Componente[4,2,1] + Componente[4,3,1] + Componente[4,4,1]
+   + Componente[4,5,1] + Componente[4,6,1] + Componente[5,0,1]
+   + Componente[5,1,1] + Componente[5,2,1] + Componente[5,3,1]
+   + Componente[5,4,1] + Componente[5,5,1] + Componente[5,6,1]
+   + Componente[5,7,1] + Componente[5,8,1] + Componente[5,9,1]
+   + Componente[5,10,1] + Componente[5,11,1] + Componente[5,12,1]
+   + Componente[5,13,1] + Componente[5,14,1] + Componente[5,15,1]
+   + Componente[5,16,1] + Componente[5,17,1] + Componente[5,18,1]
+   + Componente[5,19,1] + Componente[5,20,1] + Componente[5,21,1]
+   + Componente[5,22,1] + Componente[5,23,1] + Componente[5,24,1]
+   + Componente[5,25,1] + Componente[5,26,1] + Componente[5,27,1]
+   + Componente[5,28,1] + Componente[5,29,1] + Componente[5,30,1]
+   + Componente[5,31,1] + Componente[5,32,1] + Componente[5,33,1]
+   + Componente[5,34,1] + Componente[5,35,1] + Componente[5,36,1]
+   + Componente[5,37,1] + Componente[6,0,1] + Componente[6,1,1]
+   + Componente[6,2,1] + Componente[6,3,1] + Componente[6,4,1]
+   + Componente[6,5,1] + Componente[6,6,1] + Componente[6,7,1]
+   + Componente[6,8,1] + Componente[6,9,1] + Componente[6,10,1]
+   + Componente[6,11,1] + Componente[6,12,1] + Componente[6,13,1]
+   + Componente[6,14,1] + Componente[6,15,1] + Componente[6,16,1]
    - 1e+10 envio[1] <= 0
  cobrar_envio[2]: Componente[0,0,2] + Componente[0,1,2] + Componente[0,2,2]
    + Componente[0,3,2] + Componente[0,4,2] + Componente[0,5,2]
@@ -1088,23 +1210,30 @@ Subject To
    + Componente[3,9,2] + Componente[3,10,2] + Componente[3,11,2]
    + Componente[3,12,2] + Componente[3,13,2] + Componente[3,14,2]
    + Componente[3,15,2] + Componente[3,16,2] + Componente[3,17,2]
-   + Componente[3,18,2] + Componente[3,19,2] + Componente[4,0,2]
-   + Componente[4,1,2] + Componente[4,2,2] + Componente[4,3,2]
-   + Componente[4,4,2] + Componente[4,5,2] + Componente[4,6,2]
-   + Componente[4,7,2] + Componente[5,0,2] + Componente[5,1,2]
-   + Componente[5,2,2] + Componente[5,3,2] + Componente[5,4,2]
-   + Componente[5,5,2] + Componente[5,6,2] + Componente[5,7,2]
-   + Componente[5,8,2] + Componente[5,9,2] + Componente[5,10,2]
-   + Componente[5,11,2] + Componente[5,12,2] + Componente[5,13,2]
-   + Componente[5,14,2] + Componente[5,15,2] + Componente[5,16,2]
-   + Componente[5,17,2] + Componente[5,18,2] + Componente[5,19,2]
-   + Componente[5,20,2] + Componente[5,21,2] + Componente[5,22,2]
-   + Componente[5,23,2] + Componente[5,24,2] + Componente[5,25,2]
-   + Componente[5,26,2] + Componente[5,27,2] + Componente[5,28,2]
-   + Componente[5,29,2] + Componente[5,30,2] + Componente[5,31,2]
-   + Componente[5,32,2] + Componente[5,33,2] + Componente[5,34,2]
-   + Componente[5,35,2] + Componente[5,36,2] + Componente[5,37,2]
-   + Componente[5,38,2] + Componente[5,39,2] + Componente[5,40,2]
+   + Componente[3,18,2] + Componente[3,19,2] + Componente[3,20,2]
+   + Componente[3,21,2] + Componente[3,22,2] + Componente[3,23,2]
+   + Componente[3,24,2] + Componente[3,25,2] + Componente[3,26,2]
+   + Componente[3,27,2] + Componente[4,0,2] + Componente[4,1,2]
+   + Componente[4,2,2] + Componente[4,3,2] + Componente[4,4,2]
+   + Componente[4,5,2] + Componente[4,6,2] + Componente[5,0,2]
+   + Componente[5,1,2] + Componente[5,2,2] + Componente[5,3,2]
+   + Componente[5,4,2] + Componente[5,5,2] + Componente[5,6,2]
+   + Componente[5,7,2] + Componente[5,8,2] + Componente[5,9,2]
+   + Componente[5,10,2] + Componente[5,11,2] + Componente[5,12,2]
+   + Componente[5,13,2] + Componente[5,14,2] + Componente[5,15,2]
+   + Componente[5,16,2] + Componente[5,17,2] + Componente[5,18,2]
+   + Componente[5,19,2] + Componente[5,20,2] + Componente[5,21,2]
+   + Componente[5,22,2] + Componente[5,23,2] + Componente[5,24,2]
+   + Componente[5,25,2] + Componente[5,26,2] + Componente[5,27,2]
+   + Componente[5,28,2] + Componente[5,29,2] + Componente[5,30,2]
+   + Componente[5,31,2] + Componente[5,32,2] + Componente[5,33,2]
+   + Componente[5,34,2] + Componente[5,35,2] + Componente[5,36,2]
+   + Componente[5,37,2] + Componente[6,0,2] + Componente[6,1,2]
+   + Componente[6,2,2] + Componente[6,3,2] + Componente[6,4,2]
+   + Componente[6,5,2] + Componente[6,6,2] + Componente[6,7,2]
+   + Componente[6,8,2] + Componente[6,9,2] + Componente[6,10,2]
+   + Componente[6,11,2] + Componente[6,12,2] + Componente[6,13,2]
+   + Componente[6,14,2] + Componente[6,15,2] + Componente[6,16,2]
    - 1e+10 envio[2] <= 0
  cobrar_envio[3]: Componente[0,0,3] + Componente[0,1,3] + Componente[0,2,3]
    + Componente[0,3,3] + Componente[0,4,3] + Componente[0,5,3]
@@ -1132,23 +1261,30 @@ Subject To
    + Componente[3,9,3] + Componente[3,10,3] + Componente[3,11,3]
    + Componente[3,12,3] + Componente[3,13,3] + Componente[3,14,3]
    + Componente[3,15,3] + Componente[3,16,3] + Componente[3,17,3]
-   + Componente[3,18,3] + Componente[3,19,3] + Componente[4,0,3]
-   + Componente[4,1,3] + Componente[4,2,3] + Componente[4,3,3]
-   + Componente[4,4,3] + Componente[4,5,3] + Componente[4,6,3]
-   + Componente[4,7,3] + Componente[5,0,3] + Componente[5,1,3]
-   + Componente[5,2,3] + Componente[5,3,3] + Componente[5,4,3]
-   + Componente[5,5,3] + Componente[5,6,3] + Componente[5,7,3]
-   + Componente[5,8,3] + Componente[5,9,3] + Componente[5,10,3]
-   + Componente[5,11,3] + Componente[5,12,3] + Componente[5,13,3]
-   + Componente[5,14,3] + Componente[5,15,3] + Componente[5,16,3]
-   + Componente[5,17,3] + Componente[5,18,3] + Componente[5,19,3]
-   + Componente[5,20,3] + Componente[5,21,3] + Componente[5,22,3]
-   + Componente[5,23,3] + Componente[5,24,3] + Componente[5,25,3]
-   + Componente[5,26,3] + Componente[5,27,3] + Componente[5,28,3]
-   + Componente[5,29,3] + Componente[5,30,3] + Componente[5,31,3]
-   + Componente[5,32,3] + Componente[5,33,3] + Componente[5,34,3]
-   + Componente[5,35,3] + Componente[5,36,3] + Componente[5,37,3]
-   + Componente[5,38,3] + Componente[5,39,3] + Componente[5,40,3]
+   + Componente[3,18,3] + Componente[3,19,3] + Componente[3,20,3]
+   + Componente[3,21,3] + Componente[3,22,3] + Componente[3,23,3]
+   + Componente[3,24,3] + Componente[3,25,3] + Componente[3,26,3]
+   + Componente[3,27,3] + Componente[4,0,3] + Componente[4,1,3]
+   + Componente[4,2,3] + Componente[4,3,3] + Componente[4,4,3]
+   + Componente[4,5,3] + Componente[4,6,3] + Componente[5,0,3]
+   + Componente[5,1,3] + Componente[5,2,3] + Componente[5,3,3]
+   + Componente[5,4,3] + Componente[5,5,3] + Componente[5,6,3]
+   + Componente[5,7,3] + Componente[5,8,3] + Componente[5,9,3]
+   + Componente[5,10,3] + Componente[5,11,3] + Componente[5,12,3]
+   + Componente[5,13,3] + Componente[5,14,3] + Componente[5,15,3]
+   + Componente[5,16,3] + Componente[5,17,3] + Componente[5,18,3]
+   + Componente[5,19,3] + Componente[5,20,3] + Componente[5,21,3]
+   + Componente[5,22,3] + Componente[5,23,3] + Componente[5,24,3]
+   + Componente[5,25,3] + Componente[5,26,3] + Componente[5,27,3]
+   + Componente[5,28,3] + Componente[5,29,3] + Componente[5,30,3]
+   + Componente[5,31,3] + Componente[5,32,3] + Componente[5,33,3]
+   + Componente[5,34,3] + Componente[5,35,3] + Componente[5,36,3]
+   + Componente[5,37,3] + Componente[6,0,3] + Componente[6,1,3]
+   + Componente[6,2,3] + Componente[6,3,3] + Componente[6,4,3]
+   + Componente[6,5,3] + Componente[6,6,3] + Componente[6,7,3]
+   + Componente[6,8,3] + Componente[6,9,3] + Componente[6,10,3]
+   + Componente[6,11,3] + Componente[6,12,3] + Componente[6,13,3]
+   + Componente[6,14,3] + Componente[6,15,3] + Componente[6,16,3]
    - 1e+10 envio[3] <= 0
  cobrar_envio[4]: Componente[0,0,4] + Componente[0,1,4] + Componente[0,2,4]
    + Componente[0,3,4] + Componente[0,4,4] + Componente[0,5,4]
@@ -1176,23 +1312,30 @@ Subject To
    + Componente[3,9,4] + Componente[3,10,4] + Componente[3,11,4]
    + Componente[3,12,4] + Componente[3,13,4] + Componente[3,14,4]
    + Componente[3,15,4] + Componente[3,16,4] + Componente[3,17,4]
-   + Componente[3,18,4] + Componente[3,19,4] + Componente[4,0,4]
-   + Componente[4,1,4] + Componente[4,2,4] + Componente[4,3,4]
-   + Componente[4,4,4] + Componente[4,5,4] + Componente[4,6,4]
-   + Componente[4,7,4] + Componente[5,0,4] + Componente[5,1,4]
-   + Componente[5,2,4] + Componente[5,3,4] + Componente[5,4,4]
-   + Componente[5,5,4] + Componente[5,6,4] + Componente[5,7,4]
-   + Componente[5,8,4] + Componente[5,9,4] + Componente[5,10,4]
-   + Componente[5,11,4] + Componente[5,12,4] + Componente[5,13,4]
-   + Componente[5,14,4] + Componente[5,15,4] + Componente[5,16,4]
-   + Componente[5,17,4] + Componente[5,18,4] + Componente[5,19,4]
-   + Componente[5,20,4] + Componente[5,21,4] + Componente[5,22,4]
-   + Componente[5,23,4] + Componente[5,24,4] + Componente[5,25,4]
-   + Componente[5,26,4] + Componente[5,27,4] + Componente[5,28,4]
-   + Componente[5,29,4] + Componente[5,30,4] + Componente[5,31,4]
-   + Componente[5,32,4] + Componente[5,33,4] + Componente[5,34,4]
-   + Componente[5,35,4] + Componente[5,36,4] + Componente[5,37,4]
-   + Componente[5,38,4] + Componente[5,39,4] + Componente[5,40,4]
+   + Componente[3,18,4] + Componente[3,19,4] + Componente[3,20,4]
+   + Componente[3,21,4] + Componente[3,22,4] + Componente[3,23,4]
+   + Componente[3,24,4] + Componente[3,25,4] + Componente[3,26,4]
+   + Componente[3,27,4] + Componente[4,0,4] + Componente[4,1,4]
+   + Componente[4,2,4] + Componente[4,3,4] + Componente[4,4,4]
+   + Componente[4,5,4] + Componente[4,6,4] + Componente[5,0,4]
+   + Componente[5,1,4] + Componente[5,2,4] + Componente[5,3,4]
+   + Componente[5,4,4] + Componente[5,5,4] + Componente[5,6,4]
+   + Componente[5,7,4] + Componente[5,8,4] + Componente[5,9,4]
+   + Componente[5,10,4] + Componente[5,11,4] + Componente[5,12,4]
+   + Componente[5,13,4] + Componente[5,14,4] + Componente[5,15,4]
+   + Componente[5,16,4] + Componente[5,17,4] + Componente[5,18,4]
+   + Componente[5,19,4] + Componente[5,20,4] + Componente[5,21,4]
+   + Componente[5,22,4] + Componente[5,23,4] + Componente[5,24,4]
+   + Componente[5,25,4] + Componente[5,26,4] + Componente[5,27,4]
+   + Componente[5,28,4] + Componente[5,29,4] + Componente[5,30,4]
+   + Componente[5,31,4] + Componente[5,32,4] + Componente[5,33,4]
+   + Componente[5,34,4] + Componente[5,35,4] + Componente[5,36,4]
+   + Componente[5,37,4] + Componente[6,0,4] + Componente[6,1,4]
+   + Componente[6,2,4] + Componente[6,3,4] + Componente[6,4,4]
+   + Componente[6,5,4] + Componente[6,6,4] + Componente[6,7,4]
+   + Componente[6,8,4] + Componente[6,9,4] + Componente[6,10,4]
+   + Componente[6,11,4] + Componente[6,12,4] + Componente[6,13,4]
+   + Componente[6,14,4] + Componente[6,15,4] + Componente[6,16,4]
    - 1e+10 envio[4] <= 0
  Envio_gratis[0]: 34990 Componente[0,0,0] + 57890 Componente[0,1,0]
    + 57890 Componente[0,2,0] + 57890 Componente[0,3,0]
@@ -1234,31 +1377,42 @@ Subject To
    + 199990 Componente[3,14,0] + 219990 Componente[3,15,0]
    + 219990 Componente[3,16,0] + 229990 Componente[3,17,0]
    + 229990 Componente[3,18,0] + 494690 Componente[3,19,0]
-   + 17990 Componente[4,0,0] + 18990 Componente[4,1,0]
-   + 29990 Componente[4,2,0] + 49990 Componente[4,3,0]
-   + 69990 Componente[4,4,0] + 89990 Componente[4,5,0]
-   + 92990 Componente[4,6,0] + 389990 Componente[4,7,0]
-   + 49990 Componente[5,0,0] + 52190 Componente[5,1,0]
-   + 54990 Componente[5,2,0] + 59990 Componente[5,3,0]
-   + 59990 Componente[5,4,0] + 64990 Componente[5,5,0]
-   + 139990 Componente[5,6,0] + 163390 Componente[5,7,0]
-   + 169990 Componente[5,8,0] + 171690 Componente[5,9,0]
-   + 179990 Componente[5,10,0] + 199990 Componente[5,11,0]
-   + 199990 Componente[5,12,0] + 209990 Componente[5,13,0]
-   + 209990 Componente[5,14,0] + 219990 Componente[5,15,0]
-   + 219990 Componente[5,16,0] + 239990 Componente[5,17,0]
-   + 239990 Componente[5,18,0] + 239990 Componente[5,19,0]
-   + 239990 Componente[5,20,0] + 239990 Componente[5,21,0]
-   + 249990 Componente[5,22,0] + 249990 Componente[5,23,0]
-   + 254990 Componente[5,24,0] + 256490 Componente[5,25,0]
-   + 259990 Componente[5,26,0] + 269990 Componente[5,27,0]
-   + 269990 Componente[5,28,0] + 269990 Componente[5,29,0]
-   + 269990 Componente[5,30,0] + 269990 Componente[5,31,0]
-   + 289990 Componente[5,32,0] + 299990 Componente[5,33,0]
-   + 299990 Componente[5,34,0] + 309990 Componente[5,35,0]
-   + 369990 Componente[5,36,0] + 369990 Componente[5,37,0]
-   + 374990 Componente[5,38,0] + 379990 Componente[5,39,0]
-   + 379990 Componente[5,40,0] - envio_gratis[0] >= 0
+   + 249999 Componente[3,20,0] + 267990 Componente[3,21,0]
+   + 288690 Componente[3,22,0] + 299990 Componente[3,23,0]
+   + 315790 Componente[3,24,0] + 326290 Componente[3,25,0]
+   + 381490 Componente[3,26,0] + 391970 Componente[3,27,0]
+   + 18990 Componente[4,0,0] + 29990 Componente[4,1,0]
+   + 49990 Componente[4,2,0] + 69990 Componente[4,3,0]
+   + 89990 Componente[4,4,0] + 92990 Componente[4,5,0]
+   + 389990 Componente[4,6,0] + 49990 Componente[5,0,0]
+   + 52190 Componente[5,1,0] + 54990 Componente[5,2,0]
+   + 59990 Componente[5,3,0] + 64990 Componente[5,4,0]
+   + 139990 Componente[5,5,0] + 163390 Componente[5,6,0]
+   + 169990 Componente[5,7,0] + 171690 Componente[5,8,0]
+   + 199990 Componente[5,9,0] + 199990 Componente[5,10,0]
+   + 209990 Componente[5,11,0] + 209990 Componente[5,12,0]
+   + 219990 Componente[5,13,0] + 219990 Componente[5,14,0]
+   + 239990 Componente[5,15,0] + 239990 Componente[5,16,0]
+   + 239990 Componente[5,17,0] + 239990 Componente[5,18,0]
+   + 239990 Componente[5,19,0] + 249990 Componente[5,20,0]
+   + 249990 Componente[5,21,0] + 254990 Componente[5,22,0]
+   + 256490 Componente[5,23,0] + 259990 Componente[5,24,0]
+   + 269990 Componente[5,25,0] + 269990 Componente[5,26,0]
+   + 269990 Componente[5,27,0] + 269990 Componente[5,28,0]
+   + 269990 Componente[5,29,0] + 289990 Componente[5,30,0]
+   + 299990 Componente[5,31,0] + 299990 Componente[5,32,0]
+   + 309990 Componente[5,33,0] + 369990 Componente[5,34,0]
+   + 369990 Componente[5,35,0] + 374990 Componente[5,36,0]
+   + 379990 Componente[5,37,0] + 29990 Componente[6,0,0]
+   + 59990 Componente[6,1,0] + 62990 Componente[6,2,0]
+   + 69990 Componente[6,3,0] + 75990 Componente[6,4,0]
+   + 77990 Componente[6,5,0] + 79990 Componente[6,6,0]
+   + 79990 Componente[6,7,0] + 99990 Componente[6,8,0]
+   + 109990 Componente[6,9,0] + 129990 Componente[6,10,0]
+   + 149990 Componente[6,11,0] + 149990 Componente[6,12,0]
+   + 149990 Componente[6,13,0] + 199990 Componente[6,14,0]
+   + 229990 Componente[6,15,0] + 289990 Componente[6,16,0]
+   - envio_gratis[0] >= 0
  Envio_gratis[1]: 34990 Componente[0,0,1] + 57890 Componente[0,1,1]
    + 57890 Componente[0,2,1] + 57890 Componente[0,3,1]
    + 73690 Componente[0,4,1] + 84190 Componente[0,5,1]
@@ -1299,31 +1453,42 @@ Subject To
    + 199990 Componente[3,14,1] + 219990 Componente[3,15,1]
    + 219990 Componente[3,16,1] + 229990 Componente[3,17,1]
    + 229990 Componente[3,18,1] + 494690 Componente[3,19,1]
-   + 17990 Componente[4,0,1] + 18990 Componente[4,1,1]
-   + 29990 Componente[4,2,1] + 49990 Componente[4,3,1]
-   + 69990 Componente[4,4,1] + 89990 Componente[4,5,1]
-   + 92990 Componente[4,6,1] + 389990 Componente[4,7,1]
-   + 49990 Componente[5,0,1] + 52190 Componente[5,1,1]
-   + 54990 Componente[5,2,1] + 59990 Componente[5,3,1]
-   + 59990 Componente[5,4,1] + 64990 Componente[5,5,1]
-   + 139990 Componente[5,6,1] + 163390 Componente[5,7,1]
-   + 169990 Componente[5,8,1] + 171690 Componente[5,9,1]
-   + 179990 Componente[5,10,1] + 199990 Componente[5,11,1]
-   + 199990 Componente[5,12,1] + 209990 Componente[5,13,1]
-   + 209990 Componente[5,14,1] + 219990 Componente[5,15,1]
-   + 219990 Componente[5,16,1] + 239990 Componente[5,17,1]
-   + 239990 Componente[5,18,1] + 239990 Componente[5,19,1]
-   + 239990 Componente[5,20,1] + 239990 Componente[5,21,1]
-   + 249990 Componente[5,22,1] + 249990 Componente[5,23,1]
-   + 254990 Componente[5,24,1] + 256490 Componente[5,25,1]
-   + 259990 Componente[5,26,1] + 269990 Componente[5,27,1]
-   + 269990 Componente[5,28,1] + 269990 Componente[5,29,1]
-   + 269990 Componente[5,30,1] + 269990 Componente[5,31,1]
-   + 289990 Componente[5,32,1] + 299990 Componente[5,33,1]
-   + 299990 Componente[5,34,1] + 309990 Componente[5,35,1]
-   + 369990 Componente[5,36,1] + 369990 Componente[5,37,1]
-   + 374990 Componente[5,38,1] + 379990 Componente[5,39,1]
-   + 379990 Componente[5,40,1] - envio_gratis[1] >= 0
+   + 249999 Componente[3,20,1] + 267990 Componente[3,21,1]
+   + 288690 Componente[3,22,1] + 299990 Componente[3,23,1]
+   + 315790 Componente[3,24,1] + 326290 Componente[3,25,1]
+   + 381490 Componente[3,26,1] + 391970 Componente[3,27,1]
+   + 18990 Componente[4,0,1] + 29990 Componente[4,1,1]
+   + 49990 Componente[4,2,1] + 69990 Componente[4,3,1]
+   + 89990 Componente[4,4,1] + 92990 Componente[4,5,1]
+   + 389990 Componente[4,6,1] + 49990 Componente[5,0,1]
+   + 52190 Componente[5,1,1] + 54990 Componente[5,2,1]
+   + 59990 Componente[5,3,1] + 64990 Componente[5,4,1]
+   + 139990 Componente[5,5,1] + 163390 Componente[5,6,1]
+   + 169990 Componente[5,7,1] + 171690 Componente[5,8,1]
+   + 199990 Componente[5,9,1] + 199990 Componente[5,10,1]
+   + 209990 Componente[5,11,1] + 209990 Componente[5,12,1]
+   + 219990 Componente[5,13,1] + 219990 Componente[5,14,1]
+   + 239990 Componente[5,15,1] + 239990 Componente[5,16,1]
+   + 239990 Componente[5,17,1] + 239990 Componente[5,18,1]
+   + 239990 Componente[5,19,1] + 249990 Componente[5,20,1]
+   + 249990 Componente[5,21,1] + 254990 Componente[5,22,1]
+   + 256490 Componente[5,23,1] + 259990 Componente[5,24,1]
+   + 269990 Componente[5,25,1] + 269990 Componente[5,26,1]
+   + 269990 Componente[5,27,1] + 269990 Componente[5,28,1]
+   + 269990 Componente[5,29,1] + 289990 Componente[5,30,1]
+   + 299990 Componente[5,31,1] + 299990 Componente[5,32,1]
+   + 309990 Componente[5,33,1] + 369990 Componente[5,34,1]
+   + 369990 Componente[5,35,1] + 374990 Componente[5,36,1]
+   + 379990 Componente[5,37,1] + 29990 Componente[6,0,1]
+   + 59990 Componente[6,1,1] + 62990 Componente[6,2,1]
+   + 69990 Componente[6,3,1] + 75990 Componente[6,4,1]
+   + 77990 Componente[6,5,1] + 79990 Componente[6,6,1]
+   + 79990 Componente[6,7,1] + 99990 Componente[6,8,1]
+   + 109990 Componente[6,9,1] + 129990 Componente[6,10,1]
+   + 149990 Componente[6,11,1] + 149990 Componente[6,12,1]
+   + 149990 Componente[6,13,1] + 199990 Componente[6,14,1]
+   + 229990 Componente[6,15,1] + 289990 Componente[6,16,1]
+   - envio_gratis[1] >= 0
  Envio_gratis[2]: 34990 Componente[0,0,2] + 57890 Componente[0,1,2]
    + 57890 Componente[0,2,2] + 57890 Componente[0,3,2]
    + 73690 Componente[0,4,2] + 84190 Componente[0,5,2]
@@ -1364,31 +1529,42 @@ Subject To
    + 199990 Componente[3,14,2] + 219990 Componente[3,15,2]
    + 219990 Componente[3,16,2] + 229990 Componente[3,17,2]
    + 229990 Componente[3,18,2] + 494690 Componente[3,19,2]
-   + 17990 Componente[4,0,2] + 18990 Componente[4,1,2]
-   + 29990 Componente[4,2,2] + 49990 Componente[4,3,2]
-   + 69990 Componente[4,4,2] + 89990 Componente[4,5,2]
-   + 92990 Componente[4,6,2] + 389990 Componente[4,7,2]
-   + 49990 Componente[5,0,2] + 52190 Componente[5,1,2]
-   + 54990 Componente[5,2,2] + 59990 Componente[5,3,2]
-   + 59990 Componente[5,4,2] + 64990 Componente[5,5,2]
-   + 139990 Componente[5,6,2] + 163390 Componente[5,7,2]
-   + 169990 Componente[5,8,2] + 171690 Componente[5,9,2]
-   + 179990 Componente[5,10,2] + 199990 Componente[5,11,2]
-   + 199990 Componente[5,12,2] + 209990 Componente[5,13,2]
-   + 209990 Componente[5,14,2] + 219990 Componente[5,15,2]
-   + 219990 Componente[5,16,2] + 239990 Componente[5,17,2]
-   + 239990 Componente[5,18,2] + 239990 Componente[5,19,2]
-   + 239990 Componente[5,20,2] + 239990 Componente[5,21,2]
-   + 249990 Componente[5,22,2] + 249990 Componente[5,23,2]
-   + 254990 Componente[5,24,2] + 256490 Componente[5,25,2]
-   + 259990 Componente[5,26,2] + 269990 Componente[5,27,2]
-   + 269990 Componente[5,28,2] + 269990 Componente[5,29,2]
-   + 269990 Componente[5,30,2] + 269990 Componente[5,31,2]
-   + 289990 Componente[5,32,2] + 299990 Componente[5,33,2]
-   + 299990 Componente[5,34,2] + 309990 Componente[5,35,2]
-   + 369990 Componente[5,36,2] + 369990 Componente[5,37,2]
-   + 374990 Componente[5,38,2] + 379990 Componente[5,39,2]
-   + 379990 Componente[5,40,2] - envio_gratis[2] >= 0
+   + 249999 Componente[3,20,2] + 267990 Componente[3,21,2]
+   + 288690 Componente[3,22,2] + 299990 Componente[3,23,2]
+   + 315790 Componente[3,24,2] + 326290 Componente[3,25,2]
+   + 381490 Componente[3,26,2] + 391970 Componente[3,27,2]
+   + 18990 Componente[4,0,2] + 29990 Componente[4,1,2]
+   + 49990 Componente[4,2,2] + 69990 Componente[4,3,2]
+   + 89990 Componente[4,4,2] + 92990 Componente[4,5,2]
+   + 389990 Componente[4,6,2] + 49990 Componente[5,0,2]
+   + 52190 Componente[5,1,2] + 54990 Componente[5,2,2]
+   + 59990 Componente[5,3,2] + 64990 Componente[5,4,2]
+   + 139990 Componente[5,5,2] + 163390 Componente[5,6,2]
+   + 169990 Componente[5,7,2] + 171690 Componente[5,8,2]
+   + 199990 Componente[5,9,2] + 199990 Componente[5,10,2]
+   + 209990 Componente[5,11,2] + 209990 Componente[5,12,2]
+   + 219990 Componente[5,13,2] + 219990 Componente[5,14,2]
+   + 239990 Componente[5,15,2] + 239990 Componente[5,16,2]
+   + 239990 Componente[5,17,2] + 239990 Componente[5,18,2]
+   + 239990 Componente[5,19,2] + 249990 Componente[5,20,2]
+   + 249990 Componente[5,21,2] + 254990 Componente[5,22,2]
+   + 256490 Componente[5,23,2] + 259990 Componente[5,24,2]
+   + 269990 Componente[5,25,2] + 269990 Componente[5,26,2]
+   + 269990 Componente[5,27,2] + 269990 Componente[5,28,2]
+   + 269990 Componente[5,29,2] + 289990 Componente[5,30,2]
+   + 299990 Componente[5,31,2] + 299990 Componente[5,32,2]
+   + 309990 Componente[5,33,2] + 369990 Componente[5,34,2]
+   + 369990 Componente[5,35,2] + 374990 Componente[5,36,2]
+   + 379990 Componente[5,37,2] + 29990 Componente[6,0,2]
+   + 59990 Componente[6,1,2] + 62990 Componente[6,2,2]
+   + 69990 Componente[6,3,2] + 75990 Componente[6,4,2]
+   + 77990 Componente[6,5,2] + 79990 Componente[6,6,2]
+   + 79990 Componente[6,7,2] + 99990 Componente[6,8,2]
+   + 109990 Componente[6,9,2] + 129990 Componente[6,10,2]
+   + 149990 Componente[6,11,2] + 149990 Componente[6,12,2]
+   + 149990 Componente[6,13,2] + 199990 Componente[6,14,2]
+   + 229990 Componente[6,15,2] + 289990 Componente[6,16,2]
+   - envio_gratis[2] >= 0
  Envio_gratis[3]: 34990 Componente[0,0,3] + 57890 Componente[0,1,3]
    + 57890 Componente[0,2,3] + 57890 Componente[0,3,3]
    + 73690 Componente[0,4,3] + 84190 Componente[0,5,3]
@@ -1429,31 +1605,42 @@ Subject To
    + 199990 Componente[3,14,3] + 219990 Componente[3,15,3]
    + 219990 Componente[3,16,3] + 229990 Componente[3,17,3]
    + 229990 Componente[3,18,3] + 494690 Componente[3,19,3]
-   + 17990 Componente[4,0,3] + 18990 Componente[4,1,3]
-   + 29990 Componente[4,2,3] + 49990 Componente[4,3,3]
-   + 69990 Componente[4,4,3] + 89990 Componente[4,5,3]
-   + 92990 Componente[4,6,3] + 389990 Componente[4,7,3]
-   + 49990 Componente[5,0,3] + 52190 Componente[5,1,3]
-   + 54990 Componente[5,2,3] + 59990 Componente[5,3,3]
-   + 59990 Componente[5,4,3] + 64990 Componente[5,5,3]
-   + 139990 Componente[5,6,3] + 163390 Componente[5,7,3]
-   + 169990 Componente[5,8,3] + 171690 Componente[5,9,3]
-   + 179990 Componente[5,10,3] + 199990 Componente[5,11,3]
-   + 199990 Componente[5,12,3] + 209990 Componente[5,13,3]
-   + 209990 Componente[5,14,3] + 219990 Componente[5,15,3]
-   + 219990 Componente[5,16,3] + 239990 Componente[5,17,3]
-   + 239990 Componente[5,18,3] + 239990 Componente[5,19,3]
-   + 239990 Componente[5,20,3] + 239990 Componente[5,21,3]
-   + 249990 Componente[5,22,3] + 249990 Componente[5,23,3]
-   + 254990 Componente[5,24,3] + 256490 Componente[5,25,3]
-   + 259990 Componente[5,26,3] + 269990 Componente[5,27,3]
-   + 269990 Componente[5,28,3] + 269990 Componente[5,29,3]
-   + 269990 Componente[5,30,3] + 269990 Componente[5,31,3]
-   + 289990 Componente[5,32,3] + 299990 Componente[5,33,3]
-   + 299990 Componente[5,34,3] + 309990 Componente[5,35,3]
-   + 369990 Componente[5,36,3] + 369990 Componente[5,37,3]
-   + 374990 Componente[5,38,3] + 379990 Componente[5,39,3]
-   + 379990 Componente[5,40,3] - envio_gratis[3] >= 0
+   + 249999 Componente[3,20,3] + 267990 Componente[3,21,3]
+   + 288690 Componente[3,22,3] + 299990 Componente[3,23,3]
+   + 315790 Componente[3,24,3] + 326290 Componente[3,25,3]
+   + 381490 Componente[3,26,3] + 391970 Componente[3,27,3]
+   + 18990 Componente[4,0,3] + 29990 Componente[4,1,3]
+   + 49990 Componente[4,2,3] + 69990 Componente[4,3,3]
+   + 89990 Componente[4,4,3] + 92990 Componente[4,5,3]
+   + 389990 Componente[4,6,3] + 49990 Componente[5,0,3]
+   + 52190 Componente[5,1,3] + 54990 Componente[5,2,3]
+   + 59990 Componente[5,3,3] + 64990 Componente[5,4,3]
+   + 139990 Componente[5,5,3] + 163390 Componente[5,6,3]
+   + 169990 Componente[5,7,3] + 171690 Componente[5,8,3]
+   + 199990 Componente[5,9,3] + 199990 Componente[5,10,3]
+   + 209990 Componente[5,11,3] + 209990 Componente[5,12,3]
+   + 219990 Componente[5,13,3] + 219990 Componente[5,14,3]
+   + 239990 Componente[5,15,3] + 239990 Componente[5,16,3]
+   + 239990 Componente[5,17,3] + 239990 Componente[5,18,3]
+   + 239990 Componente[5,19,3] + 249990 Componente[5,20,3]
+   + 249990 Componente[5,21,3] + 254990 Componente[5,22,3]
+   + 256490 Componente[5,23,3] + 259990 Componente[5,24,3]
+   + 269990 Componente[5,25,3] + 269990 Componente[5,26,3]
+   + 269990 Componente[5,27,3] + 269990 Componente[5,28,3]
+   + 269990 Componente[5,29,3] + 289990 Componente[5,30,3]
+   + 299990 Componente[5,31,3] + 299990 Componente[5,32,3]
+   + 309990 Componente[5,33,3] + 369990 Componente[5,34,3]
+   + 369990 Componente[5,35,3] + 374990 Componente[5,36,3]
+   + 379990 Componente[5,37,3] + 29990 Componente[6,0,3]
+   + 59990 Componente[6,1,3] + 62990 Componente[6,2,3]
+   + 69990 Componente[6,3,3] + 75990 Componente[6,4,3]
+   + 77990 Componente[6,5,3] + 79990 Componente[6,6,3]
+   + 79990 Componente[6,7,3] + 99990 Componente[6,8,3]
+   + 109990 Componente[6,9,3] + 129990 Componente[6,10,3]
+   + 149990 Componente[6,11,3] + 149990 Componente[6,12,3]
+   + 149990 Componente[6,13,3] + 199990 Componente[6,14,3]
+   + 229990 Componente[6,15,3] + 289990 Componente[6,16,3]
+   - envio_gratis[3] >= 0
  Envio_gratis[4]: 34990 Componente[0,0,4] + 57890 Componente[0,1,4]
    + 57890 Componente[0,2,4] + 57890 Componente[0,3,4]
    + 73690 Componente[0,4,4] + 84190 Componente[0,5,4]
@@ -1494,31 +1681,42 @@ Subject To
    + 199990 Componente[3,14,4] + 219990 Componente[3,15,4]
    + 219990 Componente[3,16,4] + 229990 Componente[3,17,4]
    + 229990 Componente[3,18,4] + 494690 Componente[3,19,4]
-   + 17990 Componente[4,0,4] + 18990 Componente[4,1,4]
-   + 29990 Componente[4,2,4] + 49990 Componente[4,3,4]
-   + 69990 Componente[4,4,4] + 89990 Componente[4,5,4]
-   + 92990 Componente[4,6,4] + 389990 Componente[4,7,4]
-   + 49990 Componente[5,0,4] + 52190 Componente[5,1,4]
-   + 54990 Componente[5,2,4] + 59990 Componente[5,3,4]
-   + 59990 Componente[5,4,4] + 64990 Componente[5,5,4]
-   + 139990 Componente[5,6,4] + 163390 Componente[5,7,4]
-   + 169990 Componente[5,8,4] + 171690 Componente[5,9,4]
-   + 179990 Componente[5,10,4] + 199990 Componente[5,11,4]
-   + 199990 Componente[5,12,4] + 209990 Componente[5,13,4]
-   + 209990 Componente[5,14,4] + 219990 Componente[5,15,4]
-   + 219990 Componente[5,16,4] + 239990 Componente[5,17,4]
-   + 239990 Componente[5,18,4] + 239990 Componente[5,19,4]
-   + 239990 Componente[5,20,4] + 239990 Componente[5,21,4]
-   + 249990 Componente[5,22,4] + 249990 Componente[5,23,4]
-   + 254990 Componente[5,24,4] + 256490 Componente[5,25,4]
-   + 259990 Componente[5,26,4] + 269990 Componente[5,27,4]
-   + 269990 Componente[5,28,4] + 269990 Componente[5,29,4]
-   + 269990 Componente[5,30,4] + 269990 Componente[5,31,4]
-   + 289990 Componente[5,32,4] + 299990 Componente[5,33,4]
-   + 299990 Componente[5,34,4] + 309990 Componente[5,35,4]
-   + 369990 Componente[5,36,4] + 369990 Componente[5,37,4]
-   + 374990 Componente[5,38,4] + 379990 Componente[5,39,4]
-   + 379990 Componente[5,40,4] - envio_gratis[4] >= 0
+   + 249999 Componente[3,20,4] + 267990 Componente[3,21,4]
+   + 288690 Componente[3,22,4] + 299990 Componente[3,23,4]
+   + 315790 Componente[3,24,4] + 326290 Componente[3,25,4]
+   + 381490 Componente[3,26,4] + 391970 Componente[3,27,4]
+   + 18990 Componente[4,0,4] + 29990 Componente[4,1,4]
+   + 49990 Componente[4,2,4] + 69990 Componente[4,3,4]
+   + 89990 Componente[4,4,4] + 92990 Componente[4,5,4]
+   + 389990 Componente[4,6,4] + 49990 Componente[5,0,4]
+   + 52190 Componente[5,1,4] + 54990 Componente[5,2,4]
+   + 59990 Componente[5,3,4] + 64990 Componente[5,4,4]
+   + 139990 Componente[5,5,4] + 163390 Componente[5,6,4]
+   + 169990 Componente[5,7,4] + 171690 Componente[5,8,4]
+   + 199990 Componente[5,9,4] + 199990 Componente[5,10,4]
+   + 209990 Componente[5,11,4] + 209990 Componente[5,12,4]
+   + 219990 Componente[5,13,4] + 219990 Componente[5,14,4]
+   + 239990 Componente[5,15,4] + 239990 Componente[5,16,4]
+   + 239990 Componente[5,17,4] + 239990 Componente[5,18,4]
+   + 239990 Componente[5,19,4] + 249990 Componente[5,20,4]
+   + 249990 Componente[5,21,4] + 254990 Componente[5,22,4]
+   + 256490 Componente[5,23,4] + 259990 Componente[5,24,4]
+   + 269990 Componente[5,25,4] + 269990 Componente[5,26,4]
+   + 269990 Componente[5,27,4] + 269990 Componente[5,28,4]
+   + 269990 Componente[5,29,4] + 289990 Componente[5,30,4]
+   + 299990 Componente[5,31,4] + 299990 Componente[5,32,4]
+   + 309990 Componente[5,33,4] + 369990 Componente[5,34,4]
+   + 369990 Componente[5,35,4] + 374990 Componente[5,36,4]
+   + 379990 Componente[5,37,4] + 29990 Componente[6,0,4]
+   + 59990 Componente[6,1,4] + 62990 Componente[6,2,4]
+   + 69990 Componente[6,3,4] + 75990 Componente[6,4,4]
+   + 77990 Componente[6,5,4] + 79990 Componente[6,6,4]
+   + 79990 Componente[6,7,4] + 99990 Componente[6,8,4]
+   + 109990 Componente[6,9,4] + 129990 Componente[6,10,4]
+   + 149990 Componente[6,11,4] + 149990 Componente[6,12,4]
+   + 149990 Componente[6,13,4] + 199990 Componente[6,14,4]
+   + 229990 Componente[6,15,4] + 289990 Componente[6,16,4]
+   - envio_gratis[4] >= 0
  Compatibilidad_placa_madre[0,1,3]: - 1e+10 Componente[0,0,0]
    - 1e+10 Componente[0,0,1] - 1e+10 Componente[0,0,2]
    - 1e+10 Componente[0,0,3] - 1e+10 Componente[0,0,4] - Componente[1,3,0]
@@ -1649,6 +1847,31 @@ Subject To
    - 1e+10 Componente[0,0,3] - 1e+10 Componente[0,0,4] - Componente[3,16,0]
    - Componente[3,16,1] - Componente[3,16,2] - Componente[3,16,3]
    - Componente[3,16,4] >= -1e+10
+ Compatibilidad_placa_madre[0,3,20]: - 1e+10 Componente[0,0,0]
+   - 1e+10 Componente[0,0,1] - 1e+10 Componente[0,0,2]
+   - 1e+10 Componente[0,0,3] - 1e+10 Componente[0,0,4] - Componente[3,20,0]
+   - Componente[3,20,1] - Componente[3,20,2] - Componente[3,20,3]
+   - Componente[3,20,4] >= -1e+10
+ Compatibilidad_placa_madre[0,3,21]: - 1e+10 Componente[0,0,0]
+   - 1e+10 Componente[0,0,1] - 1e+10 Componente[0,0,2]
+   - 1e+10 Componente[0,0,3] - 1e+10 Componente[0,0,4] - Componente[3,21,0]
+   - Componente[3,21,1] - Componente[3,21,2] - Componente[3,21,3]
+   - Componente[3,21,4] >= -1e+10
+ Compatibilidad_placa_madre[0,3,23]: - 1e+10 Componente[0,0,0]
+   - 1e+10 Componente[0,0,1] - 1e+10 Componente[0,0,2]
+   - 1e+10 Componente[0,0,3] - 1e+10 Componente[0,0,4] - Componente[3,23,0]
+   - Componente[3,23,1] - Componente[3,23,2] - Componente[3,23,3]
+   - Componente[3,23,4] >= -1e+10
+ Compatibilidad_placa_madre[0,3,25]: - 1e+10 Componente[0,0,0]
+   - 1e+10 Componente[0,0,1] - 1e+10 Componente[0,0,2]
+   - 1e+10 Componente[0,0,3] - 1e+10 Componente[0,0,4] - Componente[3,25,0]
+   - Componente[3,25,1] - Componente[3,25,2] - Componente[3,25,3]
+   - Componente[3,25,4] >= -1e+10
+ Compatibilidad_placa_madre[0,3,26]: - 1e+10 Componente[0,0,0]
+   - 1e+10 Componente[0,0,1] - 1e+10 Componente[0,0,2]
+   - 1e+10 Componente[0,0,3] - 1e+10 Componente[0,0,4] - Componente[3,26,0]
+   - Componente[3,26,1] - Componente[3,26,2] - Componente[3,26,3]
+   - Componente[3,26,4] >= -1e+10
  Compatibilidad_placa_madre[1,1,0]: - 1e+10 Componente[0,1,0]
    - 1e+10 Componente[0,1,1] - 1e+10 Componente[0,1,2]
    - 1e+10 Componente[0,1,3] - 1e+10 Componente[0,1,4] - Componente[1,0,0]
@@ -1734,6 +1957,21 @@ Subject To
    - 1e+10 Componente[0,1,3] - 1e+10 Componente[0,1,4] - Componente[3,19,0]
    - Componente[3,19,1] - Componente[3,19,2] - Componente[3,19,3]
    - Componente[3,19,4] >= -1e+10
+ Compatibilidad_placa_madre[1,3,22]: - 1e+10 Componente[0,1,0]
+   - 1e+10 Componente[0,1,1] - 1e+10 Componente[0,1,2]
+   - 1e+10 Componente[0,1,3] - 1e+10 Componente[0,1,4] - Componente[3,22,0]
+   - Componente[3,22,1] - Componente[3,22,2] - Componente[3,22,3]
+   - Componente[3,22,4] >= -1e+10
+ Compatibilidad_placa_madre[1,3,24]: - 1e+10 Componente[0,1,0]
+   - 1e+10 Componente[0,1,1] - 1e+10 Componente[0,1,2]
+   - 1e+10 Componente[0,1,3] - 1e+10 Componente[0,1,4] - Componente[3,24,0]
+   - Componente[3,24,1] - Componente[3,24,2] - Componente[3,24,3]
+   - Componente[3,24,4] >= -1e+10
+ Compatibilidad_placa_madre[1,3,27]: - 1e+10 Componente[0,1,0]
+   - 1e+10 Componente[0,1,1] - 1e+10 Componente[0,1,2]
+   - 1e+10 Componente[0,1,3] - 1e+10 Componente[0,1,4] - Componente[3,27,0]
+   - Componente[3,27,1] - Componente[3,27,2] - Componente[3,27,3]
+   - Componente[3,27,4] >= -1e+10
  Compatibilidad_placa_madre[2,1,0]: - 1e+10 Componente[0,2,0]
    - 1e+10 Componente[0,2,1] - 1e+10 Componente[0,2,2]
    - 1e+10 Componente[0,2,3] - 1e+10 Componente[0,2,4] - Componente[1,0,0]
@@ -1894,6 +2132,31 @@ Subject To
    - 1e+10 Componente[0,2,3] - 1e+10 Componente[0,2,4] - Componente[3,16,0]
    - Componente[3,16,1] - Componente[3,16,2] - Componente[3,16,3]
    - Componente[3,16,4] >= -1e+10
+ Compatibilidad_placa_madre[2,3,20]: - 1e+10 Componente[0,2,0]
+   - 1e+10 Componente[0,2,1] - 1e+10 Componente[0,2,2]
+   - 1e+10 Componente[0,2,3] - 1e+10 Componente[0,2,4] - Componente[3,20,0]
+   - Componente[3,20,1] - Componente[3,20,2] - Componente[3,20,3]
+   - Componente[3,20,4] >= -1e+10
+ Compatibilidad_placa_madre[2,3,21]: - 1e+10 Componente[0,2,0]
+   - 1e+10 Componente[0,2,1] - 1e+10 Componente[0,2,2]
+   - 1e+10 Componente[0,2,3] - 1e+10 Componente[0,2,4] - Componente[3,21,0]
+   - Componente[3,21,1] - Componente[3,21,2] - Componente[3,21,3]
+   - Componente[3,21,4] >= -1e+10
+ Compatibilidad_placa_madre[2,3,23]: - 1e+10 Componente[0,2,0]
+   - 1e+10 Componente[0,2,1] - 1e+10 Componente[0,2,2]
+   - 1e+10 Componente[0,2,3] - 1e+10 Componente[0,2,4] - Componente[3,23,0]
+   - Componente[3,23,1] - Componente[3,23,2] - Componente[3,23,3]
+   - Componente[3,23,4] >= -1e+10
+ Compatibilidad_placa_madre[2,3,25]: - 1e+10 Componente[0,2,0]
+   - 1e+10 Componente[0,2,1] - 1e+10 Componente[0,2,2]
+   - 1e+10 Componente[0,2,3] - 1e+10 Componente[0,2,4] - Componente[3,25,0]
+   - Componente[3,25,1] - Componente[3,25,2] - Componente[3,25,3]
+   - Componente[3,25,4] >= -1e+10
+ Compatibilidad_placa_madre[2,3,26]: - 1e+10 Componente[0,2,0]
+   - 1e+10 Componente[0,2,1] - 1e+10 Componente[0,2,2]
+   - 1e+10 Componente[0,2,3] - 1e+10 Componente[0,2,4] - Componente[3,26,0]
+   - Componente[3,26,1] - Componente[3,26,2] - Componente[3,26,3]
+   - Componente[3,26,4] >= -1e+10
  Compatibilidad_placa_madre[3,1,0]: - 1e+10 Componente[0,3,0]
    - 1e+10 Componente[0,3,1] - 1e+10 Componente[0,3,2]
    - 1e+10 Componente[0,3,3] - 1e+10 Componente[0,3,4] - Componente[1,0,0]
@@ -2039,6 +2302,21 @@ Subject To
    - 1e+10 Componente[0,3,3] - 1e+10 Componente[0,3,4] - Componente[3,19,0]
    - Componente[3,19,1] - Componente[3,19,2] - Componente[3,19,3]
    - Componente[3,19,4] >= -1e+10
+ Compatibilidad_placa_madre[3,3,22]: - 1e+10 Componente[0,3,0]
+   - 1e+10 Componente[0,3,1] - 1e+10 Componente[0,3,2]
+   - 1e+10 Componente[0,3,3] - 1e+10 Componente[0,3,4] - Componente[3,22,0]
+   - Componente[3,22,1] - Componente[3,22,2] - Componente[3,22,3]
+   - Componente[3,22,4] >= -1e+10
+ Compatibilidad_placa_madre[3,3,24]: - 1e+10 Componente[0,3,0]
+   - 1e+10 Componente[0,3,1] - 1e+10 Componente[0,3,2]
+   - 1e+10 Componente[0,3,3] - 1e+10 Componente[0,3,4] - Componente[3,24,0]
+   - Componente[3,24,1] - Componente[3,24,2] - Componente[3,24,3]
+   - Componente[3,24,4] >= -1e+10
+ Compatibilidad_placa_madre[3,3,27]: - 1e+10 Componente[0,3,0]
+   - 1e+10 Componente[0,3,1] - 1e+10 Componente[0,3,2]
+   - 1e+10 Componente[0,3,3] - 1e+10 Componente[0,3,4] - Componente[3,27,0]
+   - Componente[3,27,1] - Componente[3,27,2] - Componente[3,27,3]
+   - Componente[3,27,4] >= -1e+10
  Compatibilidad_placa_madre[4,1,0]: - 1e+10 Componente[0,4,0]
    - 1e+10 Componente[0,4,1] - 1e+10 Componente[0,4,2]
    - 1e+10 Componente[0,4,3] - 1e+10 Componente[0,4,4] - Componente[1,0,0]
@@ -2154,6 +2432,21 @@ Subject To
    - 1e+10 Componente[0,4,3] - 1e+10 Componente[0,4,4] - Componente[3,19,0]
    - Componente[3,19,1] - Componente[3,19,2] - Componente[3,19,3]
    - Componente[3,19,4] >= -1e+10
+ Compatibilidad_placa_madre[4,3,22]: - 1e+10 Componente[0,4,0]
+   - 1e+10 Componente[0,4,1] - 1e+10 Componente[0,4,2]
+   - 1e+10 Componente[0,4,3] - 1e+10 Componente[0,4,4] - Componente[3,22,0]
+   - Componente[3,22,1] - Componente[3,22,2] - Componente[3,22,3]
+   - Componente[3,22,4] >= -1e+10
+ Compatibilidad_placa_madre[4,3,24]: - 1e+10 Componente[0,4,0]
+   - 1e+10 Componente[0,4,1] - 1e+10 Componente[0,4,2]
+   - 1e+10 Componente[0,4,3] - 1e+10 Componente[0,4,4] - Componente[3,24,0]
+   - Componente[3,24,1] - Componente[3,24,2] - Componente[3,24,3]
+   - Componente[3,24,4] >= -1e+10
+ Compatibilidad_placa_madre[4,3,27]: - 1e+10 Componente[0,4,0]
+   - 1e+10 Componente[0,4,1] - 1e+10 Componente[0,4,2]
+   - 1e+10 Componente[0,4,3] - 1e+10 Componente[0,4,4] - Componente[3,27,0]
+   - Componente[3,27,1] - Componente[3,27,2] - Componente[3,27,3]
+   - Componente[3,27,4] >= -1e+10
  Compatibilidad_placa_madre[5,1,0]: - 1e+10 Componente[0,5,0]
    - 1e+10 Componente[0,5,1] - 1e+10 Componente[0,5,2]
    - 1e+10 Componente[0,5,3] - 1e+10 Componente[0,5,4] - Componente[1,0,0]
@@ -2234,6 +2527,21 @@ Subject To
    - 1e+10 Componente[0,5,3] - 1e+10 Componente[0,5,4] - Componente[3,19,0]
    - Componente[3,19,1] - Componente[3,19,2] - Componente[3,19,3]
    - Componente[3,19,4] >= -1e+10
+ Compatibilidad_placa_madre[5,3,22]: - 1e+10 Componente[0,5,0]
+   - 1e+10 Componente[0,5,1] - 1e+10 Componente[0,5,2]
+   - 1e+10 Componente[0,5,3] - 1e+10 Componente[0,5,4] - Componente[3,22,0]
+   - Componente[3,22,1] - Componente[3,22,2] - Componente[3,22,3]
+   - Componente[3,22,4] >= -1e+10
+ Compatibilidad_placa_madre[5,3,24]: - 1e+10 Componente[0,5,0]
+   - 1e+10 Componente[0,5,1] - 1e+10 Componente[0,5,2]
+   - 1e+10 Componente[0,5,3] - 1e+10 Componente[0,5,4] - Componente[3,24,0]
+   - Componente[3,24,1] - Componente[3,24,2] - Componente[3,24,3]
+   - Componente[3,24,4] >= -1e+10
+ Compatibilidad_placa_madre[5,3,27]: - 1e+10 Componente[0,5,0]
+   - 1e+10 Componente[0,5,1] - 1e+10 Componente[0,5,2]
+   - 1e+10 Componente[0,5,3] - 1e+10 Componente[0,5,4] - Componente[3,27,0]
+   - Componente[3,27,1] - Componente[3,27,2] - Componente[3,27,3]
+   - Componente[3,27,4] >= -1e+10
  Compatibilidad_placa_madre[6,1,0]: - 1e+10 Componente[0,6,0]
    - 1e+10 Componente[0,6,1] - 1e+10 Componente[0,6,2]
    - 1e+10 Componente[0,6,3] - 1e+10 Componente[0,6,4] - Componente[1,0,0]
@@ -2319,6 +2627,21 @@ Subject To
    - 1e+10 Componente[0,6,3] - 1e+10 Componente[0,6,4] - Componente[3,19,0]
    - Componente[3,19,1] - Componente[3,19,2] - Componente[3,19,3]
    - Componente[3,19,4] >= -1e+10
+ Compatibilidad_placa_madre[6,3,22]: - 1e+10 Componente[0,6,0]
+   - 1e+10 Componente[0,6,1] - 1e+10 Componente[0,6,2]
+   - 1e+10 Componente[0,6,3] - 1e+10 Componente[0,6,4] - Componente[3,22,0]
+   - Componente[3,22,1] - Componente[3,22,2] - Componente[3,22,3]
+   - Componente[3,22,4] >= -1e+10
+ Compatibilidad_placa_madre[6,3,24]: - 1e+10 Componente[0,6,0]
+   - 1e+10 Componente[0,6,1] - 1e+10 Componente[0,6,2]
+   - 1e+10 Componente[0,6,3] - 1e+10 Componente[0,6,4] - Componente[3,24,0]
+   - Componente[3,24,1] - Componente[3,24,2] - Componente[3,24,3]
+   - Componente[3,24,4] >= -1e+10
+ Compatibilidad_placa_madre[6,3,27]: - 1e+10 Componente[0,6,0]
+   - 1e+10 Componente[0,6,1] - 1e+10 Componente[0,6,2]
+   - 1e+10 Componente[0,6,3] - 1e+10 Componente[0,6,4] - Componente[3,27,0]
+   - Componente[3,27,1] - Componente[3,27,2] - Componente[3,27,3]
+   - Componente[3,27,4] >= -1e+10
  Compatibilidad_placa_madre[7,1,0]: - 1e+10 Componente[0,7,0]
    - 1e+10 Componente[0,7,1] - 1e+10 Componente[0,7,2]
    - 1e+10 Componente[0,7,3] - 1e+10 Componente[0,7,4] - Componente[1,0,0]
@@ -2409,6 +2732,31 @@ Subject To
    - 1e+10 Componente[0,7,3] - 1e+10 Componente[0,7,4] - Componente[3,16,0]
    - Componente[3,16,1] - Componente[3,16,2] - Componente[3,16,3]
    - Componente[3,16,4] >= -1e+10
+ Compatibilidad_placa_madre[7,3,20]: - 1e+10 Componente[0,7,0]
+   - 1e+10 Componente[0,7,1] - 1e+10 Componente[0,7,2]
+   - 1e+10 Componente[0,7,3] - 1e+10 Componente[0,7,4] - Componente[3,20,0]
+   - Componente[3,20,1] - Componente[3,20,2] - Componente[3,20,3]
+   - Componente[3,20,4] >= -1e+10
+ Compatibilidad_placa_madre[7,3,21]: - 1e+10 Componente[0,7,0]
+   - 1e+10 Componente[0,7,1] - 1e+10 Componente[0,7,2]
+   - 1e+10 Componente[0,7,3] - 1e+10 Componente[0,7,4] - Componente[3,21,0]
+   - Componente[3,21,1] - Componente[3,21,2] - Componente[3,21,3]
+   - Componente[3,21,4] >= -1e+10
+ Compatibilidad_placa_madre[7,3,23]: - 1e+10 Componente[0,7,0]
+   - 1e+10 Componente[0,7,1] - 1e+10 Componente[0,7,2]
+   - 1e+10 Componente[0,7,3] - 1e+10 Componente[0,7,4] - Componente[3,23,0]
+   - Componente[3,23,1] - Componente[3,23,2] - Componente[3,23,3]
+   - Componente[3,23,4] >= -1e+10
+ Compatibilidad_placa_madre[7,3,25]: - 1e+10 Componente[0,7,0]
+   - 1e+10 Componente[0,7,1] - 1e+10 Componente[0,7,2]
+   - 1e+10 Componente[0,7,3] - 1e+10 Componente[0,7,4] - Componente[3,25,0]
+   - Componente[3,25,1] - Componente[3,25,2] - Componente[3,25,3]
+   - Componente[3,25,4] >= -1e+10
+ Compatibilidad_placa_madre[7,3,26]: - 1e+10 Componente[0,7,0]
+   - 1e+10 Componente[0,7,1] - 1e+10 Componente[0,7,2]
+   - 1e+10 Componente[0,7,3] - 1e+10 Componente[0,7,4] - Componente[3,26,0]
+   - Componente[3,26,1] - Componente[3,26,2] - Componente[3,26,3]
+   - Componente[3,26,4] >= -1e+10
  Compatibilidad_placa_madre[8,1,0]: - 1e+10 Componente[0,8,0]
    - 1e+10 Componente[0,8,1] - 1e+10 Componente[0,8,2]
    - 1e+10 Componente[0,8,3] - 1e+10 Componente[0,8,4] - Componente[1,0,0]
@@ -2569,6 +2917,31 @@ Subject To
    - 1e+10 Componente[0,8,3] - 1e+10 Componente[0,8,4] - Componente[3,16,0]
    - Componente[3,16,1] - Componente[3,16,2] - Componente[3,16,3]
    - Componente[3,16,4] >= -1e+10
+ Compatibilidad_placa_madre[8,3,20]: - 1e+10 Componente[0,8,0]
+   - 1e+10 Componente[0,8,1] - 1e+10 Componente[0,8,2]
+   - 1e+10 Componente[0,8,3] - 1e+10 Componente[0,8,4] - Componente[3,20,0]
+   - Componente[3,20,1] - Componente[3,20,2] - Componente[3,20,3]
+   - Componente[3,20,4] >= -1e+10
+ Compatibilidad_placa_madre[8,3,21]: - 1e+10 Componente[0,8,0]
+   - 1e+10 Componente[0,8,1] - 1e+10 Componente[0,8,2]
+   - 1e+10 Componente[0,8,3] - 1e+10 Componente[0,8,4] - Componente[3,21,0]
+   - Componente[3,21,1] - Componente[3,21,2] - Componente[3,21,3]
+   - Componente[3,21,4] >= -1e+10
+ Compatibilidad_placa_madre[8,3,23]: - 1e+10 Componente[0,8,0]
+   - 1e+10 Componente[0,8,1] - 1e+10 Componente[0,8,2]
+   - 1e+10 Componente[0,8,3] - 1e+10 Componente[0,8,4] - Componente[3,23,0]
+   - Componente[3,23,1] - Componente[3,23,2] - Componente[3,23,3]
+   - Componente[3,23,4] >= -1e+10
+ Compatibilidad_placa_madre[8,3,25]: - 1e+10 Componente[0,8,0]
+   - 1e+10 Componente[0,8,1] - 1e+10 Componente[0,8,2]
+   - 1e+10 Componente[0,8,3] - 1e+10 Componente[0,8,4] - Componente[3,25,0]
+   - Componente[3,25,1] - Componente[3,25,2] - Componente[3,25,3]
+   - Componente[3,25,4] >= -1e+10
+ Compatibilidad_placa_madre[8,3,26]: - 1e+10 Componente[0,8,0]
+   - 1e+10 Componente[0,8,1] - 1e+10 Componente[0,8,2]
+   - 1e+10 Componente[0,8,3] - 1e+10 Componente[0,8,4] - Componente[3,26,0]
+   - Componente[3,26,1] - Componente[3,26,2] - Componente[3,26,3]
+   - Componente[3,26,4] >= -1e+10
  Compatibilidad_placa_madre[9,1,0]: - 1e+10 Componente[0,9,0]
    - 1e+10 Componente[0,9,1] - 1e+10 Componente[0,9,2]
    - 1e+10 Componente[0,9,3] - 1e+10 Componente[0,9,4] - Componente[1,0,0]
@@ -2654,6 +3027,21 @@ Subject To
    - 1e+10 Componente[0,9,3] - 1e+10 Componente[0,9,4] - Componente[3,19,0]
    - Componente[3,19,1] - Componente[3,19,2] - Componente[3,19,3]
    - Componente[3,19,4] >= -1e+10
+ Compatibilidad_placa_madre[9,3,22]: - 1e+10 Componente[0,9,0]
+   - 1e+10 Componente[0,9,1] - 1e+10 Componente[0,9,2]
+   - 1e+10 Componente[0,9,3] - 1e+10 Componente[0,9,4] - Componente[3,22,0]
+   - Componente[3,22,1] - Componente[3,22,2] - Componente[3,22,3]
+   - Componente[3,22,4] >= -1e+10
+ Compatibilidad_placa_madre[9,3,24]: - 1e+10 Componente[0,9,0]
+   - 1e+10 Componente[0,9,1] - 1e+10 Componente[0,9,2]
+   - 1e+10 Componente[0,9,3] - 1e+10 Componente[0,9,4] - Componente[3,24,0]
+   - Componente[3,24,1] - Componente[3,24,2] - Componente[3,24,3]
+   - Componente[3,24,4] >= -1e+10
+ Compatibilidad_placa_madre[9,3,27]: - 1e+10 Componente[0,9,0]
+   - 1e+10 Componente[0,9,1] - 1e+10 Componente[0,9,2]
+   - 1e+10 Componente[0,9,3] - 1e+10 Componente[0,9,4] - Componente[3,27,0]
+   - Componente[3,27,1] - Componente[3,27,2] - Componente[3,27,3]
+   - Componente[3,27,4] >= -1e+10
  Compatibilidad_placa_madre[10,1,0]: - 1e+10 Componente[0,10,0]
    - 1e+10 Componente[0,10,1] - 1e+10 Componente[0,10,2]
    - 1e+10 Componente[0,10,3] - 1e+10 Componente[0,10,4]
@@ -2744,6 +3132,31 @@ Subject To
    - 1e+10 Componente[0,10,3] - 1e+10 Componente[0,10,4]
    - Componente[3,16,0] - Componente[3,16,1] - Componente[3,16,2]
    - Componente[3,16,3] - Componente[3,16,4] >= -1e+10
+ Compatibilidad_placa_madre[10,3,20]: - 1e+10 Componente[0,10,0]
+   - 1e+10 Componente[0,10,1] - 1e+10 Componente[0,10,2]
+   - 1e+10 Componente[0,10,3] - 1e+10 Componente[0,10,4]
+   - Componente[3,20,0] - Componente[3,20,1] - Componente[3,20,2]
+   - Componente[3,20,3] - Componente[3,20,4] >= -1e+10
+ Compatibilidad_placa_madre[10,3,21]: - 1e+10 Componente[0,10,0]
+   - 1e+10 Componente[0,10,1] - 1e+10 Componente[0,10,2]
+   - 1e+10 Componente[0,10,3] - 1e+10 Componente[0,10,4]
+   - Componente[3,21,0] - Componente[3,21,1] - Componente[3,21,2]
+   - Componente[3,21,3] - Componente[3,21,4] >= -1e+10
+ Compatibilidad_placa_madre[10,3,23]: - 1e+10 Componente[0,10,0]
+   - 1e+10 Componente[0,10,1] - 1e+10 Componente[0,10,2]
+   - 1e+10 Componente[0,10,3] - 1e+10 Componente[0,10,4]
+   - Componente[3,23,0] - Componente[3,23,1] - Componente[3,23,2]
+   - Componente[3,23,3] - Componente[3,23,4] >= -1e+10
+ Compatibilidad_placa_madre[10,3,25]: - 1e+10 Componente[0,10,0]
+   - 1e+10 Componente[0,10,1] - 1e+10 Componente[0,10,2]
+   - 1e+10 Componente[0,10,3] - 1e+10 Componente[0,10,4]
+   - Componente[3,25,0] - Componente[3,25,1] - Componente[3,25,2]
+   - Componente[3,25,3] - Componente[3,25,4] >= -1e+10
+ Compatibilidad_placa_madre[10,3,26]: - 1e+10 Componente[0,10,0]
+   - 1e+10 Componente[0,10,1] - 1e+10 Componente[0,10,2]
+   - 1e+10 Componente[0,10,3] - 1e+10 Componente[0,10,4]
+   - Componente[3,26,0] - Componente[3,26,1] - Componente[3,26,2]
+   - Componente[3,26,3] - Componente[3,26,4] >= -1e+10
  Compatibilidad_placa_madre[11,1,0]: - 1e+10 Componente[0,11,0]
    - 1e+10 Componente[0,11,1] - 1e+10 Componente[0,11,2]
    - 1e+10 Componente[0,11,3] - 1e+10 Componente[0,11,4]
@@ -2829,6 +3242,21 @@ Subject To
    - 1e+10 Componente[0,11,3] - 1e+10 Componente[0,11,4]
    - Componente[3,19,0] - Componente[3,19,1] - Componente[3,19,2]
    - Componente[3,19,3] - Componente[3,19,4] >= -1e+10
+ Compatibilidad_placa_madre[11,3,22]: - 1e+10 Componente[0,11,0]
+   - 1e+10 Componente[0,11,1] - 1e+10 Componente[0,11,2]
+   - 1e+10 Componente[0,11,3] - 1e+10 Componente[0,11,4]
+   - Componente[3,22,0] - Componente[3,22,1] - Componente[3,22,2]
+   - Componente[3,22,3] - Componente[3,22,4] >= -1e+10
+ Compatibilidad_placa_madre[11,3,24]: - 1e+10 Componente[0,11,0]
+   - 1e+10 Componente[0,11,1] - 1e+10 Componente[0,11,2]
+   - 1e+10 Componente[0,11,3] - 1e+10 Componente[0,11,4]
+   - Componente[3,24,0] - Componente[3,24,1] - Componente[3,24,2]
+   - Componente[3,24,3] - Componente[3,24,4] >= -1e+10
+ Compatibilidad_placa_madre[11,3,27]: - 1e+10 Componente[0,11,0]
+   - 1e+10 Componente[0,11,1] - 1e+10 Componente[0,11,2]
+   - 1e+10 Componente[0,11,3] - 1e+10 Componente[0,11,4]
+   - Componente[3,27,0] - Componente[3,27,1] - Componente[3,27,2]
+   - Componente[3,27,3] - Componente[3,27,4] >= -1e+10
  Compatibilidad_placa_madre[12,1,0]: - 1e+10 Componente[0,12,0]
    - 1e+10 Componente[0,12,1] - 1e+10 Componente[0,12,2]
    - 1e+10 Componente[0,12,3] - 1e+10 Componente[0,12,4]
@@ -2919,6 +3347,31 @@ Subject To
    - 1e+10 Componente[0,12,3] - 1e+10 Componente[0,12,4]
    - Componente[3,16,0] - Componente[3,16,1] - Componente[3,16,2]
    - Componente[3,16,3] - Componente[3,16,4] >= -1e+10
+ Compatibilidad_placa_madre[12,3,20]: - 1e+10 Componente[0,12,0]
+   - 1e+10 Componente[0,12,1] - 1e+10 Componente[0,12,2]
+   - 1e+10 Componente[0,12,3] - 1e+10 Componente[0,12,4]
+   - Componente[3,20,0] - Componente[3,20,1] - Componente[3,20,2]
+   - Componente[3,20,3] - Componente[3,20,4] >= -1e+10
+ Compatibilidad_placa_madre[12,3,21]: - 1e+10 Componente[0,12,0]
+   - 1e+10 Componente[0,12,1] - 1e+10 Componente[0,12,2]
+   - 1e+10 Componente[0,12,3] - 1e+10 Componente[0,12,4]
+   - Componente[3,21,0] - Componente[3,21,1] - Componente[3,21,2]
+   - Componente[3,21,3] - Componente[3,21,4] >= -1e+10
+ Compatibilidad_placa_madre[12,3,23]: - 1e+10 Componente[0,12,0]
+   - 1e+10 Componente[0,12,1] - 1e+10 Componente[0,12,2]
+   - 1e+10 Componente[0,12,3] - 1e+10 Componente[0,12,4]
+   - Componente[3,23,0] - Componente[3,23,1] - Componente[3,23,2]
+   - Componente[3,23,3] - Componente[3,23,4] >= -1e+10
+ Compatibilidad_placa_madre[12,3,25]: - 1e+10 Componente[0,12,0]
+   - 1e+10 Componente[0,12,1] - 1e+10 Componente[0,12,2]
+   - 1e+10 Componente[0,12,3] - 1e+10 Componente[0,12,4]
+   - Componente[3,25,0] - Componente[3,25,1] - Componente[3,25,2]
+   - Componente[3,25,3] - Componente[3,25,4] >= -1e+10
+ Compatibilidad_placa_madre[12,3,26]: - 1e+10 Componente[0,12,0]
+   - 1e+10 Componente[0,12,1] - 1e+10 Componente[0,12,2]
+   - 1e+10 Componente[0,12,3] - 1e+10 Componente[0,12,4]
+   - Componente[3,26,0] - Componente[3,26,1] - Componente[3,26,2]
+   - Componente[3,26,3] - Componente[3,26,4] >= -1e+10
  Compatibilidad_placa_madre[13,1,0]: - 1e+10 Componente[0,13,0]
    - 1e+10 Componente[0,13,1] - 1e+10 Componente[0,13,2]
    - 1e+10 Componente[0,13,3] - 1e+10 Componente[0,13,4]
@@ -2999,6 +3452,21 @@ Subject To
    - 1e+10 Componente[0,13,3] - 1e+10 Componente[0,13,4]
    - Componente[3,19,0] - Componente[3,19,1] - Componente[3,19,2]
    - Componente[3,19,3] - Componente[3,19,4] >= -1e+10
+ Compatibilidad_placa_madre[13,3,22]: - 1e+10 Componente[0,13,0]
+   - 1e+10 Componente[0,13,1] - 1e+10 Componente[0,13,2]
+   - 1e+10 Componente[0,13,3] - 1e+10 Componente[0,13,4]
+   - Componente[3,22,0] - Componente[3,22,1] - Componente[3,22,2]
+   - Componente[3,22,3] - Componente[3,22,4] >= -1e+10
+ Compatibilidad_placa_madre[13,3,24]: - 1e+10 Componente[0,13,0]
+   - 1e+10 Componente[0,13,1] - 1e+10 Componente[0,13,2]
+   - 1e+10 Componente[0,13,3] - 1e+10 Componente[0,13,4]
+   - Componente[3,24,0] - Componente[3,24,1] - Componente[3,24,2]
+   - Componente[3,24,3] - Componente[3,24,4] >= -1e+10
+ Compatibilidad_placa_madre[13,3,27]: - 1e+10 Componente[0,13,0]
+   - 1e+10 Componente[0,13,1] - 1e+10 Componente[0,13,2]
+   - 1e+10 Componente[0,13,3] - 1e+10 Componente[0,13,4]
+   - Componente[3,27,0] - Componente[3,27,1] - Componente[3,27,2]
+   - Componente[3,27,3] - Componente[3,27,4] >= -1e+10
  Compatibilidad_placa_madre[14,1,0]: - 1e+10 Componente[0,14,0]
    - 1e+10 Componente[0,14,1] - 1e+10 Componente[0,14,2]
    - 1e+10 Componente[0,14,3] - 1e+10 Componente[0,14,4]
@@ -3084,6 +3552,21 @@ Subject To
    - 1e+10 Componente[0,14,3] - 1e+10 Componente[0,14,4]
    - Componente[3,19,0] - Componente[3,19,1] - Componente[3,19,2]
    - Componente[3,19,3] - Componente[3,19,4] >= -1e+10
+ Compatibilidad_placa_madre[14,3,22]: - 1e+10 Componente[0,14,0]
+   - 1e+10 Componente[0,14,1] - 1e+10 Componente[0,14,2]
+   - 1e+10 Componente[0,14,3] - 1e+10 Componente[0,14,4]
+   - Componente[3,22,0] - Componente[3,22,1] - Componente[3,22,2]
+   - Componente[3,22,3] - Componente[3,22,4] >= -1e+10
+ Compatibilidad_placa_madre[14,3,24]: - 1e+10 Componente[0,14,0]
+   - 1e+10 Componente[0,14,1] - 1e+10 Componente[0,14,2]
+   - 1e+10 Componente[0,14,3] - 1e+10 Componente[0,14,4]
+   - Componente[3,24,0] - Componente[3,24,1] - Componente[3,24,2]
+   - Componente[3,24,3] - Componente[3,24,4] >= -1e+10
+ Compatibilidad_placa_madre[14,3,27]: - 1e+10 Componente[0,14,0]
+   - 1e+10 Componente[0,14,1] - 1e+10 Componente[0,14,2]
+   - 1e+10 Componente[0,14,3] - 1e+10 Componente[0,14,4]
+   - Componente[3,27,0] - Componente[3,27,1] - Componente[3,27,2]
+   - Componente[3,27,3] - Componente[3,27,4] >= -1e+10
  Compatibilidad_placa_madre[15,1,0]: - 1e+10 Componente[0,15,0]
    - 1e+10 Componente[0,15,1] - 1e+10 Componente[0,15,2]
    - 1e+10 Componente[0,15,3] - 1e+10 Componente[0,15,4]
@@ -3174,6 +3657,31 @@ Subject To
    - 1e+10 Componente[0,15,3] - 1e+10 Componente[0,15,4]
    - Componente[3,16,0] - Componente[3,16,1] - Componente[3,16,2]
    - Componente[3,16,3] - Componente[3,16,4] >= -1e+10
+ Compatibilidad_placa_madre[15,3,20]: - 1e+10 Componente[0,15,0]
+   - 1e+10 Componente[0,15,1] - 1e+10 Componente[0,15,2]
+   - 1e+10 Componente[0,15,3] - 1e+10 Componente[0,15,4]
+   - Componente[3,20,0] - Componente[3,20,1] - Componente[3,20,2]
+   - Componente[3,20,3] - Componente[3,20,4] >= -1e+10
+ Compatibilidad_placa_madre[15,3,21]: - 1e+10 Componente[0,15,0]
+   - 1e+10 Componente[0,15,1] - 1e+10 Componente[0,15,2]
+   - 1e+10 Componente[0,15,3] - 1e+10 Componente[0,15,4]
+   - Componente[3,21,0] - Componente[3,21,1] - Componente[3,21,2]
+   - Componente[3,21,3] - Componente[3,21,4] >= -1e+10
+ Compatibilidad_placa_madre[15,3,23]: - 1e+10 Componente[0,15,0]
+   - 1e+10 Componente[0,15,1] - 1e+10 Componente[0,15,2]
+   - 1e+10 Componente[0,15,3] - 1e+10 Componente[0,15,4]
+   - Componente[3,23,0] - Componente[3,23,1] - Componente[3,23,2]
+   - Componente[3,23,3] - Componente[3,23,4] >= -1e+10
+ Compatibilidad_placa_madre[15,3,25]: - 1e+10 Componente[0,15,0]
+   - 1e+10 Componente[0,15,1] - 1e+10 Componente[0,15,2]
+   - 1e+10 Componente[0,15,3] - 1e+10 Componente[0,15,4]
+   - Componente[3,25,0] - Componente[3,25,1] - Componente[3,25,2]
+   - Componente[3,25,3] - Componente[3,25,4] >= -1e+10
+ Compatibilidad_placa_madre[15,3,26]: - 1e+10 Componente[0,15,0]
+   - 1e+10 Componente[0,15,1] - 1e+10 Componente[0,15,2]
+   - 1e+10 Componente[0,15,3] - 1e+10 Componente[0,15,4]
+   - Componente[3,26,0] - Componente[3,26,1] - Componente[3,26,2]
+   - Componente[3,26,3] - Componente[3,26,4] >= -1e+10
  Compatibilidad_placa_madre[16,1,0]: - 1e+10 Componente[0,16,0]
    - 1e+10 Componente[0,16,1] - 1e+10 Componente[0,16,2]
    - 1e+10 Componente[0,16,3] - 1e+10 Componente[0,16,4]
@@ -3264,6 +3772,31 @@ Subject To
    - 1e+10 Componente[0,16,3] - 1e+10 Componente[0,16,4]
    - Componente[3,16,0] - Componente[3,16,1] - Componente[3,16,2]
    - Componente[3,16,3] - Componente[3,16,4] >= -1e+10
+ Compatibilidad_placa_madre[16,3,20]: - 1e+10 Componente[0,16,0]
+   - 1e+10 Componente[0,16,1] - 1e+10 Componente[0,16,2]
+   - 1e+10 Componente[0,16,3] - 1e+10 Componente[0,16,4]
+   - Componente[3,20,0] - Componente[3,20,1] - Componente[3,20,2]
+   - Componente[3,20,3] - Componente[3,20,4] >= -1e+10
+ Compatibilidad_placa_madre[16,3,21]: - 1e+10 Componente[0,16,0]
+   - 1e+10 Componente[0,16,1] - 1e+10 Componente[0,16,2]
+   - 1e+10 Componente[0,16,3] - 1e+10 Componente[0,16,4]
+   - Componente[3,21,0] - Componente[3,21,1] - Componente[3,21,2]
+   - Componente[3,21,3] - Componente[3,21,4] >= -1e+10
+ Compatibilidad_placa_madre[16,3,23]: - 1e+10 Componente[0,16,0]
+   - 1e+10 Componente[0,16,1] - 1e+10 Componente[0,16,2]
+   - 1e+10 Componente[0,16,3] - 1e+10 Componente[0,16,4]
+   - Componente[3,23,0] - Componente[3,23,1] - Componente[3,23,2]
+   - Componente[3,23,3] - Componente[3,23,4] >= -1e+10
+ Compatibilidad_placa_madre[16,3,25]: - 1e+10 Componente[0,16,0]
+   - 1e+10 Componente[0,16,1] - 1e+10 Componente[0,16,2]
+   - 1e+10 Componente[0,16,3] - 1e+10 Componente[0,16,4]
+   - Componente[3,25,0] - Componente[3,25,1] - Componente[3,25,2]
+   - Componente[3,25,3] - Componente[3,25,4] >= -1e+10
+ Compatibilidad_placa_madre[16,3,26]: - 1e+10 Componente[0,16,0]
+   - 1e+10 Componente[0,16,1] - 1e+10 Componente[0,16,2]
+   - 1e+10 Componente[0,16,3] - 1e+10 Componente[0,16,4]
+   - Componente[3,26,0] - Componente[3,26,1] - Componente[3,26,2]
+   - Componente[3,26,3] - Componente[3,26,4] >= -1e+10
  Compatibilidad_placa_madre[17,1,0]: - 1e+10 Componente[0,17,0]
    - 1e+10 Componente[0,17,1] - 1e+10 Componente[0,17,2]
    - 1e+10 Componente[0,17,3] - 1e+10 Componente[0,17,4]
@@ -3354,6 +3887,31 @@ Subject To
    - 1e+10 Componente[0,17,3] - 1e+10 Componente[0,17,4]
    - Componente[3,16,0] - Componente[3,16,1] - Componente[3,16,2]
    - Componente[3,16,3] - Componente[3,16,4] >= -1e+10
+ Compatibilidad_placa_madre[17,3,20]: - 1e+10 Componente[0,17,0]
+   - 1e+10 Componente[0,17,1] - 1e+10 Componente[0,17,2]
+   - 1e+10 Componente[0,17,3] - 1e+10 Componente[0,17,4]
+   - Componente[3,20,0] - Componente[3,20,1] - Componente[3,20,2]
+   - Componente[3,20,3] - Componente[3,20,4] >= -1e+10
+ Compatibilidad_placa_madre[17,3,21]: - 1e+10 Componente[0,17,0]
+   - 1e+10 Componente[0,17,1] - 1e+10 Componente[0,17,2]
+   - 1e+10 Componente[0,17,3] - 1e+10 Componente[0,17,4]
+   - Componente[3,21,0] - Componente[3,21,1] - Componente[3,21,2]
+   - Componente[3,21,3] - Componente[3,21,4] >= -1e+10
+ Compatibilidad_placa_madre[17,3,23]: - 1e+10 Componente[0,17,0]
+   - 1e+10 Componente[0,17,1] - 1e+10 Componente[0,17,2]
+   - 1e+10 Componente[0,17,3] - 1e+10 Componente[0,17,4]
+   - Componente[3,23,0] - Componente[3,23,1] - Componente[3,23,2]
+   - Componente[3,23,3] - Componente[3,23,4] >= -1e+10
+ Compatibilidad_placa_madre[17,3,25]: - 1e+10 Componente[0,17,0]
+   - 1e+10 Componente[0,17,1] - 1e+10 Componente[0,17,2]
+   - 1e+10 Componente[0,17,3] - 1e+10 Componente[0,17,4]
+   - Componente[3,25,0] - Componente[3,25,1] - Componente[3,25,2]
+   - Componente[3,25,3] - Componente[3,25,4] >= -1e+10
+ Compatibilidad_placa_madre[17,3,26]: - 1e+10 Componente[0,17,0]
+   - 1e+10 Componente[0,17,1] - 1e+10 Componente[0,17,2]
+   - 1e+10 Componente[0,17,3] - 1e+10 Componente[0,17,4]
+   - Componente[3,26,0] - Componente[3,26,1] - Componente[3,26,2]
+   - Componente[3,26,3] - Componente[3,26,4] >= -1e+10
  Compatibilidad_placa_madre[18,1,0]: - 1e+10 Componente[0,18,0]
    - 1e+10 Componente[0,18,1] - 1e+10 Componente[0,18,2]
    - 1e+10 Componente[0,18,3] - 1e+10 Componente[0,18,4]
@@ -3434,6 +3992,21 @@ Subject To
    - 1e+10 Componente[0,18,3] - 1e+10 Componente[0,18,4]
    - Componente[3,19,0] - Componente[3,19,1] - Componente[3,19,2]
    - Componente[3,19,3] - Componente[3,19,4] >= -1e+10
+ Compatibilidad_placa_madre[18,3,22]: - 1e+10 Componente[0,18,0]
+   - 1e+10 Componente[0,18,1] - 1e+10 Componente[0,18,2]
+   - 1e+10 Componente[0,18,3] - 1e+10 Componente[0,18,4]
+   - Componente[3,22,0] - Componente[3,22,1] - Componente[3,22,2]
+   - Componente[3,22,3] - Componente[3,22,4] >= -1e+10
+ Compatibilidad_placa_madre[18,3,24]: - 1e+10 Componente[0,18,0]
+   - 1e+10 Componente[0,18,1] - 1e+10 Componente[0,18,2]
+   - 1e+10 Componente[0,18,3] - 1e+10 Componente[0,18,4]
+   - Componente[3,24,0] - Componente[3,24,1] - Componente[3,24,2]
+   - Componente[3,24,3] - Componente[3,24,4] >= -1e+10
+ Compatibilidad_placa_madre[18,3,27]: - 1e+10 Componente[0,18,0]
+   - 1e+10 Componente[0,18,1] - 1e+10 Componente[0,18,2]
+   - 1e+10 Componente[0,18,3] - 1e+10 Componente[0,18,4]
+   - Componente[3,27,0] - Componente[3,27,1] - Componente[3,27,2]
+   - Componente[3,27,3] - Componente[3,27,4] >= -1e+10
  Compatibilidad_placa_madre[19,1,0]: - 1e+10 Componente[0,19,0]
    - 1e+10 Componente[0,19,1] - 1e+10 Componente[0,19,2]
    - 1e+10 Componente[0,19,3] - 1e+10 Componente[0,19,4]
@@ -3509,6 +4082,21 @@ Subject To
    - 1e+10 Componente[0,19,3] - 1e+10 Componente[0,19,4]
    - Componente[3,19,0] - Componente[3,19,1] - Componente[3,19,2]
    - Componente[3,19,3] - Componente[3,19,4] >= -1e+10
+ Compatibilidad_placa_madre[19,3,22]: - 1e+10 Componente[0,19,0]
+   - 1e+10 Componente[0,19,1] - 1e+10 Componente[0,19,2]
+   - 1e+10 Componente[0,19,3] - 1e+10 Componente[0,19,4]
+   - Componente[3,22,0] - Componente[3,22,1] - Componente[3,22,2]
+   - Componente[3,22,3] - Componente[3,22,4] >= -1e+10
+ Compatibilidad_placa_madre[19,3,24]: - 1e+10 Componente[0,19,0]
+   - 1e+10 Componente[0,19,1] - 1e+10 Componente[0,19,2]
+   - 1e+10 Componente[0,19,3] - 1e+10 Componente[0,19,4]
+   - Componente[3,24,0] - Componente[3,24,1] - Componente[3,24,2]
+   - Componente[3,24,3] - Componente[3,24,4] >= -1e+10
+ Compatibilidad_placa_madre[19,3,27]: - 1e+10 Componente[0,19,0]
+   - 1e+10 Componente[0,19,1] - 1e+10 Componente[0,19,2]
+   - 1e+10 Componente[0,19,3] - 1e+10 Componente[0,19,4]
+   - Componente[3,27,0] - Componente[3,27,1] - Componente[3,27,2]
+   - Componente[3,27,3] - Componente[3,27,4] >= -1e+10
  Compatibilidad_procesador[0,1,0]: - Componente[1,0,0] - Componente[1,0,1]
    - Componente[1,0,2] - Componente[1,0,3] - Componente[1,0,4]
    - 1e+10 Componente[3,0,0] - 1e+10 Componente[3,0,1]
@@ -4464,7 +5052,287 @@ Subject To
    - Componente[1,14,4] - 1e+10 Componente[3,19,0]
    - 1e+10 Componente[3,19,1] - 1e+10 Componente[3,19,2]
    - 1e+10 Componente[3,19,3] - 1e+10 Componente[3,19,4] >= -1e+10
- Stock[0,0,0]: Componente[0,0,0] <= 0
+ Compatibilidad_procesador[20,1,0]: - Componente[1,0,0] - Componente[1,0,1]
+   - Componente[1,0,2] - Componente[1,0,3] - Componente[1,0,4]
+   - 1e+10 Componente[3,20,0] - 1e+10 Componente[3,20,1]
+   - 1e+10 Componente[3,20,2] - 1e+10 Componente[3,20,3]
+   - 1e+10 Componente[3,20,4] >= -1e+10
+ Compatibilidad_procesador[20,1,1]: - Componente[1,1,0] - Componente[1,1,1]
+   - Componente[1,1,2] - Componente[1,1,3] - Componente[1,1,4]
+   - 1e+10 Componente[3,20,0] - 1e+10 Componente[3,20,1]
+   - 1e+10 Componente[3,20,2] - 1e+10 Componente[3,20,3]
+   - 1e+10 Componente[3,20,4] >= -1e+10
+ Compatibilidad_procesador[20,1,2]: - Componente[1,2,0] - Componente[1,2,1]
+   - Componente[1,2,2] - Componente[1,2,3] - Componente[1,2,4]
+   - 1e+10 Componente[3,20,0] - 1e+10 Componente[3,20,1]
+   - 1e+10 Componente[3,20,2] - 1e+10 Componente[3,20,3]
+   - 1e+10 Componente[3,20,4] >= -1e+10
+ Compatibilidad_procesador[20,1,8]: - Componente[1,8,0] - Componente[1,8,1]
+   - Componente[1,8,2] - Componente[1,8,3] - Componente[1,8,4]
+   - 1e+10 Componente[3,20,0] - 1e+10 Componente[3,20,1]
+   - 1e+10 Componente[3,20,2] - 1e+10 Componente[3,20,3]
+   - 1e+10 Componente[3,20,4] >= -1e+10
+ Compatibilidad_procesador[20,1,9]: - Componente[1,9,0] - Componente[1,9,1]
+   - Componente[1,9,2] - Componente[1,9,3] - Componente[1,9,4]
+   - 1e+10 Componente[3,20,0] - 1e+10 Componente[3,20,1]
+   - 1e+10 Componente[3,20,2] - 1e+10 Componente[3,20,3]
+   - 1e+10 Componente[3,20,4] >= -1e+10
+ Compatibilidad_procesador[20,1,14]: - Componente[1,14,0]
+   - Componente[1,14,1] - Componente[1,14,2] - Componente[1,14,3]
+   - Componente[1,14,4] - 1e+10 Componente[3,20,0]
+   - 1e+10 Componente[3,20,1] - 1e+10 Componente[3,20,2]
+   - 1e+10 Componente[3,20,3] - 1e+10 Componente[3,20,4] >= -1e+10
+ Compatibilidad_procesador[21,1,0]: - Componente[1,0,0] - Componente[1,0,1]
+   - Componente[1,0,2] - Componente[1,0,3] - Componente[1,0,4]
+   - 1e+10 Componente[3,21,0] - 1e+10 Componente[3,21,1]
+   - 1e+10 Componente[3,21,2] - 1e+10 Componente[3,21,3]
+   - 1e+10 Componente[3,21,4] >= -1e+10
+ Compatibilidad_procesador[21,1,1]: - Componente[1,1,0] - Componente[1,1,1]
+   - Componente[1,1,2] - Componente[1,1,3] - Componente[1,1,4]
+   - 1e+10 Componente[3,21,0] - 1e+10 Componente[3,21,1]
+   - 1e+10 Componente[3,21,2] - 1e+10 Componente[3,21,3]
+   - 1e+10 Componente[3,21,4] >= -1e+10
+ Compatibilidad_procesador[21,1,2]: - Componente[1,2,0] - Componente[1,2,1]
+   - Componente[1,2,2] - Componente[1,2,3] - Componente[1,2,4]
+   - 1e+10 Componente[3,21,0] - 1e+10 Componente[3,21,1]
+   - 1e+10 Componente[3,21,2] - 1e+10 Componente[3,21,3]
+   - 1e+10 Componente[3,21,4] >= -1e+10
+ Compatibilidad_procesador[21,1,8]: - Componente[1,8,0] - Componente[1,8,1]
+   - Componente[1,8,2] - Componente[1,8,3] - Componente[1,8,4]
+   - 1e+10 Componente[3,21,0] - 1e+10 Componente[3,21,1]
+   - 1e+10 Componente[3,21,2] - 1e+10 Componente[3,21,3]
+   - 1e+10 Componente[3,21,4] >= -1e+10
+ Compatibilidad_procesador[21,1,9]: - Componente[1,9,0] - Componente[1,9,1]
+   - Componente[1,9,2] - Componente[1,9,3] - Componente[1,9,4]
+   - 1e+10 Componente[3,21,0] - 1e+10 Componente[3,21,1]
+   - 1e+10 Componente[3,21,2] - 1e+10 Componente[3,21,3]
+   - 1e+10 Componente[3,21,4] >= -1e+10
+ Compatibilidad_procesador[21,1,13]: - Componente[1,13,0]
+   - Componente[1,13,1] - Componente[1,13,2] - Componente[1,13,3]
+   - Componente[1,13,4] - 1e+10 Componente[3,21,0]
+   - 1e+10 Componente[3,21,1] - 1e+10 Componente[3,21,2]
+   - 1e+10 Componente[3,21,3] - 1e+10 Componente[3,21,4] >= -1e+10
+ Compatibilidad_procesador[21,1,14]: - Componente[1,14,0]
+   - Componente[1,14,1] - Componente[1,14,2] - Componente[1,14,3]
+   - Componente[1,14,4] - 1e+10 Componente[3,21,0]
+   - 1e+10 Componente[3,21,1] - 1e+10 Componente[3,21,2]
+   - 1e+10 Componente[3,21,3] - 1e+10 Componente[3,21,4] >= -1e+10
+ Compatibilidad_procesador[21,1,18]: - Componente[1,18,0]
+   - Componente[1,18,1] - Componente[1,18,2] - Componente[1,18,3]
+   - Componente[1,18,4] - 1e+10 Componente[3,21,0]
+   - 1e+10 Componente[3,21,1] - 1e+10 Componente[3,21,2]
+   - 1e+10 Componente[3,21,3] - 1e+10 Componente[3,21,4] >= -1e+10
+ Compatibilidad_procesador[22,1,0]: - Componente[1,0,0] - Componente[1,0,1]
+   - Componente[1,0,2] - Componente[1,0,3] - Componente[1,0,4]
+   - 1e+10 Componente[3,22,0] - 1e+10 Componente[3,22,1]
+   - 1e+10 Componente[3,22,2] - 1e+10 Componente[3,22,3]
+   - 1e+10 Componente[3,22,4] >= -1e+10
+ Compatibilidad_procesador[22,1,1]: - Componente[1,1,0] - Componente[1,1,1]
+   - Componente[1,1,2] - Componente[1,1,3] - Componente[1,1,4]
+   - 1e+10 Componente[3,22,0] - 1e+10 Componente[3,22,1]
+   - 1e+10 Componente[3,22,2] - 1e+10 Componente[3,22,3]
+   - 1e+10 Componente[3,22,4] >= -1e+10
+ Compatibilidad_procesador[22,1,2]: - Componente[1,2,0] - Componente[1,2,1]
+   - Componente[1,2,2] - Componente[1,2,3] - Componente[1,2,4]
+   - 1e+10 Componente[3,22,0] - 1e+10 Componente[3,22,1]
+   - 1e+10 Componente[3,22,2] - 1e+10 Componente[3,22,3]
+   - 1e+10 Componente[3,22,4] >= -1e+10
+ Compatibilidad_procesador[22,1,8]: - Componente[1,8,0] - Componente[1,8,1]
+   - Componente[1,8,2] - Componente[1,8,3] - Componente[1,8,4]
+   - 1e+10 Componente[3,22,0] - 1e+10 Componente[3,22,1]
+   - 1e+10 Componente[3,22,2] - 1e+10 Componente[3,22,3]
+   - 1e+10 Componente[3,22,4] >= -1e+10
+ Compatibilidad_procesador[22,1,9]: - Componente[1,9,0] - Componente[1,9,1]
+   - Componente[1,9,2] - Componente[1,9,3] - Componente[1,9,4]
+   - 1e+10 Componente[3,22,0] - 1e+10 Componente[3,22,1]
+   - 1e+10 Componente[3,22,2] - 1e+10 Componente[3,22,3]
+   - 1e+10 Componente[3,22,4] >= -1e+10
+ Compatibilidad_procesador[22,1,14]: - Componente[1,14,0]
+   - Componente[1,14,1] - Componente[1,14,2] - Componente[1,14,3]
+   - Componente[1,14,4] - 1e+10 Componente[3,22,0]
+   - 1e+10 Componente[3,22,1] - 1e+10 Componente[3,22,2]
+   - 1e+10 Componente[3,22,3] - 1e+10 Componente[3,22,4] >= -1e+10
+ Compatibilidad_procesador[23,1,0]: - Componente[1,0,0] - Componente[1,0,1]
+   - Componente[1,0,2] - Componente[1,0,3] - Componente[1,0,4]
+   - 1e+10 Componente[3,23,0] - 1e+10 Componente[3,23,1]
+   - 1e+10 Componente[3,23,2] - 1e+10 Componente[3,23,3]
+   - 1e+10 Componente[3,23,4] >= -1e+10
+ Compatibilidad_procesador[23,1,1]: - Componente[1,1,0] - Componente[1,1,1]
+   - Componente[1,1,2] - Componente[1,1,3] - Componente[1,1,4]
+   - 1e+10 Componente[3,23,0] - 1e+10 Componente[3,23,1]
+   - 1e+10 Componente[3,23,2] - 1e+10 Componente[3,23,3]
+   - 1e+10 Componente[3,23,4] >= -1e+10
+ Compatibilidad_procesador[23,1,2]: - Componente[1,2,0] - Componente[1,2,1]
+   - Componente[1,2,2] - Componente[1,2,3] - Componente[1,2,4]
+   - 1e+10 Componente[3,23,0] - 1e+10 Componente[3,23,1]
+   - 1e+10 Componente[3,23,2] - 1e+10 Componente[3,23,3]
+   - 1e+10 Componente[3,23,4] >= -1e+10
+ Compatibilidad_procesador[23,1,8]: - Componente[1,8,0] - Componente[1,8,1]
+   - Componente[1,8,2] - Componente[1,8,3] - Componente[1,8,4]
+   - 1e+10 Componente[3,23,0] - 1e+10 Componente[3,23,1]
+   - 1e+10 Componente[3,23,2] - 1e+10 Componente[3,23,3]
+   - 1e+10 Componente[3,23,4] >= -1e+10
+ Compatibilidad_procesador[23,1,9]: - Componente[1,9,0] - Componente[1,9,1]
+   - Componente[1,9,2] - Componente[1,9,3] - Componente[1,9,4]
+   - 1e+10 Componente[3,23,0] - 1e+10 Componente[3,23,1]
+   - 1e+10 Componente[3,23,2] - 1e+10 Componente[3,23,3]
+   - 1e+10 Componente[3,23,4] >= -1e+10
+ Compatibilidad_procesador[23,1,13]: - Componente[1,13,0]
+   - Componente[1,13,1] - Componente[1,13,2] - Componente[1,13,3]
+   - Componente[1,13,4] - 1e+10 Componente[3,23,0]
+   - 1e+10 Componente[3,23,1] - 1e+10 Componente[3,23,2]
+   - 1e+10 Componente[3,23,3] - 1e+10 Componente[3,23,4] >= -1e+10
+ Compatibilidad_procesador[23,1,14]: - Componente[1,14,0]
+   - Componente[1,14,1] - Componente[1,14,2] - Componente[1,14,3]
+   - Componente[1,14,4] - 1e+10 Componente[3,23,0]
+   - 1e+10 Componente[3,23,1] - 1e+10 Componente[3,23,2]
+   - 1e+10 Componente[3,23,3] - 1e+10 Componente[3,23,4] >= -1e+10
+ Compatibilidad_procesador[23,1,18]: - Componente[1,18,0]
+   - Componente[1,18,1] - Componente[1,18,2] - Componente[1,18,3]
+   - Componente[1,18,4] - 1e+10 Componente[3,23,0]
+   - 1e+10 Componente[3,23,1] - 1e+10 Componente[3,23,2]
+   - 1e+10 Componente[3,23,3] - 1e+10 Componente[3,23,4] >= -1e+10
+ Compatibilidad_procesador[24,1,0]: - Componente[1,0,0] - Componente[1,0,1]
+   - Componente[1,0,2] - Componente[1,0,3] - Componente[1,0,4]
+   - 1e+10 Componente[3,24,0] - 1e+10 Componente[3,24,1]
+   - 1e+10 Componente[3,24,2] - 1e+10 Componente[3,24,3]
+   - 1e+10 Componente[3,24,4] >= -1e+10
+ Compatibilidad_procesador[24,1,1]: - Componente[1,1,0] - Componente[1,1,1]
+   - Componente[1,1,2] - Componente[1,1,3] - Componente[1,1,4]
+   - 1e+10 Componente[3,24,0] - 1e+10 Componente[3,24,1]
+   - 1e+10 Componente[3,24,2] - 1e+10 Componente[3,24,3]
+   - 1e+10 Componente[3,24,4] >= -1e+10
+ Compatibilidad_procesador[24,1,2]: - Componente[1,2,0] - Componente[1,2,1]
+   - Componente[1,2,2] - Componente[1,2,3] - Componente[1,2,4]
+   - 1e+10 Componente[3,24,0] - 1e+10 Componente[3,24,1]
+   - 1e+10 Componente[3,24,2] - 1e+10 Componente[3,24,3]
+   - 1e+10 Componente[3,24,4] >= -1e+10
+ Compatibilidad_procesador[24,1,8]: - Componente[1,8,0] - Componente[1,8,1]
+   - Componente[1,8,2] - Componente[1,8,3] - Componente[1,8,4]
+   - 1e+10 Componente[3,24,0] - 1e+10 Componente[3,24,1]
+   - 1e+10 Componente[3,24,2] - 1e+10 Componente[3,24,3]
+   - 1e+10 Componente[3,24,4] >= -1e+10
+ Compatibilidad_procesador[24,1,9]: - Componente[1,9,0] - Componente[1,9,1]
+   - Componente[1,9,2] - Componente[1,9,3] - Componente[1,9,4]
+   - 1e+10 Componente[3,24,0] - 1e+10 Componente[3,24,1]
+   - 1e+10 Componente[3,24,2] - 1e+10 Componente[3,24,3]
+   - 1e+10 Componente[3,24,4] >= -1e+10
+ Compatibilidad_procesador[24,1,14]: - Componente[1,14,0]
+   - Componente[1,14,1] - Componente[1,14,2] - Componente[1,14,3]
+   - Componente[1,14,4] - 1e+10 Componente[3,24,0]
+   - 1e+10 Componente[3,24,1] - 1e+10 Componente[3,24,2]
+   - 1e+10 Componente[3,24,3] - 1e+10 Componente[3,24,4] >= -1e+10
+ Compatibilidad_procesador[25,1,0]: - Componente[1,0,0] - Componente[1,0,1]
+   - Componente[1,0,2] - Componente[1,0,3] - Componente[1,0,4]
+   - 1e+10 Componente[3,25,0] - 1e+10 Componente[3,25,1]
+   - 1e+10 Componente[3,25,2] - 1e+10 Componente[3,25,3]
+   - 1e+10 Componente[3,25,4] >= -1e+10
+ Compatibilidad_procesador[25,1,1]: - Componente[1,1,0] - Componente[1,1,1]
+   - Componente[1,1,2] - Componente[1,1,3] - Componente[1,1,4]
+   - 1e+10 Componente[3,25,0] - 1e+10 Componente[3,25,1]
+   - 1e+10 Componente[3,25,2] - 1e+10 Componente[3,25,3]
+   - 1e+10 Componente[3,25,4] >= -1e+10
+ Compatibilidad_procesador[25,1,2]: - Componente[1,2,0] - Componente[1,2,1]
+   - Componente[1,2,2] - Componente[1,2,3] - Componente[1,2,4]
+   - 1e+10 Componente[3,25,0] - 1e+10 Componente[3,25,1]
+   - 1e+10 Componente[3,25,2] - 1e+10 Componente[3,25,3]
+   - 1e+10 Componente[3,25,4] >= -1e+10
+ Compatibilidad_procesador[25,1,8]: - Componente[1,8,0] - Componente[1,8,1]
+   - Componente[1,8,2] - Componente[1,8,3] - Componente[1,8,4]
+   - 1e+10 Componente[3,25,0] - 1e+10 Componente[3,25,1]
+   - 1e+10 Componente[3,25,2] - 1e+10 Componente[3,25,3]
+   - 1e+10 Componente[3,25,4] >= -1e+10
+ Compatibilidad_procesador[25,1,9]: - Componente[1,9,0] - Componente[1,9,1]
+   - Componente[1,9,2] - Componente[1,9,3] - Componente[1,9,4]
+   - 1e+10 Componente[3,25,0] - 1e+10 Componente[3,25,1]
+   - 1e+10 Componente[3,25,2] - 1e+10 Componente[3,25,3]
+   - 1e+10 Componente[3,25,4] >= -1e+10
+ Compatibilidad_procesador[25,1,13]: - Componente[1,13,0]
+   - Componente[1,13,1] - Componente[1,13,2] - Componente[1,13,3]
+   - Componente[1,13,4] - 1e+10 Componente[3,25,0]
+   - 1e+10 Componente[3,25,1] - 1e+10 Componente[3,25,2]
+   - 1e+10 Componente[3,25,3] - 1e+10 Componente[3,25,4] >= -1e+10
+ Compatibilidad_procesador[25,1,14]: - Componente[1,14,0]
+   - Componente[1,14,1] - Componente[1,14,2] - Componente[1,14,3]
+   - Componente[1,14,4] - 1e+10 Componente[3,25,0]
+   - 1e+10 Componente[3,25,1] - 1e+10 Componente[3,25,2]
+   - 1e+10 Componente[3,25,3] - 1e+10 Componente[3,25,4] >= -1e+10
+ Compatibilidad_procesador[25,1,18]: - Componente[1,18,0]
+   - Componente[1,18,1] - Componente[1,18,2] - Componente[1,18,3]
+   - Componente[1,18,4] - 1e+10 Componente[3,25,0]
+   - 1e+10 Componente[3,25,1] - 1e+10 Componente[3,25,2]
+   - 1e+10 Componente[3,25,3] - 1e+10 Componente[3,25,4] >= -1e+10
+ Compatibilidad_procesador[26,1,0]: - Componente[1,0,0] - Componente[1,0,1]
+   - Componente[1,0,2] - Componente[1,0,3] - Componente[1,0,4]
+   - 1e+10 Componente[3,26,0] - 1e+10 Componente[3,26,1]
+   - 1e+10 Componente[3,26,2] - 1e+10 Componente[3,26,3]
+   - 1e+10 Componente[3,26,4] >= -1e+10
+ Compatibilidad_procesador[26,1,1]: - Componente[1,1,0] - Componente[1,1,1]
+   - Componente[1,1,2] - Componente[1,1,3] - Componente[1,1,4]
+   - 1e+10 Componente[3,26,0] - 1e+10 Componente[3,26,1]
+   - 1e+10 Componente[3,26,2] - 1e+10 Componente[3,26,3]
+   - 1e+10 Componente[3,26,4] >= -1e+10
+ Compatibilidad_procesador[26,1,2]: - Componente[1,2,0] - Componente[1,2,1]
+   - Componente[1,2,2] - Componente[1,2,3] - Componente[1,2,4]
+   - 1e+10 Componente[3,26,0] - 1e+10 Componente[3,26,1]
+   - 1e+10 Componente[3,26,2] - 1e+10 Componente[3,26,3]
+   - 1e+10 Componente[3,26,4] >= -1e+10
+ Compatibilidad_procesador[26,1,8]: - Componente[1,8,0] - Componente[1,8,1]
+   - Componente[1,8,2] - Componente[1,8,3] - Componente[1,8,4]
+   - 1e+10 Componente[3,26,0] - 1e+10 Componente[3,26,1]
+   - 1e+10 Componente[3,26,2] - 1e+10 Componente[3,26,3]
+   - 1e+10 Componente[3,26,4] >= -1e+10
+ Compatibilidad_procesador[26,1,9]: - Componente[1,9,0] - Componente[1,9,1]
+   - Componente[1,9,2] - Componente[1,9,3] - Componente[1,9,4]
+   - 1e+10 Componente[3,26,0] - 1e+10 Componente[3,26,1]
+   - 1e+10 Componente[3,26,2] - 1e+10 Componente[3,26,3]
+   - 1e+10 Componente[3,26,4] >= -1e+10
+ Compatibilidad_procesador[26,1,13]: - Componente[1,13,0]
+   - Componente[1,13,1] - Componente[1,13,2] - Componente[1,13,3]
+   - Componente[1,13,4] - 1e+10 Componente[3,26,0]
+   - 1e+10 Componente[3,26,1] - 1e+10 Componente[3,26,2]
+   - 1e+10 Componente[3,26,3] - 1e+10 Componente[3,26,4] >= -1e+10
+ Compatibilidad_procesador[26,1,14]: - Componente[1,14,0]
+   - Componente[1,14,1] - Componente[1,14,2] - Componente[1,14,3]
+   - Componente[1,14,4] - 1e+10 Componente[3,26,0]
+   - 1e+10 Componente[3,26,1] - 1e+10 Componente[3,26,2]
+   - 1e+10 Componente[3,26,3] - 1e+10 Componente[3,26,4] >= -1e+10
+ Compatibilidad_procesador[26,1,18]: - Componente[1,18,0]
+   - Componente[1,18,1] - Componente[1,18,2] - Componente[1,18,3]
+   - Componente[1,18,4] - 1e+10 Componente[3,26,0]
+   - 1e+10 Componente[3,26,1] - 1e+10 Componente[3,26,2]
+   - 1e+10 Componente[3,26,3] - 1e+10 Componente[3,26,4] >= -1e+10
+ Compatibilidad_procesador[27,1,0]: - Componente[1,0,0] - Componente[1,0,1]
+   - Componente[1,0,2] - Componente[1,0,3] - Componente[1,0,4]
+   - 1e+10 Componente[3,27,0] - 1e+10 Componente[3,27,1]
+   - 1e+10 Componente[3,27,2] - 1e+10 Componente[3,27,3]
+   - 1e+10 Componente[3,27,4] >= -1e+10
+ Compatibilidad_procesador[27,1,1]: - Componente[1,1,0] - Componente[1,1,1]
+   - Componente[1,1,2] - Componente[1,1,3] - Componente[1,1,4]
+   - 1e+10 Componente[3,27,0] - 1e+10 Componente[3,27,1]
+   - 1e+10 Componente[3,27,2] - 1e+10 Componente[3,27,3]
+   - 1e+10 Componente[3,27,4] >= -1e+10
+ Compatibilidad_procesador[27,1,2]: - Componente[1,2,0] - Componente[1,2,1]
+   - Componente[1,2,2] - Componente[1,2,3] - Componente[1,2,4]
+   - 1e+10 Componente[3,27,0] - 1e+10 Componente[3,27,1]
+   - 1e+10 Componente[3,27,2] - 1e+10 Componente[3,27,3]
+   - 1e+10 Componente[3,27,4] >= -1e+10
+ Compatibilidad_procesador[27,1,8]: - Componente[1,8,0] - Componente[1,8,1]
+   - Componente[1,8,2] - Componente[1,8,3] - Componente[1,8,4]
+   - 1e+10 Componente[3,27,0] - 1e+10 Componente[3,27,1]
+   - 1e+10 Componente[3,27,2] - 1e+10 Componente[3,27,3]
+   - 1e+10 Componente[3,27,4] >= -1e+10
+ Compatibilidad_procesador[27,1,9]: - Componente[1,9,0] - Componente[1,9,1]
+   - Componente[1,9,2] - Componente[1,9,3] - Componente[1,9,4]
+   - 1e+10 Componente[3,27,0] - 1e+10 Componente[3,27,1]
+   - 1e+10 Componente[3,27,2] - 1e+10 Componente[3,27,3]
+   - 1e+10 Componente[3,27,4] >= -1e+10
+ Compatibilidad_procesador[27,1,14]: - Componente[1,14,0]
+   - Componente[1,14,1] - Componente[1,14,2] - Componente[1,14,3]
+   - Componente[1,14,4] - 1e+10 Componente[3,27,0]
+   - 1e+10 Componente[3,27,1] - 1e+10 Componente[3,27,2]
+   - 1e+10 Componente[3,27,3] - 1e+10 Componente[3,27,4] >= -1e+10
+ Stock[0,0,0]: Componente[0,0,0] <= 1
  Stock[0,0,1]: Componente[0,0,1] <= 0
  Stock[0,0,2]: Componente[0,0,2] <= 0
  Stock[0,0,3]: Componente[0,0,3] <= 0
@@ -4479,7 +5347,7 @@ Subject To
  Stock[0,2,2]: Componente[0,2,2] <= 2
  Stock[0,2,3]: Componente[0,2,3] <= 3
  Stock[0,2,4]: Componente[0,2,4] <= 1
- Stock[0,3,0]: Componente[0,3,0] <= 0
+ Stock[0,3,0]: Componente[0,3,0] <= 1
  Stock[0,3,1]: Componente[0,3,1] <= 0
  Stock[0,3,2]: Componente[0,3,2] <= 0
  Stock[0,3,3]: Componente[0,3,3] <= 0
@@ -4499,7 +5367,7 @@ Subject To
  Stock[0,6,2]: Componente[0,6,2] <= 1
  Stock[0,6,3]: Componente[0,6,3] <= 1
  Stock[0,6,4]: Componente[0,6,4] <= 0
- Stock[0,7,0]: Componente[0,7,0] <= 0
+ Stock[0,7,0]: Componente[0,7,0] <= 1
  Stock[0,7,1]: Componente[0,7,1] <= 0
  Stock[0,7,2]: Componente[0,7,2] <= 0
  Stock[0,7,3]: Componente[0,7,3] <= 0
@@ -4534,7 +5402,7 @@ Subject To
  Stock[0,13,2]: Componente[0,13,2] <= 2
  Stock[0,13,3]: Componente[0,13,3] <= 1
  Stock[0,13,4]: Componente[0,13,4] <= 0
- Stock[0,14,0]: Componente[0,14,0] <= 0
+ Stock[0,14,0]: Componente[0,14,0] <= 1
  Stock[0,14,1]: Componente[0,14,1] <= 0
  Stock[0,14,2]: Componente[0,14,2] <= 0
  Stock[0,14,3]: Componente[0,14,3] <= 0
@@ -4549,7 +5417,7 @@ Subject To
  Stock[0,16,2]: Componente[0,16,2] <= 0
  Stock[0,16,3]: Componente[0,16,3] <= 1
  Stock[0,16,4]: Componente[0,16,4] <= 0
- Stock[0,17,0]: Componente[0,17,0] <= 0
+ Stock[0,17,0]: Componente[0,17,0] <= 1
  Stock[0,17,1]: Componente[0,17,1] <= 0
  Stock[0,17,2]: Componente[0,17,2] <= 0
  Stock[0,17,3]: Componente[0,17,3] <= 0
@@ -4569,7 +5437,7 @@ Subject To
  Stock[1,0,2]: Componente[1,0,2] <= 0
  Stock[1,0,3]: Componente[1,0,3] <= 0
  Stock[1,0,4]: Componente[1,0,4] <= 0
- Stock[1,1,0]: Componente[1,1,0] <= 0
+ Stock[1,1,0]: Componente[1,1,0] <= 1
  Stock[1,1,1]: Componente[1,1,1] <= 0
  Stock[1,1,2]: Componente[1,1,2] <= 0
  Stock[1,1,3]: Componente[1,1,3] <= 0
@@ -4619,7 +5487,7 @@ Subject To
  Stock[1,10,2]: Componente[1,10,2] <= 0
  Stock[1,10,3]: Componente[1,10,3] <= 0
  Stock[1,10,4]: Componente[1,10,4] <= 0
- Stock[1,11,0]: Componente[1,11,0] <= 0
+ Stock[1,11,0]: Componente[1,11,0] <= 1
  Stock[1,11,1]: Componente[1,11,1] <= 0
  Stock[1,11,2]: Componente[1,11,2] <= 0
  Stock[1,11,3]: Componente[1,11,3] <= 0
@@ -4634,7 +5502,7 @@ Subject To
  Stock[1,13,2]: Componente[1,13,2] <= 2
  Stock[1,13,3]: Componente[1,13,3] <= 1
  Stock[1,13,4]: Componente[1,13,4] <= 0
- Stock[1,14,0]: Componente[1,14,0] <= 0
+ Stock[1,14,0]: Componente[1,14,0] <= 1
  Stock[1,14,1]: Componente[1,14,1] <= 0
  Stock[1,14,2]: Componente[1,14,2] <= 0
  Stock[1,14,3]: Componente[1,14,3] <= 0
@@ -4774,7 +5642,7 @@ Subject To
  Stock[3,1,2]: Componente[3,1,2] <= 0
  Stock[3,1,3]: Componente[3,1,3] <= 0
  Stock[3,1,4]: Componente[3,1,4] <= 0
- Stock[3,2,0]: Componente[3,2,0] <= 0
+ Stock[3,2,0]: Componente[3,2,0] <= 1
  Stock[3,2,1]: Componente[3,2,1] <= 0
  Stock[3,2,2]: Componente[3,2,2] <= 0
  Stock[3,2,3]: Componente[3,2,3] <= 0
@@ -4784,7 +5652,7 @@ Subject To
  Stock[3,3,2]: Componente[3,3,2] <= 4
  Stock[3,3,3]: Componente[3,3,3] <= 5
  Stock[3,3,4]: Componente[3,3,4] <= 2
- Stock[3,4,0]: Componente[3,4,0] <= 0
+ Stock[3,4,0]: Componente[3,4,0] <= 1
  Stock[3,4,1]: Componente[3,4,1] <= 0
  Stock[3,4,2]: Componente[3,4,2] <= 0
  Stock[3,4,3]: Componente[3,4,3] <= 0
@@ -4829,7 +5697,7 @@ Subject To
  Stock[3,12,2]: Componente[3,12,2] <= 4
  Stock[3,12,3]: Componente[3,12,3] <= 4
  Stock[3,12,4]: Componente[3,12,4] <= 3
- Stock[3,13,0]: Componente[3,13,0] <= 0
+ Stock[3,13,0]: Componente[3,13,0] <= 1
  Stock[3,13,1]: Componente[3,13,1] <= 0
  Stock[3,13,2]: Componente[3,13,2] <= 0
  Stock[3,13,3]: Componente[3,13,3] <= 0
@@ -4844,17 +5712,17 @@ Subject To
  Stock[3,15,2]: Componente[3,15,2] <= 1
  Stock[3,15,3]: Componente[3,15,3] <= 1
  Stock[3,15,4]: Componente[3,15,4] <= 1
- Stock[3,16,0]: Componente[3,16,0] <= 0
+ Stock[3,16,0]: Componente[3,16,0] <= 1
  Stock[3,16,1]: Componente[3,16,1] <= 0
  Stock[3,16,2]: Componente[3,16,2] <= 0
  Stock[3,16,3]: Componente[3,16,3] <= 0
  Stock[3,16,4]: Componente[3,16,4] <= 0
- Stock[3,17,0]: Componente[3,17,0] <= 0
+ Stock[3,17,0]: Componente[3,17,0] <= 1
  Stock[3,17,1]: Componente[3,17,1] <= 0
  Stock[3,17,2]: Componente[3,17,2] <= 0
  Stock[3,17,3]: Componente[3,17,3] <= 0
  Stock[3,17,4]: Componente[3,17,4] <= 0
- Stock[3,18,0]: Componente[3,18,0] <= 0
+ Stock[3,18,0]: Componente[3,18,0] <= 1
  Stock[3,18,1]: Componente[3,18,1] <= 0
  Stock[3,18,2]: Componente[3,18,2] <= 0
  Stock[3,18,3]: Componente[3,18,3] <= 0
@@ -4864,32 +5732,72 @@ Subject To
  Stock[3,19,2]: Componente[3,19,2] <= 0
  Stock[3,19,3]: Componente[3,19,3] <= 1
  Stock[3,19,4]: Componente[3,19,4] <= 0
- Stock[4,0,0]: Componente[4,0,0] <= 220
- Stock[4,0,1]: Componente[4,0,1] <= 29
- Stock[4,0,2]: Componente[4,0,2] <= 4
- Stock[4,0,3]: Componente[4,0,3] <= 1
- Stock[4,0,4]: Componente[4,0,4] <= 7
- Stock[4,1,0]: Componente[4,1,0] <= 230
- Stock[4,1,1]: Componente[4,1,1] <= 30
- Stock[4,1,2]: Componente[4,1,2] <= 3
+ Stock[3,20,0]: Componente[3,20,0] <= 5
+ Stock[3,20,1]: Componente[3,20,1] <= 13
+ Stock[3,20,2]: Componente[3,20,2] <= 5
+ Stock[3,20,3]: Componente[3,20,3] <= 5
+ Stock[3,20,4]: Componente[3,20,4] <= 6
+ Stock[3,21,0]: Componente[3,21,0] <= 4
+ Stock[3,21,1]: Componente[3,21,1] <= 2
+ Stock[3,21,2]: Componente[3,21,2] <= 1
+ Stock[3,21,3]: Componente[3,21,3] <= 0
+ Stock[3,21,4]: Componente[3,21,4] <= 1
+ Stock[3,22,0]: Componente[3,22,0] <= 1
+ Stock[3,22,1]: Componente[3,22,1] <= 0
+ Stock[3,22,2]: Componente[3,22,2] <= 0
+ Stock[3,22,3]: Componente[3,22,3] <= 0
+ Stock[3,22,4]: Componente[3,22,4] <= 0
+ Stock[3,23,0]: Componente[3,23,0] <= 1
+ Stock[3,23,1]: Componente[3,23,1] <= 0
+ Stock[3,23,2]: Componente[3,23,2] <= 0
+ Stock[3,23,3]: Componente[3,23,3] <= 0
+ Stock[3,23,4]: Componente[3,23,4] <= 0
+ Stock[3,24,0]: Componente[3,24,0] <= 0
+ Stock[3,24,1]: Componente[3,24,1] <= 0
+ Stock[3,24,2]: Componente[3,24,2] <= 1
+ Stock[3,24,3]: Componente[3,24,3] <= 0
+ Stock[3,24,4]: Componente[3,24,4] <= 1
+ Stock[3,25,0]: Componente[3,25,0] <= 2
+ Stock[3,25,1]: Componente[3,25,1] <= 3
+ Stock[3,25,2]: Componente[3,25,2] <= 1
+ Stock[3,25,3]: Componente[3,25,3] <= 0
+ Stock[3,25,4]: Componente[3,25,4] <= 2
+ Stock[3,26,0]: Componente[3,26,0] <= 1
+ Stock[3,26,1]: Componente[3,26,1] <= 4
+ Stock[3,26,2]: Componente[3,26,2] <= 0
+ Stock[3,26,3]: Componente[3,26,3] <= 2
+ Stock[3,26,4]: Componente[3,26,4] <= 0
+ Stock[3,27,0]: Componente[3,27,0] <= 0
+ Stock[3,27,1]: Componente[3,27,1] <= 1
+ Stock[3,27,2]: Componente[3,27,2] <= 0
+ Stock[3,27,3]: Componente[3,27,3] <= 0
+ Stock[3,27,4]: Componente[3,27,4] <= 1
+ Stock[4,0,0]: Componente[4,0,0] <= 230
+ Stock[4,0,1]: Componente[4,0,1] <= 30
+ Stock[4,0,2]: Componente[4,0,2] <= 3
+ Stock[4,0,3]: Componente[4,0,3] <= 0
+ Stock[4,0,4]: Componente[4,0,4] <= 0
+ Stock[4,1,0]: Componente[4,1,0] <= 90
+ Stock[4,1,1]: Componente[4,1,1] <= 0
+ Stock[4,1,2]: Componente[4,1,2] <= 0
  Stock[4,1,3]: Componente[4,1,3] <= 0
- Stock[4,1,4]: Componente[4,1,4] <= 0
- Stock[4,2,0]: Componente[4,2,0] <= 90
+ Stock[4,1,4]: Componente[4,1,4] <= 2
+ Stock[4,2,0]: Componente[4,2,0] <= 18
  Stock[4,2,1]: Componente[4,2,1] <= 0
  Stock[4,2,2]: Componente[4,2,2] <= 0
  Stock[4,2,3]: Componente[4,2,3] <= 0
- Stock[4,2,4]: Componente[4,2,4] <= 2
- Stock[4,3,0]: Componente[4,3,0] <= 18
+ Stock[4,2,4]: Componente[4,2,4] <= 6
+ Stock[4,3,0]: Componente[4,3,0] <= 3
  Stock[4,3,1]: Componente[4,3,1] <= 0
  Stock[4,3,2]: Componente[4,3,2] <= 0
  Stock[4,3,3]: Componente[4,3,3] <= 0
- Stock[4,3,4]: Componente[4,3,4] <= 6
+ Stock[4,3,4]: Componente[4,3,4] <= 0
  Stock[4,4,0]: Componente[4,4,0] <= 3
  Stock[4,4,1]: Componente[4,4,1] <= 0
  Stock[4,4,2]: Componente[4,4,2] <= 0
  Stock[4,4,3]: Componente[4,4,3] <= 0
  Stock[4,4,4]: Componente[4,4,4] <= 0
- Stock[4,5,0]: Componente[4,5,0] <= 3
+ Stock[4,5,0]: Componente[4,5,0] <= 1
  Stock[4,5,1]: Componente[4,5,1] <= 0
  Stock[4,5,2]: Componente[4,5,2] <= 0
  Stock[4,5,3]: Componente[4,5,3] <= 0
@@ -4899,11 +5807,6 @@ Subject To
  Stock[4,6,2]: Componente[4,6,2] <= 0
  Stock[4,6,3]: Componente[4,6,3] <= 0
  Stock[4,6,4]: Componente[4,6,4] <= 0
- Stock[4,7,0]: Componente[4,7,0] <= 0
- Stock[4,7,1]: Componente[4,7,1] <= 0
- Stock[4,7,2]: Componente[4,7,2] <= 0
- Stock[4,7,3]: Componente[4,7,3] <= 0
- Stock[4,7,4]: Componente[4,7,4] <= 0
  Stock[5,0,0]: Componente[5,0,0] <= 0
  Stock[5,0,1]: Componente[5,0,1] <= 0
  Stock[5,0,2]: Componente[5,0,2] <= 0
@@ -4914,201 +5817,561 @@ Subject To
  Stock[5,1,2]: Componente[5,1,2] <= 0
  Stock[5,1,3]: Componente[5,1,3] <= 3
  Stock[5,1,4]: Componente[5,1,4] <= 2
- Stock[5,2,0]: Componente[5,2,0] <= 0
+ Stock[5,2,0]: Componente[5,2,0] <= 1
  Stock[5,2,1]: Componente[5,2,1] <= 0
  Stock[5,2,2]: Componente[5,2,2] <= 0
  Stock[5,2,3]: Componente[5,2,3] <= 0
  Stock[5,2,4]: Componente[5,2,4] <= 0
- Stock[5,3,0]: Componente[5,3,0] <= 0
- Stock[5,3,1]: Componente[5,3,1] <= 0
- Stock[5,3,2]: Componente[5,3,2] <= 0
- Stock[5,3,3]: Componente[5,3,3] <= 0
- Stock[5,3,4]: Componente[5,3,4] <= 0
- Stock[5,4,0]: Componente[5,4,0] <= 7
- Stock[5,4,1]: Componente[5,4,1] <= 8
- Stock[5,4,2]: Componente[5,4,2] <= 6
- Stock[5,4,3]: Componente[5,4,3] <= 6
- Stock[5,4,4]: Componente[5,4,4] <= 3
+ Stock[5,3,0]: Componente[5,3,0] <= 7
+ Stock[5,3,1]: Componente[5,3,1] <= 8
+ Stock[5,3,2]: Componente[5,3,2] <= 6
+ Stock[5,3,3]: Componente[5,3,3] <= 6
+ Stock[5,3,4]: Componente[5,3,4] <= 3
+ Stock[5,4,0]: Componente[5,4,0] <= 1
+ Stock[5,4,1]: Componente[5,4,1] <= 0
+ Stock[5,4,2]: Componente[5,4,2] <= 0
+ Stock[5,4,3]: Componente[5,4,3] <= 0
+ Stock[5,4,4]: Componente[5,4,4] <= 1
  Stock[5,5,0]: Componente[5,5,0] <= 1
  Stock[5,5,1]: Componente[5,5,1] <= 0
  Stock[5,5,2]: Componente[5,5,2] <= 0
  Stock[5,5,3]: Componente[5,5,3] <= 0
  Stock[5,5,4]: Componente[5,5,4] <= 1
- Stock[5,6,0]: Componente[5,6,0] <= 1
+ Stock[5,6,0]: Componente[5,6,0] <= 0
  Stock[5,6,1]: Componente[5,6,1] <= 0
  Stock[5,6,2]: Componente[5,6,2] <= 0
  Stock[5,6,3]: Componente[5,6,3] <= 0
  Stock[5,6,4]: Componente[5,6,4] <= 1
- Stock[5,7,0]: Componente[5,7,0] <= 0
- Stock[5,7,1]: Componente[5,7,1] <= 0
+ Stock[5,7,0]: Componente[5,7,0] <= 3
+ Stock[5,7,1]: Componente[5,7,1] <= 2
  Stock[5,7,2]: Componente[5,7,2] <= 0
- Stock[5,7,3]: Componente[5,7,3] <= 0
- Stock[5,7,4]: Componente[5,7,4] <= 1
- Stock[5,8,0]: Componente[5,8,0] <= 3
- Stock[5,8,1]: Componente[5,8,1] <= 2
- Stock[5,8,2]: Componente[5,8,2] <= 0
- Stock[5,8,3]: Componente[5,8,3] <= 3
- Stock[5,8,4]: Componente[5,8,4] <= 0
- Stock[5,9,0]: Componente[5,9,0] <= 5
- Stock[5,9,1]: Componente[5,9,1] <= 6
+ Stock[5,7,3]: Componente[5,7,3] <= 3
+ Stock[5,7,4]: Componente[5,7,4] <= 0
+ Stock[5,8,0]: Componente[5,8,0] <= 5
+ Stock[5,8,1]: Componente[5,8,1] <= 6
+ Stock[5,8,2]: Componente[5,8,2] <= 1
+ Stock[5,8,3]: Componente[5,8,3] <= 0
+ Stock[5,8,4]: Componente[5,8,4] <= 2
+ Stock[5,9,0]: Componente[5,9,0] <= 7
+ Stock[5,9,1]: Componente[5,9,1] <= 8
  Stock[5,9,2]: Componente[5,9,2] <= 1
- Stock[5,9,3]: Componente[5,9,3] <= 0
- Stock[5,9,4]: Componente[5,9,4] <= 2
- Stock[5,10,0]: Componente[5,10,0] <= 0
- Stock[5,10,1]: Componente[5,10,1] <= 0
- Stock[5,10,2]: Componente[5,10,2] <= 0
- Stock[5,10,3]: Componente[5,10,3] <= 0
- Stock[5,10,4]: Componente[5,10,4] <= 0
- Stock[5,11,0]: Componente[5,11,0] <= 7
- Stock[5,11,1]: Componente[5,11,1] <= 8
- Stock[5,11,2]: Componente[5,11,2] <= 1
+ Stock[5,9,3]: Componente[5,9,3] <= 4
+ Stock[5,9,4]: Componente[5,9,4] <= 0
+ Stock[5,10,0]: Componente[5,10,0] <= 12
+ Stock[5,10,1]: Componente[5,10,1] <= 20
+ Stock[5,10,2]: Componente[5,10,2] <= 5
+ Stock[5,10,3]: Componente[5,10,3] <= 6
+ Stock[5,10,4]: Componente[5,10,4] <= 1
+ Stock[5,11,0]: Componente[5,11,0] <= 4
+ Stock[5,11,1]: Componente[5,11,1] <= 10
+ Stock[5,11,2]: Componente[5,11,2] <= 3
  Stock[5,11,3]: Componente[5,11,3] <= 4
- Stock[5,11,4]: Componente[5,11,4] <= 0
- Stock[5,12,0]: Componente[5,12,0] <= 12
- Stock[5,12,1]: Componente[5,12,1] <= 20
- Stock[5,12,2]: Componente[5,12,2] <= 5
- Stock[5,12,3]: Componente[5,12,3] <= 6
- Stock[5,12,4]: Componente[5,12,4] <= 1
- Stock[5,13,0]: Componente[5,13,0] <= 4
- Stock[5,13,1]: Componente[5,13,1] <= 10
- Stock[5,13,2]: Componente[5,13,2] <= 3
- Stock[5,13,3]: Componente[5,13,3] <= 4
- Stock[5,13,4]: Componente[5,13,4] <= 3
- Stock[5,14,0]: Componente[5,14,0] <= 9
- Stock[5,14,1]: Componente[5,14,1] <= 18
- Stock[5,14,2]: Componente[5,14,2] <= 3
- Stock[5,14,3]: Componente[5,14,3] <= 3
- Stock[5,14,4]: Componente[5,14,4] <= 2
+ Stock[5,11,4]: Componente[5,11,4] <= 3
+ Stock[5,12,0]: Componente[5,12,0] <= 9
+ Stock[5,12,1]: Componente[5,12,1] <= 18
+ Stock[5,12,2]: Componente[5,12,2] <= 3
+ Stock[5,12,3]: Componente[5,12,3] <= 3
+ Stock[5,12,4]: Componente[5,12,4] <= 2
+ Stock[5,13,0]: Componente[5,13,0] <= 1
+ Stock[5,13,1]: Componente[5,13,1] <= 2
+ Stock[5,13,2]: Componente[5,13,2] <= 1
+ Stock[5,13,3]: Componente[5,13,3] <= 0
+ Stock[5,13,4]: Componente[5,13,4] <= 0
+ Stock[5,14,0]: Componente[5,14,0] <= 1
+ Stock[5,14,1]: Componente[5,14,1] <= 0
+ Stock[5,14,2]: Componente[5,14,2] <= 0
+ Stock[5,14,3]: Componente[5,14,3] <= 0
+ Stock[5,14,4]: Componente[5,14,4] <= 1
  Stock[5,15,0]: Componente[5,15,0] <= 1
- Stock[5,15,1]: Componente[5,15,1] <= 2
+ Stock[5,15,1]: Componente[5,15,1] <= 1
  Stock[5,15,2]: Componente[5,15,2] <= 1
- Stock[5,15,3]: Componente[5,15,3] <= 0
+ Stock[5,15,3]: Componente[5,15,3] <= 2
  Stock[5,15,4]: Componente[5,15,4] <= 0
- Stock[5,16,0]: Componente[5,16,0] <= 1
- Stock[5,16,1]: Componente[5,16,1] <= 0
- Stock[5,16,2]: Componente[5,16,2] <= 0
- Stock[5,16,3]: Componente[5,16,3] <= 0
+ Stock[5,16,0]: Componente[5,16,0] <= 3
+ Stock[5,16,1]: Componente[5,16,1] <= 3
+ Stock[5,16,2]: Componente[5,16,2] <= 2
+ Stock[5,16,3]: Componente[5,16,3] <= 3
  Stock[5,16,4]: Componente[5,16,4] <= 1
- Stock[5,17,0]: Componente[5,17,0] <= 1
- Stock[5,17,1]: Componente[5,17,1] <= 1
- Stock[5,17,2]: Componente[5,17,2] <= 1
- Stock[5,17,3]: Componente[5,17,3] <= 2
- Stock[5,17,4]: Componente[5,17,4] <= 0
- Stock[5,18,0]: Componente[5,18,0] <= 3
- Stock[5,18,1]: Componente[5,18,1] <= 3
- Stock[5,18,2]: Componente[5,18,2] <= 2
- Stock[5,18,3]: Componente[5,18,3] <= 3
- Stock[5,18,4]: Componente[5,18,4] <= 1
- Stock[5,19,0]: Componente[5,19,0] <= 10
- Stock[5,19,1]: Componente[5,19,1] <= 13
- Stock[5,19,2]: Componente[5,19,2] <= 4
+ Stock[5,17,0]: Componente[5,17,0] <= 10
+ Stock[5,17,1]: Componente[5,17,1] <= 13
+ Stock[5,17,2]: Componente[5,17,2] <= 4
+ Stock[5,17,3]: Componente[5,17,3] <= 3
+ Stock[5,17,4]: Componente[5,17,4] <= 2
+ Stock[5,18,0]: Componente[5,18,0] <= 1
+ Stock[5,18,1]: Componente[5,18,1] <= 1
+ Stock[5,18,2]: Componente[5,18,2] <= 0
+ Stock[5,18,3]: Componente[5,18,3] <= 0
+ Stock[5,18,4]: Componente[5,18,4] <= 0
+ Stock[5,19,0]: Componente[5,19,0] <= 3
+ Stock[5,19,1]: Componente[5,19,1] <= 5
+ Stock[5,19,2]: Componente[5,19,2] <= 3
  Stock[5,19,3]: Componente[5,19,3] <= 3
- Stock[5,19,4]: Componente[5,19,4] <= 2
+ Stock[5,19,4]: Componente[5,19,4] <= 3
  Stock[5,20,0]: Componente[5,20,0] <= 1
- Stock[5,20,1]: Componente[5,20,1] <= 1
+ Stock[5,20,1]: Componente[5,20,1] <= 0
  Stock[5,20,2]: Componente[5,20,2] <= 0
  Stock[5,20,3]: Componente[5,20,3] <= 0
  Stock[5,20,4]: Componente[5,20,4] <= 0
  Stock[5,21,0]: Componente[5,21,0] <= 3
- Stock[5,21,1]: Componente[5,21,1] <= 5
+ Stock[5,21,1]: Componente[5,21,1] <= 3
  Stock[5,21,2]: Componente[5,21,2] <= 3
  Stock[5,21,3]: Componente[5,21,3] <= 3
- Stock[5,21,4]: Componente[5,21,4] <= 3
+ Stock[5,21,4]: Componente[5,21,4] <= 2
  Stock[5,22,0]: Componente[5,22,0] <= 1
- Stock[5,22,1]: Componente[5,22,1] <= 0
- Stock[5,22,2]: Componente[5,22,2] <= 0
+ Stock[5,22,1]: Componente[5,22,1] <= 1
+ Stock[5,22,2]: Componente[5,22,2] <= 1
  Stock[5,22,3]: Componente[5,22,3] <= 0
  Stock[5,22,4]: Componente[5,22,4] <= 0
  Stock[5,23,0]: Componente[5,23,0] <= 3
- Stock[5,23,1]: Componente[5,23,1] <= 3
+ Stock[5,23,1]: Componente[5,23,1] <= 4
  Stock[5,23,2]: Componente[5,23,2] <= 3
  Stock[5,23,3]: Componente[5,23,3] <= 3
  Stock[5,23,4]: Componente[5,23,4] <= 2
- Stock[5,24,0]: Componente[5,24,0] <= 1
- Stock[5,24,1]: Componente[5,24,1] <= 1
- Stock[5,24,2]: Componente[5,24,2] <= 1
- Stock[5,24,3]: Componente[5,24,3] <= 0
- Stock[5,24,4]: Componente[5,24,4] <= 0
- Stock[5,25,0]: Componente[5,25,0] <= 3
- Stock[5,25,1]: Componente[5,25,1] <= 4
+ Stock[5,24,0]: Componente[5,24,0] <= 4
+ Stock[5,24,1]: Componente[5,24,1] <= 7
+ Stock[5,24,2]: Componente[5,24,2] <= 4
+ Stock[5,24,3]: Componente[5,24,3] <= 4
+ Stock[5,24,4]: Componente[5,24,4] <= 2
+ Stock[5,25,0]: Componente[5,25,0] <= 6
+ Stock[5,25,1]: Componente[5,25,1] <= 8
  Stock[5,25,2]: Componente[5,25,2] <= 3
  Stock[5,25,3]: Componente[5,25,3] <= 3
- Stock[5,25,4]: Componente[5,25,4] <= 2
- Stock[5,26,0]: Componente[5,26,0] <= 4
- Stock[5,26,1]: Componente[5,26,1] <= 7
- Stock[5,26,2]: Componente[5,26,2] <= 4
- Stock[5,26,3]: Componente[5,26,3] <= 4
- Stock[5,26,4]: Componente[5,26,4] <= 2
- Stock[5,27,0]: Componente[5,27,0] <= 6
- Stock[5,27,1]: Componente[5,27,1] <= 8
- Stock[5,27,2]: Componente[5,27,2] <= 3
- Stock[5,27,3]: Componente[5,27,3] <= 3
- Stock[5,27,4]: Componente[5,27,4] <= 3
+ Stock[5,25,4]: Componente[5,25,4] <= 3
+ Stock[5,26,0]: Componente[5,26,0] <= 0
+ Stock[5,26,1]: Componente[5,26,1] <= 0
+ Stock[5,26,2]: Componente[5,26,2] <= 0
+ Stock[5,26,3]: Componente[5,26,3] <= 0
+ Stock[5,26,4]: Componente[5,26,4] <= 1
+ Stock[5,27,0]: Componente[5,27,0] <= 1
+ Stock[5,27,1]: Componente[5,27,1] <= 1
+ Stock[5,27,2]: Componente[5,27,2] <= 2
+ Stock[5,27,3]: Componente[5,27,3] <= 1
+ Stock[5,27,4]: Componente[5,27,4] <= 0
  Stock[5,28,0]: Componente[5,28,0] <= 0
  Stock[5,28,1]: Componente[5,28,1] <= 0
- Stock[5,28,2]: Componente[5,28,2] <= 0
+ Stock[5,28,2]: Componente[5,28,2] <= 1
  Stock[5,28,3]: Componente[5,28,3] <= 0
  Stock[5,28,4]: Componente[5,28,4] <= 0
  Stock[5,29,0]: Componente[5,29,0] <= 1
- Stock[5,29,1]: Componente[5,29,1] <= 1
- Stock[5,29,2]: Componente[5,29,2] <= 2
- Stock[5,29,3]: Componente[5,29,3] <= 1
+ Stock[5,29,1]: Componente[5,29,1] <= 0
+ Stock[5,29,2]: Componente[5,29,2] <= 0
+ Stock[5,29,3]: Componente[5,29,3] <= 0
  Stock[5,29,4]: Componente[5,29,4] <= 0
- Stock[5,30,0]: Componente[5,30,0] <= 0
- Stock[5,30,1]: Componente[5,30,1] <= 0
- Stock[5,30,2]: Componente[5,30,2] <= 1
- Stock[5,30,3]: Componente[5,30,3] <= 0
- Stock[5,30,4]: Componente[5,30,4] <= 0
- Stock[5,31,0]: Componente[5,31,0] <= 0
- Stock[5,31,1]: Componente[5,31,1] <= 0
- Stock[5,31,2]: Componente[5,31,2] <= 0
- Stock[5,31,3]: Componente[5,31,3] <= 0
- Stock[5,31,4]: Componente[5,31,4] <= 0
- Stock[5,32,0]: Componente[5,32,0] <= 3
- Stock[5,32,1]: Componente[5,32,1] <= 6
+ Stock[5,30,0]: Componente[5,30,0] <= 3
+ Stock[5,30,1]: Componente[5,30,1] <= 6
+ Stock[5,30,2]: Componente[5,30,2] <= 2
+ Stock[5,30,3]: Componente[5,30,3] <= 2
+ Stock[5,30,4]: Componente[5,30,4] <= 1
+ Stock[5,31,0]: Componente[5,31,0] <= 1
+ Stock[5,31,1]: Componente[5,31,1] <= 2
+ Stock[5,31,2]: Componente[5,31,2] <= 3
+ Stock[5,31,3]: Componente[5,31,3] <= 3
+ Stock[5,31,4]: Componente[5,31,4] <= 1
+ Stock[5,32,0]: Componente[5,32,0] <= 2
+ Stock[5,32,1]: Componente[5,32,1] <= 1
  Stock[5,32,2]: Componente[5,32,2] <= 2
- Stock[5,32,3]: Componente[5,32,3] <= 2
- Stock[5,32,4]: Componente[5,32,4] <= 1
- Stock[5,33,0]: Componente[5,33,0] <= 1
- Stock[5,33,1]: Componente[5,33,1] <= 2
- Stock[5,33,2]: Componente[5,33,2] <= 3
- Stock[5,33,3]: Componente[5,33,3] <= 3
- Stock[5,33,4]: Componente[5,33,4] <= 1
- Stock[5,34,0]: Componente[5,34,0] <= 2
+ Stock[5,32,3]: Componente[5,32,3] <= 1
+ Stock[5,32,4]: Componente[5,32,4] <= 0
+ Stock[5,33,0]: Componente[5,33,0] <= 0
+ Stock[5,33,1]: Componente[5,33,1] <= 0
+ Stock[5,33,2]: Componente[5,33,2] <= 0
+ Stock[5,33,3]: Componente[5,33,3] <= 1
+ Stock[5,33,4]: Componente[5,33,4] <= 0
+ Stock[5,34,0]: Componente[5,34,0] <= 1
  Stock[5,34,1]: Componente[5,34,1] <= 1
- Stock[5,34,2]: Componente[5,34,2] <= 2
+ Stock[5,34,2]: Componente[5,34,2] <= 1
  Stock[5,34,3]: Componente[5,34,3] <= 1
- Stock[5,34,4]: Componente[5,34,4] <= 0
+ Stock[5,34,4]: Componente[5,34,4] <= 1
  Stock[5,35,0]: Componente[5,35,0] <= 0
- Stock[5,35,1]: Componente[5,35,1] <= 0
+ Stock[5,35,1]: Componente[5,35,1] <= 1
  Stock[5,35,2]: Componente[5,35,2] <= 0
  Stock[5,35,3]: Componente[5,35,3] <= 0
  Stock[5,35,4]: Componente[5,35,4] <= 0
  Stock[5,36,0]: Componente[5,36,0] <= 1
- Stock[5,36,1]: Componente[5,36,1] <= 1
- Stock[5,36,2]: Componente[5,36,2] <= 1
- Stock[5,36,3]: Componente[5,36,3] <= 1
+ Stock[5,36,1]: Componente[5,36,1] <= 5
+ Stock[5,36,2]: Componente[5,36,2] <= 2
+ Stock[5,36,3]: Componente[5,36,3] <= 3
  Stock[5,36,4]: Componente[5,36,4] <= 1
  Stock[5,37,0]: Componente[5,37,0] <= 0
  Stock[5,37,1]: Componente[5,37,1] <= 0
  Stock[5,37,2]: Componente[5,37,2] <= 0
  Stock[5,37,3]: Componente[5,37,3] <= 0
- Stock[5,37,4]: Componente[5,37,4] <= 0
- Stock[5,38,0]: Componente[5,38,0] <= 1
- Stock[5,38,1]: Componente[5,38,1] <= 5
- Stock[5,38,2]: Componente[5,38,2] <= 2
- Stock[5,38,3]: Componente[5,38,3] <= 3
- Stock[5,38,4]: Componente[5,38,4] <= 1
- Stock[5,39,0]: Componente[5,39,0] <= 1
- Stock[5,39,1]: Componente[5,39,1] <= 2
- Stock[5,39,2]: Componente[5,39,2] <= 2
- Stock[5,39,3]: Componente[5,39,3] <= 1
- Stock[5,39,4]: Componente[5,39,4] <= 2
- Stock[5,40,0]: Componente[5,40,0] <= 0
- Stock[5,40,1]: Componente[5,40,1] <= 0
- Stock[5,40,2]: Componente[5,40,2] <= 0
- Stock[5,40,3]: Componente[5,40,3] <= 0
- Stock[5,40,4]: Componente[5,40,4] <= 0
+ Stock[5,37,4]: Componente[5,37,4] <= 1
+ Stock[6,0,0]: Componente[6,0,0] <= 0
+ Stock[6,0,1]: Componente[6,0,1] <= 1
+ Stock[6,0,2]: Componente[6,0,2] <= 0
+ Stock[6,0,3]: Componente[6,0,3] <= 0
+ Stock[6,0,4]: Componente[6,0,4] <= 0
+ Stock[6,1,0]: Componente[6,1,0] <= 1
+ Stock[6,1,1]: Componente[6,1,1] <= 0
+ Stock[6,1,2]: Componente[6,1,2] <= 1
+ Stock[6,1,3]: Componente[6,1,3] <= 1
+ Stock[6,1,4]: Componente[6,1,4] <= 0
+ Stock[6,2,0]: Componente[6,2,0] <= 1
+ Stock[6,2,1]: Componente[6,2,1] <= 0
+ Stock[6,2,2]: Componente[6,2,2] <= 0
+ Stock[6,2,3]: Componente[6,2,3] <= 0
+ Stock[6,2,4]: Componente[6,2,4] <= 0
+ Stock[6,3,0]: Componente[6,3,0] <= 1
+ Stock[6,3,1]: Componente[6,3,1] <= 0
+ Stock[6,3,2]: Componente[6,3,2] <= 0
+ Stock[6,3,3]: Componente[6,3,3] <= 0
+ Stock[6,3,4]: Componente[6,3,4] <= 0
+ Stock[6,4,0]: Componente[6,4,0] <= 0
+ Stock[6,4,1]: Componente[6,4,1] <= 0
+ Stock[6,4,2]: Componente[6,4,2] <= 0
+ Stock[6,4,3]: Componente[6,4,3] <= 0
+ Stock[6,4,4]: Componente[6,4,4] <= 1
+ Stock[6,5,0]: Componente[6,5,0] <= 1
+ Stock[6,5,1]: Componente[6,5,1] <= 0
+ Stock[6,5,2]: Componente[6,5,2] <= 0
+ Stock[6,5,3]: Componente[6,5,3] <= 0
+ Stock[6,5,4]: Componente[6,5,4] <= 0
+ Stock[6,6,0]: Componente[6,6,0] <= 1
+ Stock[6,6,1]: Componente[6,6,1] <= 0
+ Stock[6,6,2]: Componente[6,6,2] <= 0
+ Stock[6,6,3]: Componente[6,6,3] <= 0
+ Stock[6,6,4]: Componente[6,6,4] <= 0
+ Stock[6,7,0]: Componente[6,7,0] <= 0
+ Stock[6,7,1]: Componente[6,7,1] <= 0
+ Stock[6,7,2]: Componente[6,7,2] <= 0
+ Stock[6,7,3]: Componente[6,7,3] <= 1
+ Stock[6,7,4]: Componente[6,7,4] <= 0
+ Stock[6,8,0]: Componente[6,8,0] <= 1
+ Stock[6,8,1]: Componente[6,8,1] <= 0
+ Stock[6,8,2]: Componente[6,8,2] <= 0
+ Stock[6,8,3]: Componente[6,8,3] <= 0
+ Stock[6,8,4]: Componente[6,8,4] <= 0
+ Stock[6,9,0]: Componente[6,9,0] <= 1
+ Stock[6,9,1]: Componente[6,9,1] <= 0
+ Stock[6,9,2]: Componente[6,9,2] <= 0
+ Stock[6,9,3]: Componente[6,9,3] <= 0
+ Stock[6,9,4]: Componente[6,9,4] <= 0
+ Stock[6,10,0]: Componente[6,10,0] <= 3
+ Stock[6,10,1]: Componente[6,10,1] <= 1
+ Stock[6,10,2]: Componente[6,10,2] <= 1
+ Stock[6,10,3]: Componente[6,10,3] <= 1
+ Stock[6,10,4]: Componente[6,10,4] <= 0
+ Stock[6,11,0]: Componente[6,11,0] <= 2
+ Stock[6,11,1]: Componente[6,11,1] <= 1
+ Stock[6,11,2]: Componente[6,11,2] <= 1
+ Stock[6,11,3]: Componente[6,11,3] <= 1
+ Stock[6,11,4]: Componente[6,11,4] <= 0
+ Stock[6,12,0]: Componente[6,12,0] <= 1
+ Stock[6,12,1]: Componente[6,12,1] <= 1
+ Stock[6,12,2]: Componente[6,12,2] <= 1
+ Stock[6,12,3]: Componente[6,12,3] <= 1
+ Stock[6,12,4]: Componente[6,12,4] <= 0
+ Stock[6,13,0]: Componente[6,13,0] <= 1
+ Stock[6,13,1]: Componente[6,13,1] <= 0
+ Stock[6,13,2]: Componente[6,13,2] <= 0
+ Stock[6,13,3]: Componente[6,13,3] <= 0
+ Stock[6,13,4]: Componente[6,13,4] <= 0
+ Stock[6,14,0]: Componente[6,14,0] <= 1
+ Stock[6,14,1]: Componente[6,14,1] <= 1
+ Stock[6,14,2]: Componente[6,14,2] <= 0
+ Stock[6,14,3]: Componente[6,14,3] <= 0
+ Stock[6,14,4]: Componente[6,14,4] <= 0
+ Stock[6,15,0]: Componente[6,15,0] <= 0
+ Stock[6,15,1]: Componente[6,15,1] <= 0
+ Stock[6,15,2]: Componente[6,15,2] <= 0
+ Stock[6,15,3]: Componente[6,15,3] <= 0
+ Stock[6,15,4]: Componente[6,15,4] <= 1
+ Stock[6,16,0]: Componente[6,16,0] <= 1
+ Stock[6,16,1]: Componente[6,16,1] <= 0
+ Stock[6,16,2]: Componente[6,16,2] <= 0
+ Stock[6,16,3]: Componente[6,16,3] <= 0
+ Stock[6,16,4]: Componente[6,16,4] <= 0
+ Factor_de_forma[0]: - 2 Componente[0,0,0] - 2 Componente[0,0,1]
+   - 2 Componente[0,0,2] - 2 Componente[0,0,3] - 2 Componente[0,0,4]
+   - 2 Componente[0,1,0] - 2 Componente[0,1,1] - 2 Componente[0,1,2]
+   - 2 Componente[0,1,3] - 2 Componente[0,1,4] - 2 Componente[0,2,0]
+   - 2 Componente[0,2,1] - 2 Componente[0,2,2] - 2 Componente[0,2,3]
+   - 2 Componente[0,2,4] - 3 Componente[0,3,0] - 3 Componente[0,3,1]
+   - 3 Componente[0,3,2] - 3 Componente[0,3,3] - 3 Componente[0,3,4]
+   - 2 Componente[0,4,0] - 2 Componente[0,4,1] - 2 Componente[0,4,2]
+   - 2 Componente[0,4,3] - 2 Componente[0,4,4] - 2 Componente[0,5,0]
+   - 2 Componente[0,5,1] - 2 Componente[0,5,2] - 2 Componente[0,5,3]
+   - 2 Componente[0,5,4] - 2 Componente[0,6,0] - 2 Componente[0,6,1]
+   - 2 Componente[0,6,2] - 2 Componente[0,6,3] - 2 Componente[0,6,4]
+   - 2 Componente[0,7,0] - 2 Componente[0,7,1] - 2 Componente[0,7,2]
+   - 2 Componente[0,7,3] - 2 Componente[0,7,4] - 2 Componente[0,8,0]
+   - 2 Componente[0,8,1] - 2 Componente[0,8,2] - 2 Componente[0,8,3]
+   - 2 Componente[0,8,4] - 2 Componente[0,9,0] - 2 Componente[0,9,1]
+   - 2 Componente[0,9,2] - 2 Componente[0,9,3] - 2 Componente[0,9,4]
+   - 2 Componente[0,10,0] - 2 Componente[0,10,1] - 2 Componente[0,10,2]
+   - 2 Componente[0,10,3] - 2 Componente[0,10,4] - 3 Componente[0,11,0]
+   - 3 Componente[0,11,1] - 3 Componente[0,11,2] - 3 Componente[0,11,3]
+   - 3 Componente[0,11,4] - 2 Componente[0,12,0] - 2 Componente[0,12,1]
+   - 2 Componente[0,12,2] - 2 Componente[0,12,3] - 2 Componente[0,12,4]
+   - 2 Componente[0,13,0] - 2 Componente[0,13,1] - 2 Componente[0,13,2]
+   - 2 Componente[0,13,3] - 2 Componente[0,13,4] - 2 Componente[0,14,0]
+   - 2 Componente[0,14,1] - 2 Componente[0,14,2] - 2 Componente[0,14,3]
+   - 2 Componente[0,14,4] - 3 Componente[0,15,0] - 3 Componente[0,15,1]
+   - 3 Componente[0,15,2] - 3 Componente[0,15,3] - 3 Componente[0,15,4]
+   - 3 Componente[0,16,0] - 3 Componente[0,16,1] - 3 Componente[0,16,2]
+   - 3 Componente[0,16,3] - 3 Componente[0,16,4] - 3 Componente[0,17,0]
+   - 3 Componente[0,17,1] - 3 Componente[0,17,2] - 3 Componente[0,17,3]
+   - 3 Componente[0,17,4] - Componente[0,18,0] - Componente[0,18,1]
+   - Componente[0,18,2] - Componente[0,18,3] - Componente[0,18,4]
+   - 3 Componente[0,19,0] - 3 Componente[0,19,1] - 3 Componente[0,19,2]
+   - 3 Componente[0,19,3] - 3 Componente[0,19,4] + 2 Componente[6,0,0]
+   + 2 Componente[6,0,1] + 2 Componente[6,0,2] + 2 Componente[6,0,3]
+   + 2 Componente[6,0,4] + 3 Componente[6,1,0] + 3 Componente[6,1,1]
+   + 3 Componente[6,1,2] + 3 Componente[6,1,3] + 3 Componente[6,1,4]
+   + 4 Componente[6,2,0] + 4 Componente[6,2,1] + 4 Componente[6,2,2]
+   + 4 Componente[6,2,3] + 4 Componente[6,2,4] + 4 Componente[6,3,0]
+   + 4 Componente[6,3,1] + 4 Componente[6,3,2] + 4 Componente[6,3,3]
+   + 4 Componente[6,3,4] + 2 Componente[6,4,0] + 2 Componente[6,4,1]
+   + 2 Componente[6,4,2] + 2 Componente[6,4,3] + 2 Componente[6,4,4]
+   + 4 Componente[6,5,0] + 4 Componente[6,5,1] + 4 Componente[6,5,2]
+   + 4 Componente[6,5,3] + 4 Componente[6,5,4] + 3 Componente[6,6,0]
+   + 3 Componente[6,6,1] + 3 Componente[6,6,2] + 3 Componente[6,6,3]
+   + 3 Componente[6,6,4] + 3 Componente[6,7,0] + 3 Componente[6,7,1]
+   + 3 Componente[6,7,2] + 3 Componente[6,7,3] + 3 Componente[6,7,4]
+   + 3 Componente[6,8,0] + 3 Componente[6,8,1] + 3 Componente[6,8,2]
+   + 3 Componente[6,8,3] + 3 Componente[6,8,4] + 3 Componente[6,9,0]
+   + 3 Componente[6,9,1] + 3 Componente[6,9,2] + 3 Componente[6,9,3]
+   + 3 Componente[6,9,4] + 3 Componente[6,10,0] + 3 Componente[6,10,1]
+   + 3 Componente[6,10,2] + 3 Componente[6,10,3] + 3 Componente[6,10,4]
+   + 3 Componente[6,11,0] + 3 Componente[6,11,1] + 3 Componente[6,11,2]
+   + 3 Componente[6,11,3] + 3 Componente[6,11,4] + 3 Componente[6,12,0]
+   + 3 Componente[6,12,1] + 3 Componente[6,12,2] + 3 Componente[6,12,3]
+   + 3 Componente[6,12,4] + 3 Componente[6,13,0] + 3 Componente[6,13,1]
+   + 3 Componente[6,13,2] + 3 Componente[6,13,3] + 3 Componente[6,13,4]
+   + 3 Componente[6,14,0] + 3 Componente[6,14,1] + 3 Componente[6,14,2]
+   + 3 Componente[6,14,3] + 3 Componente[6,14,4] + 3 Componente[6,15,0]
+   + 3 Componente[6,15,1] + 3 Componente[6,15,2] + 3 Componente[6,15,3]
+   + 3 Componente[6,15,4] + 4 Componente[6,16,0] + 4 Componente[6,16,1]
+   + 4 Componente[6,16,2] + 4 Componente[6,16,3] + 4 Componente[6,16,4]
+   >= 0
+ Factor_de_forma[4]: - 3 Componente[4,0,0] - 3 Componente[4,0,1]
+   - 3 Componente[4,0,2] - 3 Componente[4,0,3] - 3 Componente[4,0,4]
+   - 3 Componente[4,1,0] - 3 Componente[4,1,1] - 3 Componente[4,1,2]
+   - 3 Componente[4,1,3] - 3 Componente[4,1,4] - 3 Componente[4,2,0]
+   - 3 Componente[4,2,1] - 3 Componente[4,2,2] - 3 Componente[4,2,3]
+   - 3 Componente[4,2,4] - 3 Componente[4,3,0] - 3 Componente[4,3,1]
+   - 3 Componente[4,3,2] - 3 Componente[4,3,3] - 3 Componente[4,3,4]
+   - 3 Componente[4,4,0] - 3 Componente[4,4,1] - 3 Componente[4,4,2]
+   - 3 Componente[4,4,3] - 3 Componente[4,4,4] - 3 Componente[4,5,0]
+   - 3 Componente[4,5,1] - 3 Componente[4,5,2] - 3 Componente[4,5,3]
+   - 3 Componente[4,5,4] - 3 Componente[4,6,0] - 3 Componente[4,6,1]
+   - 3 Componente[4,6,2] - 3 Componente[4,6,3] - 3 Componente[4,6,4]
+   + 2 Componente[6,0,0] + 2 Componente[6,0,1] + 2 Componente[6,0,2]
+   + 2 Componente[6,0,3] + 2 Componente[6,0,4] + 3 Componente[6,1,0]
+   + 3 Componente[6,1,1] + 3 Componente[6,1,2] + 3 Componente[6,1,3]
+   + 3 Componente[6,1,4] + 4 Componente[6,2,0] + 4 Componente[6,2,1]
+   + 4 Componente[6,2,2] + 4 Componente[6,2,3] + 4 Componente[6,2,4]
+   + 4 Componente[6,3,0] + 4 Componente[6,3,1] + 4 Componente[6,3,2]
+   + 4 Componente[6,3,3] + 4 Componente[6,3,4] + 2 Componente[6,4,0]
+   + 2 Componente[6,4,1] + 2 Componente[6,4,2] + 2 Componente[6,4,3]
+   + 2 Componente[6,4,4] + 4 Componente[6,5,0] + 4 Componente[6,5,1]
+   + 4 Componente[6,5,2] + 4 Componente[6,5,3] + 4 Componente[6,5,4]
+   + 3 Componente[6,6,0] + 3 Componente[6,6,1] + 3 Componente[6,6,2]
+   + 3 Componente[6,6,3] + 3 Componente[6,6,4] + 3 Componente[6,7,0]
+   + 3 Componente[6,7,1] + 3 Componente[6,7,2] + 3 Componente[6,7,3]
+   + 3 Componente[6,7,4] + 3 Componente[6,8,0] + 3 Componente[6,8,1]
+   + 3 Componente[6,8,2] + 3 Componente[6,8,3] + 3 Componente[6,8,4]
+   + 3 Componente[6,9,0] + 3 Componente[6,9,1] + 3 Componente[6,9,2]
+   + 3 Componente[6,9,3] + 3 Componente[6,9,4] + 3 Componente[6,10,0]
+   + 3 Componente[6,10,1] + 3 Componente[6,10,2] + 3 Componente[6,10,3]
+   + 3 Componente[6,10,4] + 3 Componente[6,11,0] + 3 Componente[6,11,1]
+   + 3 Componente[6,11,2] + 3 Componente[6,11,3] + 3 Componente[6,11,4]
+   + 3 Componente[6,12,0] + 3 Componente[6,12,1] + 3 Componente[6,12,2]
+   + 3 Componente[6,12,3] + 3 Componente[6,12,4] + 3 Componente[6,13,0]
+   + 3 Componente[6,13,1] + 3 Componente[6,13,2] + 3 Componente[6,13,3]
+   + 3 Componente[6,13,4] + 3 Componente[6,14,0] + 3 Componente[6,14,1]
+   + 3 Componente[6,14,2] + 3 Componente[6,14,3] + 3 Componente[6,14,4]
+   + 3 Componente[6,15,0] + 3 Componente[6,15,1] + 3 Componente[6,15,2]
+   + 3 Componente[6,15,3] + 3 Componente[6,15,4] + 4 Componente[6,16,0]
+   + 4 Componente[6,16,1] + 4 Componente[6,16,2] + 4 Componente[6,16,3]
+   + 4 Componente[6,16,4] >= 0
+ Respetar_largo_tarjeta_de_video: - Componente[5,0,0] - Componente[5,0,1]
+   - Componente[5,0,2] - Componente[5,0,3] - Componente[5,0,4]
+   - Componente[5,1,0] - Componente[5,1,1] - Componente[5,1,2]
+   - Componente[5,1,3] - Componente[5,1,4] - Componente[5,2,0]
+   - Componente[5,2,1] - Componente[5,2,2] - Componente[5,2,3]
+   - Componente[5,2,4] - Componente[5,3,0] - Componente[5,3,1]
+   - Componente[5,3,2] - Componente[5,3,3] - Componente[5,3,4]
+   - Componente[5,4,0] - Componente[5,4,1] - Componente[5,4,2]
+   - Componente[5,4,3] - Componente[5,4,4] - Componente[5,5,0]
+   - Componente[5,5,1] - Componente[5,5,2] - Componente[5,5,3]
+   - Componente[5,5,4] - 2 Componente[5,6,0] - 2 Componente[5,6,1]
+   - 2 Componente[5,6,2] - 2 Componente[5,6,3] - 2 Componente[5,6,4]
+   - 2 Componente[5,7,0] - 2 Componente[5,7,1] - 2 Componente[5,7,2]
+   - 2 Componente[5,7,3] - 2 Componente[5,7,4] - Componente[5,8,0]
+   - Componente[5,8,1] - Componente[5,8,2] - Componente[5,8,3]
+   - Componente[5,8,4] - 2 Componente[5,9,0] - 2 Componente[5,9,1]
+   - 2 Componente[5,9,2] - 2 Componente[5,9,3] - 2 Componente[5,9,4]
+   - 2 Componente[5,10,0] - 2 Componente[5,10,1] - 2 Componente[5,10,2]
+   - 2 Componente[5,10,3] - 2 Componente[5,10,4] - 2 Componente[5,11,0]
+   - 2 Componente[5,11,1] - 2 Componente[5,11,2] - 2 Componente[5,11,3]
+   - 2 Componente[5,11,4] - 2 Componente[5,12,0] - 2 Componente[5,12,1]
+   - 2 Componente[5,12,2] - 2 Componente[5,12,3] - 2 Componente[5,12,4]
+   - 2 Componente[5,13,0] - 2 Componente[5,13,1] - 2 Componente[5,13,2]
+   - 2 Componente[5,13,3] - 2 Componente[5,13,4] - Componente[5,14,0]
+   - Componente[5,14,1] - Componente[5,14,2] - Componente[5,14,3]
+   - Componente[5,14,4] - 2 Componente[5,15,0] - 2 Componente[5,15,1]
+   - 2 Componente[5,15,2] - 2 Componente[5,15,3] - 2 Componente[5,15,4]
+   - 2 Componente[5,16,0] - 2 Componente[5,16,1] - 2 Componente[5,16,2]
+   - 2 Componente[5,16,3] - 2 Componente[5,16,4] - 2 Componente[5,17,0]
+   - 2 Componente[5,17,1] - 2 Componente[5,17,2] - 2 Componente[5,17,3]
+   - 2 Componente[5,17,4] - 2 Componente[5,18,0] - 2 Componente[5,18,1]
+   - 2 Componente[5,18,2] - 2 Componente[5,18,3] - 2 Componente[5,18,4]
+   - 2 Componente[5,19,0] - 2 Componente[5,19,1] - 2 Componente[5,19,2]
+   - 2 Componente[5,19,3] - 2 Componente[5,19,4] - 2 Componente[5,20,0]
+   - 2 Componente[5,20,1] - 2 Componente[5,20,2] - 2 Componente[5,20,3]
+   - 2 Componente[5,20,4] - 2 Componente[5,21,0] - 2 Componente[5,21,1]
+   - 2 Componente[5,21,2] - 2 Componente[5,21,3] - 2 Componente[5,21,4]
+   - Componente[5,22,0] - Componente[5,22,1] - Componente[5,22,2]
+   - Componente[5,22,3] - Componente[5,22,4] - 2 Componente[5,23,0]
+   - 2 Componente[5,23,1] - 2 Componente[5,23,2] - 2 Componente[5,23,3]
+   - 2 Componente[5,23,4] - Componente[5,24,0] - Componente[5,24,1]
+   - Componente[5,24,2] - Componente[5,24,3] - Componente[5,24,4]
+   - 2 Componente[5,25,0] - 2 Componente[5,25,1] - 2 Componente[5,25,2]
+   - 2 Componente[5,25,3] - 2 Componente[5,25,4] - 2 Componente[5,26,0]
+   - 2 Componente[5,26,1] - 2 Componente[5,26,2] - 2 Componente[5,26,3]
+   - 2 Componente[5,26,4] - Componente[5,27,0] - Componente[5,27,1]
+   - Componente[5,27,2] - Componente[5,27,3] - Componente[5,27,4]
+   - 2 Componente[5,28,0] - 2 Componente[5,28,1] - 2 Componente[5,28,2]
+   - 2 Componente[5,28,3] - 2 Componente[5,28,4] - 2 Componente[5,29,0]
+   - 2 Componente[5,29,1] - 2 Componente[5,29,2] - 2 Componente[5,29,3]
+   - 2 Componente[5,29,4] - Componente[5,30,0] - Componente[5,30,1]
+   - Componente[5,30,2] - Componente[5,30,3] - Componente[5,30,4]
+   - 2 Componente[5,31,0] - 2 Componente[5,31,1] - 2 Componente[5,31,2]
+   - 2 Componente[5,31,3] - 2 Componente[5,31,4] - Componente[5,32,0]
+   - Componente[5,32,1] - Componente[5,32,2] - Componente[5,32,3]
+   - Componente[5,32,4] - Componente[5,33,0] - Componente[5,33,1]
+   - Componente[5,33,2] - Componente[5,33,3] - Componente[5,33,4]
+   - 2 Componente[5,34,0] - 2 Componente[5,34,1] - 2 Componente[5,34,2]
+   - 2 Componente[5,34,3] - 2 Componente[5,34,4] - 2 Componente[5,35,0]
+   - 2 Componente[5,35,1] - 2 Componente[5,35,2] - 2 Componente[5,35,3]
+   - 2 Componente[5,35,4] - 2 Componente[5,36,0] - 2 Componente[5,36,1]
+   - 2 Componente[5,36,2] - 2 Componente[5,36,3] - 2 Componente[5,36,4]
+   - 2 Componente[5,37,0] - 2 Componente[5,37,1] - 2 Componente[5,37,2]
+   - 2 Componente[5,37,3] - 2 Componente[5,37,4] + Componente[6,0,0]
+   + Componente[6,0,1] + Componente[6,0,2] + Componente[6,0,3]
+   + Componente[6,0,4] + Componente[6,1,0] + Componente[6,1,1]
+   + Componente[6,1,2] + Componente[6,1,3] + Componente[6,1,4]
+   + 2 Componente[6,2,0] + 2 Componente[6,2,1] + 2 Componente[6,2,2]
+   + 2 Componente[6,2,3] + 2 Componente[6,2,4] + 2 Componente[6,3,0]
+   + 2 Componente[6,3,1] + 2 Componente[6,3,2] + 2 Componente[6,3,3]
+   + 2 Componente[6,3,4] + Componente[6,4,0] + Componente[6,4,1]
+   + Componente[6,4,2] + Componente[6,4,3] + Componente[6,4,4]
+   + 2 Componente[6,5,0] + 2 Componente[6,5,1] + 2 Componente[6,5,2]
+   + 2 Componente[6,5,3] + 2 Componente[6,5,4] + 2 Componente[6,6,0]
+   + 2 Componente[6,6,1] + 2 Componente[6,6,2] + 2 Componente[6,6,3]
+   + 2 Componente[6,6,4] + 2 Componente[6,7,0] + 2 Componente[6,7,1]
+   + 2 Componente[6,7,2] + 2 Componente[6,7,3] + 2 Componente[6,7,4]
+   + 2 Componente[6,8,0] + 2 Componente[6,8,1] + 2 Componente[6,8,2]
+   + 2 Componente[6,8,3] + 2 Componente[6,8,4] + Componente[6,9,0]
+   + Componente[6,9,1] + Componente[6,9,2] + Componente[6,9,3]
+   + Componente[6,9,4] + 2 Componente[6,10,0] + 2 Componente[6,10,1]
+   + 2 Componente[6,10,2] + 2 Componente[6,10,3] + 2 Componente[6,10,4]
+   + 2 Componente[6,11,0] + 2 Componente[6,11,1] + 2 Componente[6,11,2]
+   + 2 Componente[6,11,3] + 2 Componente[6,11,4] + 2 Componente[6,12,0]
+   + 2 Componente[6,12,1] + 2 Componente[6,12,2] + 2 Componente[6,12,3]
+   + 2 Componente[6,12,4] + 2 Componente[6,13,0] + 2 Componente[6,13,1]
+   + 2 Componente[6,13,2] + 2 Componente[6,13,3] + 2 Componente[6,13,4]
+   + 2 Componente[6,14,0] + 2 Componente[6,14,1] + 2 Componente[6,14,2]
+   + 2 Componente[6,14,3] + 2 Componente[6,14,4] + 2 Componente[6,15,0]
+   + 2 Componente[6,15,1] + 2 Componente[6,15,2] + 2 Componente[6,15,3]
+   + 2 Componente[6,15,4] + 2 Componente[6,16,0] + 2 Componente[6,16,1]
+   + 2 Componente[6,16,2] + 2 Componente[6,16,3] + 2 Componente[6,16,4]
+   >= 0
+ Respetar_ancho_tarjeta_de_video: - Componente[5,0,0] - Componente[5,0,1]
+   - Componente[5,0,2] - Componente[5,0,3] - Componente[5,0,4]
+   - Componente[5,1,0] - Componente[5,1,1] - Componente[5,1,2]
+   - Componente[5,1,3] - Componente[5,1,4] - Componente[5,2,0]
+   - Componente[5,2,1] - Componente[5,2,2] - Componente[5,2,3]
+   - Componente[5,2,4] - Componente[5,3,0] - Componente[5,3,1]
+   - Componente[5,3,2] - Componente[5,3,3] - Componente[5,3,4]
+   - Componente[5,4,0] - Componente[5,4,1] - Componente[5,4,2]
+   - Componente[5,4,3] - Componente[5,4,4] - Componente[5,5,0]
+   - Componente[5,5,1] - Componente[5,5,2] - Componente[5,5,3]
+   - Componente[5,5,4] - 2 Componente[5,6,0] - 2 Componente[5,6,1]
+   - 2 Componente[5,6,2] - 2 Componente[5,6,3] - 2 Componente[5,6,4]
+   - 2 Componente[5,7,0] - 2 Componente[5,7,1] - 2 Componente[5,7,2]
+   - 2 Componente[5,7,3] - 2 Componente[5,7,4] - Componente[5,8,0]
+   - Componente[5,8,1] - Componente[5,8,2] - Componente[5,8,3]
+   - Componente[5,8,4] - 2 Componente[5,9,0] - 2 Componente[5,9,1]
+   - 2 Componente[5,9,2] - 2 Componente[5,9,3] - 2 Componente[5,9,4]
+   - 2 Componente[5,10,0] - 2 Componente[5,10,1] - 2 Componente[5,10,2]
+   - 2 Componente[5,10,3] - 2 Componente[5,10,4] - 2 Componente[5,11,0]
+   - 2 Componente[5,11,1] - 2 Componente[5,11,2] - 2 Componente[5,11,3]
+   - 2 Componente[5,11,4] - 2 Componente[5,12,0] - 2 Componente[5,12,1]
+   - 2 Componente[5,12,2] - 2 Componente[5,12,3] - 2 Componente[5,12,4]
+   - 2 Componente[5,13,0] - 2 Componente[5,13,1] - 2 Componente[5,13,2]
+   - 2 Componente[5,13,3] - 2 Componente[5,13,4] - Componente[5,14,0]
+   - Componente[5,14,1] - Componente[5,14,2] - Componente[5,14,3]
+   - Componente[5,14,4] - 2 Componente[5,15,0] - 2 Componente[5,15,1]
+   - 2 Componente[5,15,2] - 2 Componente[5,15,3] - 2 Componente[5,15,4]
+   - 2 Componente[5,16,0] - 2 Componente[5,16,1] - 2 Componente[5,16,2]
+   - 2 Componente[5,16,3] - 2 Componente[5,16,4] - 2 Componente[5,17,0]
+   - 2 Componente[5,17,1] - 2 Componente[5,17,2] - 2 Componente[5,17,3]
+   - 2 Componente[5,17,4] - 2 Componente[5,18,0] - 2 Componente[5,18,1]
+   - 2 Componente[5,18,2] - 2 Componente[5,18,3] - 2 Componente[5,18,4]
+   - 2 Componente[5,19,0] - 2 Componente[5,19,1] - 2 Componente[5,19,2]
+   - 2 Componente[5,19,3] - 2 Componente[5,19,4] - 2 Componente[5,20,0]
+   - 2 Componente[5,20,1] - 2 Componente[5,20,2] - 2 Componente[5,20,3]
+   - 2 Componente[5,20,4] - 2 Componente[5,21,0] - 2 Componente[5,21,1]
+   - 2 Componente[5,21,2] - 2 Componente[5,21,3] - 2 Componente[5,21,4]
+   - 2 Componente[5,22,0] - 2 Componente[5,22,1] - 2 Componente[5,22,2]
+   - 2 Componente[5,22,3] - 2 Componente[5,22,4] - 2 Componente[5,23,0]
+   - 2 Componente[5,23,1] - 2 Componente[5,23,2] - 2 Componente[5,23,3]
+   - 2 Componente[5,23,4] - 2 Componente[5,24,0] - 2 Componente[5,24,1]
+   - 2 Componente[5,24,2] - 2 Componente[5,24,3] - 2 Componente[5,24,4]
+   - 2 Componente[5,25,0] - 2 Componente[5,25,1] - 2 Componente[5,25,2]
+   - 2 Componente[5,25,3] - 2 Componente[5,25,4] - 2 Componente[5,26,0]
+   - 2 Componente[5,26,1] - 2 Componente[5,26,2] - 2 Componente[5,26,3]
+   - 2 Componente[5,26,4] - 2 Componente[5,27,0] - 2 Componente[5,27,1]
+   - 2 Componente[5,27,2] - 2 Componente[5,27,3] - 2 Componente[5,27,4]
+   - 2 Componente[5,28,0] - 2 Componente[5,28,1] - 2 Componente[5,28,2]
+   - 2 Componente[5,28,3] - 2 Componente[5,28,4] - 2 Componente[5,29,0]
+   - 2 Componente[5,29,1] - 2 Componente[5,29,2] - 2 Componente[5,29,3]
+   - 2 Componente[5,29,4] - 2 Componente[5,30,0] - 2 Componente[5,30,1]
+   - 2 Componente[5,30,2] - 2 Componente[5,30,3] - 2 Componente[5,30,4]
+   - 2 Componente[5,31,0] - 2 Componente[5,31,1] - 2 Componente[5,31,2]
+   - 2 Componente[5,31,3] - 2 Componente[5,31,4] - 2 Componente[5,32,0]
+   - 2 Componente[5,32,1] - 2 Componente[5,32,2] - 2 Componente[5,32,3]
+   - 2 Componente[5,32,4] - 2 Componente[5,33,0] - 2 Componente[5,33,1]
+   - 2 Componente[5,33,2] - 2 Componente[5,33,3] - 2 Componente[5,33,4]
+   - 2 Componente[5,34,0] - 2 Componente[5,34,1] - 2 Componente[5,34,2]
+   - 2 Componente[5,34,3] - 2 Componente[5,34,4] - 2 Componente[5,35,0]
+   - 2 Componente[5,35,1] - 2 Componente[5,35,2] - 2 Componente[5,35,3]
+   - 2 Componente[5,35,4] - 2 Componente[5,36,0] - 2 Componente[5,36,1]
+   - 2 Componente[5,36,2] - 2 Componente[5,36,3] - 2 Componente[5,36,4]
+   - 2 Componente[5,37,0] - 2 Componente[5,37,1] - 2 Componente[5,37,2]
+   - 2 Componente[5,37,3] - 2 Componente[5,37,4] + Componente[6,0,0]
+   + Componente[6,0,1] + Componente[6,0,2] + Componente[6,0,3]
+   + Componente[6,0,4] + 2 Componente[6,1,0] + 2 Componente[6,1,1]
+   + 2 Componente[6,1,2] + 2 Componente[6,1,3] + 2 Componente[6,1,4]
+   + 2 Componente[6,2,0] + 2 Componente[6,2,1] + 2 Componente[6,2,2]
+   + 2 Componente[6,2,3] + 2 Componente[6,2,4] + 2 Componente[6,3,0]
+   + 2 Componente[6,3,1] + 2 Componente[6,3,2] + 2 Componente[6,3,3]
+   + 2 Componente[6,3,4] + Componente[6,4,0] + Componente[6,4,1]
+   + Componente[6,4,2] + Componente[6,4,3] + Componente[6,4,4]
+   + 2 Componente[6,5,0] + 2 Componente[6,5,1] + 2 Componente[6,5,2]
+   + 2 Componente[6,5,3] + 2 Componente[6,5,4] + 2 Componente[6,6,0]
+   + 2 Componente[6,6,1] + 2 Componente[6,6,2] + 2 Componente[6,6,3]
+   + 2 Componente[6,6,4] + 2 Componente[6,7,0] + 2 Componente[6,7,1]
+   + 2 Componente[6,7,2] + 2 Componente[6,7,3] + 2 Componente[6,7,4]
+   + 2 Componente[6,8,0] + 2 Componente[6,8,1] + 2 Componente[6,8,2]
+   + 2 Componente[6,8,3] + 2 Componente[6,8,4] + 2 Componente[6,9,0]
+   + 2 Componente[6,9,1] + 2 Componente[6,9,2] + 2 Componente[6,9,3]
+   + 2 Componente[6,9,4] + 2 Componente[6,10,0] + 2 Componente[6,10,1]
+   + 2 Componente[6,10,2] + 2 Componente[6,10,3] + 2 Componente[6,10,4]
+   + 2 Componente[6,11,0] + 2 Componente[6,11,1] + 2 Componente[6,11,2]
+   + 2 Componente[6,11,3] + 2 Componente[6,11,4] + 2 Componente[6,12,0]
+   + 2 Componente[6,12,1] + 2 Componente[6,12,2] + 2 Componente[6,12,3]
+   + 2 Componente[6,12,4] + 2 Componente[6,13,0] + 2 Componente[6,13,1]
+   + 2 Componente[6,13,2] + 2 Componente[6,13,3] + 2 Componente[6,13,4]
+   + 2 Componente[6,14,0] + 2 Componente[6,14,1] + 2 Componente[6,14,2]
+   + 2 Componente[6,14,3] + 2 Componente[6,14,4] + 2 Componente[6,15,0]
+   + 2 Componente[6,15,1] + 2 Componente[6,15,2] + 2 Componente[6,15,3]
+   + 2 Componente[6,15,4] + 2 Componente[6,16,0] + 2 Componente[6,16,1]
+   + 2 Componente[6,16,2] + 2 Componente[6,16,3] + 2 Componente[6,16,4]
+   >= 0
  Naturaleza_x_it[0,0,0]: Componente[0,0,0] >= 0
  Naturaleza_x_it[0,0,1]: Componente[0,0,1] >= 0
  Naturaleza_x_it[0,0,2]: Componente[0,0,2] >= 0
@@ -5509,6 +6772,46 @@ Subject To
  Naturaleza_x_it[3,19,2]: Componente[3,19,2] >= 0
  Naturaleza_x_it[3,19,3]: Componente[3,19,3] >= 0
  Naturaleza_x_it[3,19,4]: Componente[3,19,4] >= 0
+ Naturaleza_x_it[3,20,0]: Componente[3,20,0] >= 0
+ Naturaleza_x_it[3,20,1]: Componente[3,20,1] >= 0
+ Naturaleza_x_it[3,20,2]: Componente[3,20,2] >= 0
+ Naturaleza_x_it[3,20,3]: Componente[3,20,3] >= 0
+ Naturaleza_x_it[3,20,4]: Componente[3,20,4] >= 0
+ Naturaleza_x_it[3,21,0]: Componente[3,21,0] >= 0
+ Naturaleza_x_it[3,21,1]: Componente[3,21,1] >= 0
+ Naturaleza_x_it[3,21,2]: Componente[3,21,2] >= 0
+ Naturaleza_x_it[3,21,3]: Componente[3,21,3] >= 0
+ Naturaleza_x_it[3,21,4]: Componente[3,21,4] >= 0
+ Naturaleza_x_it[3,22,0]: Componente[3,22,0] >= 0
+ Naturaleza_x_it[3,22,1]: Componente[3,22,1] >= 0
+ Naturaleza_x_it[3,22,2]: Componente[3,22,2] >= 0
+ Naturaleza_x_it[3,22,3]: Componente[3,22,3] >= 0
+ Naturaleza_x_it[3,22,4]: Componente[3,22,4] >= 0
+ Naturaleza_x_it[3,23,0]: Componente[3,23,0] >= 0
+ Naturaleza_x_it[3,23,1]: Componente[3,23,1] >= 0
+ Naturaleza_x_it[3,23,2]: Componente[3,23,2] >= 0
+ Naturaleza_x_it[3,23,3]: Componente[3,23,3] >= 0
+ Naturaleza_x_it[3,23,4]: Componente[3,23,4] >= 0
+ Naturaleza_x_it[3,24,0]: Componente[3,24,0] >= 0
+ Naturaleza_x_it[3,24,1]: Componente[3,24,1] >= 0
+ Naturaleza_x_it[3,24,2]: Componente[3,24,2] >= 0
+ Naturaleza_x_it[3,24,3]: Componente[3,24,3] >= 0
+ Naturaleza_x_it[3,24,4]: Componente[3,24,4] >= 0
+ Naturaleza_x_it[3,25,0]: Componente[3,25,0] >= 0
+ Naturaleza_x_it[3,25,1]: Componente[3,25,1] >= 0
+ Naturaleza_x_it[3,25,2]: Componente[3,25,2] >= 0
+ Naturaleza_x_it[3,25,3]: Componente[3,25,3] >= 0
+ Naturaleza_x_it[3,25,4]: Componente[3,25,4] >= 0
+ Naturaleza_x_it[3,26,0]: Componente[3,26,0] >= 0
+ Naturaleza_x_it[3,26,1]: Componente[3,26,1] >= 0
+ Naturaleza_x_it[3,26,2]: Componente[3,26,2] >= 0
+ Naturaleza_x_it[3,26,3]: Componente[3,26,3] >= 0
+ Naturaleza_x_it[3,26,4]: Componente[3,26,4] >= 0
+ Naturaleza_x_it[3,27,0]: Componente[3,27,0] >= 0
+ Naturaleza_x_it[3,27,1]: Componente[3,27,1] >= 0
+ Naturaleza_x_it[3,27,2]: Componente[3,27,2] >= 0
+ Naturaleza_x_it[3,27,3]: Componente[3,27,3] >= 0
+ Naturaleza_x_it[3,27,4]: Componente[3,27,4] >= 0
  Naturaleza_x_it[4,0,0]: Componente[4,0,0] >= 0
  Naturaleza_x_it[4,0,1]: Componente[4,0,1] >= 0
  Naturaleza_x_it[4,0,2]: Componente[4,0,2] >= 0
@@ -5544,11 +6847,6 @@ Subject To
  Naturaleza_x_it[4,6,2]: Componente[4,6,2] >= 0
  Naturaleza_x_it[4,6,3]: Componente[4,6,3] >= 0
  Naturaleza_x_it[4,6,4]: Componente[4,6,4] >= 0
- Naturaleza_x_it[4,7,0]: Componente[4,7,0] >= 0
- Naturaleza_x_it[4,7,1]: Componente[4,7,1] >= 0
- Naturaleza_x_it[4,7,2]: Componente[4,7,2] >= 0
- Naturaleza_x_it[4,7,3]: Componente[4,7,3] >= 0
- Naturaleza_x_it[4,7,4]: Componente[4,7,4] >= 0
  Naturaleza_x_it[5,0,0]: Componente[5,0,0] >= 0
  Naturaleza_x_it[5,0,1]: Componente[5,0,1] >= 0
  Naturaleza_x_it[5,0,2]: Componente[5,0,2] >= 0
@@ -5739,21 +7037,91 @@ Subject To
  Naturaleza_x_it[5,37,2]: Componente[5,37,2] >= 0
  Naturaleza_x_it[5,37,3]: Componente[5,37,3] >= 0
  Naturaleza_x_it[5,37,4]: Componente[5,37,4] >= 0
- Naturaleza_x_it[5,38,0]: Componente[5,38,0] >= 0
- Naturaleza_x_it[5,38,1]: Componente[5,38,1] >= 0
- Naturaleza_x_it[5,38,2]: Componente[5,38,2] >= 0
- Naturaleza_x_it[5,38,3]: Componente[5,38,3] >= 0
- Naturaleza_x_it[5,38,4]: Componente[5,38,4] >= 0
- Naturaleza_x_it[5,39,0]: Componente[5,39,0] >= 0
- Naturaleza_x_it[5,39,1]: Componente[5,39,1] >= 0
- Naturaleza_x_it[5,39,2]: Componente[5,39,2] >= 0
- Naturaleza_x_it[5,39,3]: Componente[5,39,3] >= 0
- Naturaleza_x_it[5,39,4]: Componente[5,39,4] >= 0
- Naturaleza_x_it[5,40,0]: Componente[5,40,0] >= 0
- Naturaleza_x_it[5,40,1]: Componente[5,40,1] >= 0
- Naturaleza_x_it[5,40,2]: Componente[5,40,2] >= 0
- Naturaleza_x_it[5,40,3]: Componente[5,40,3] >= 0
- Naturaleza_x_it[5,40,4]: Componente[5,40,4] >= 0
+ Naturaleza_x_it[6,0,0]: Componente[6,0,0] >= 0
+ Naturaleza_x_it[6,0,1]: Componente[6,0,1] >= 0
+ Naturaleza_x_it[6,0,2]: Componente[6,0,2] >= 0
+ Naturaleza_x_it[6,0,3]: Componente[6,0,3] >= 0
+ Naturaleza_x_it[6,0,4]: Componente[6,0,4] >= 0
+ Naturaleza_x_it[6,1,0]: Componente[6,1,0] >= 0
+ Naturaleza_x_it[6,1,1]: Componente[6,1,1] >= 0
+ Naturaleza_x_it[6,1,2]: Componente[6,1,2] >= 0
+ Naturaleza_x_it[6,1,3]: Componente[6,1,3] >= 0
+ Naturaleza_x_it[6,1,4]: Componente[6,1,4] >= 0
+ Naturaleza_x_it[6,2,0]: Componente[6,2,0] >= 0
+ Naturaleza_x_it[6,2,1]: Componente[6,2,1] >= 0
+ Naturaleza_x_it[6,2,2]: Componente[6,2,2] >= 0
+ Naturaleza_x_it[6,2,3]: Componente[6,2,3] >= 0
+ Naturaleza_x_it[6,2,4]: Componente[6,2,4] >= 0
+ Naturaleza_x_it[6,3,0]: Componente[6,3,0] >= 0
+ Naturaleza_x_it[6,3,1]: Componente[6,3,1] >= 0
+ Naturaleza_x_it[6,3,2]: Componente[6,3,2] >= 0
+ Naturaleza_x_it[6,3,3]: Componente[6,3,3] >= 0
+ Naturaleza_x_it[6,3,4]: Componente[6,3,4] >= 0
+ Naturaleza_x_it[6,4,0]: Componente[6,4,0] >= 0
+ Naturaleza_x_it[6,4,1]: Componente[6,4,1] >= 0
+ Naturaleza_x_it[6,4,2]: Componente[6,4,2] >= 0
+ Naturaleza_x_it[6,4,3]: Componente[6,4,3] >= 0
+ Naturaleza_x_it[6,4,4]: Componente[6,4,4] >= 0
+ Naturaleza_x_it[6,5,0]: Componente[6,5,0] >= 0
+ Naturaleza_x_it[6,5,1]: Componente[6,5,1] >= 0
+ Naturaleza_x_it[6,5,2]: Componente[6,5,2] >= 0
+ Naturaleza_x_it[6,5,3]: Componente[6,5,3] >= 0
+ Naturaleza_x_it[6,5,4]: Componente[6,5,4] >= 0
+ Naturaleza_x_it[6,6,0]: Componente[6,6,0] >= 0
+ Naturaleza_x_it[6,6,1]: Componente[6,6,1] >= 0
+ Naturaleza_x_it[6,6,2]: Componente[6,6,2] >= 0
+ Naturaleza_x_it[6,6,3]: Componente[6,6,3] >= 0
+ Naturaleza_x_it[6,6,4]: Componente[6,6,4] >= 0
+ Naturaleza_x_it[6,7,0]: Componente[6,7,0] >= 0
+ Naturaleza_x_it[6,7,1]: Componente[6,7,1] >= 0
+ Naturaleza_x_it[6,7,2]: Componente[6,7,2] >= 0
+ Naturaleza_x_it[6,7,3]: Componente[6,7,3] >= 0
+ Naturaleza_x_it[6,7,4]: Componente[6,7,4] >= 0
+ Naturaleza_x_it[6,8,0]: Componente[6,8,0] >= 0
+ Naturaleza_x_it[6,8,1]: Componente[6,8,1] >= 0
+ Naturaleza_x_it[6,8,2]: Componente[6,8,2] >= 0
+ Naturaleza_x_it[6,8,3]: Componente[6,8,3] >= 0
+ Naturaleza_x_it[6,8,4]: Componente[6,8,4] >= 0
+ Naturaleza_x_it[6,9,0]: Componente[6,9,0] >= 0
+ Naturaleza_x_it[6,9,1]: Componente[6,9,1] >= 0
+ Naturaleza_x_it[6,9,2]: Componente[6,9,2] >= 0
+ Naturaleza_x_it[6,9,3]: Componente[6,9,3] >= 0
+ Naturaleza_x_it[6,9,4]: Componente[6,9,4] >= 0
+ Naturaleza_x_it[6,10,0]: Componente[6,10,0] >= 0
+ Naturaleza_x_it[6,10,1]: Componente[6,10,1] >= 0
+ Naturaleza_x_it[6,10,2]: Componente[6,10,2] >= 0
+ Naturaleza_x_it[6,10,3]: Componente[6,10,3] >= 0
+ Naturaleza_x_it[6,10,4]: Componente[6,10,4] >= 0
+ Naturaleza_x_it[6,11,0]: Componente[6,11,0] >= 0
+ Naturaleza_x_it[6,11,1]: Componente[6,11,1] >= 0
+ Naturaleza_x_it[6,11,2]: Componente[6,11,2] >= 0
+ Naturaleza_x_it[6,11,3]: Componente[6,11,3] >= 0
+ Naturaleza_x_it[6,11,4]: Componente[6,11,4] >= 0
+ Naturaleza_x_it[6,12,0]: Componente[6,12,0] >= 0
+ Naturaleza_x_it[6,12,1]: Componente[6,12,1] >= 0
+ Naturaleza_x_it[6,12,2]: Componente[6,12,2] >= 0
+ Naturaleza_x_it[6,12,3]: Componente[6,12,3] >= 0
+ Naturaleza_x_it[6,12,4]: Componente[6,12,4] >= 0
+ Naturaleza_x_it[6,13,0]: Componente[6,13,0] >= 0
+ Naturaleza_x_it[6,13,1]: Componente[6,13,1] >= 0
+ Naturaleza_x_it[6,13,2]: Componente[6,13,2] >= 0
+ Naturaleza_x_it[6,13,3]: Componente[6,13,3] >= 0
+ Naturaleza_x_it[6,13,4]: Componente[6,13,4] >= 0
+ Naturaleza_x_it[6,14,0]: Componente[6,14,0] >= 0
+ Naturaleza_x_it[6,14,1]: Componente[6,14,1] >= 0
+ Naturaleza_x_it[6,14,2]: Componente[6,14,2] >= 0
+ Naturaleza_x_it[6,14,3]: Componente[6,14,3] >= 0
+ Naturaleza_x_it[6,14,4]: Componente[6,14,4] >= 0
+ Naturaleza_x_it[6,15,0]: Componente[6,15,0] >= 0
+ Naturaleza_x_it[6,15,1]: Componente[6,15,1] >= 0
+ Naturaleza_x_it[6,15,2]: Componente[6,15,2] >= 0
+ Naturaleza_x_it[6,15,3]: Componente[6,15,3] >= 0
+ Naturaleza_x_it[6,15,4]: Componente[6,15,4] >= 0
+ Naturaleza_x_it[6,16,0]: Componente[6,16,0] >= 0
+ Naturaleza_x_it[6,16,1]: Componente[6,16,1] >= 0
+ Naturaleza_x_it[6,16,2]: Componente[6,16,2] >= 0
+ Naturaleza_x_it[6,16,3]: Componente[6,16,3] >= 0
+ Naturaleza_x_it[6,16,4]: Componente[6,16,4] >= 0
  Naturaleza_y_it[0]: envio[0] >= 0
  Naturaleza_y_it[1]: envio[1] >= 0
  Naturaleza_y_it[2]: envio[2] >= 0
@@ -5884,17 +7252,29 @@ Generals
  Componente[3,17,4] Componente[3,18,0] Componente[3,18,1]
  Componente[3,18,2] Componente[3,18,3] Componente[3,18,4]
  Componente[3,19,0] Componente[3,19,1] Componente[3,19,2]
- Componente[3,19,3] Componente[3,19,4] Componente[4,0,0] Componente[4,0,1]
- Componente[4,0,2] Componente[4,0,3] Componente[4,0,4] Componente[4,1,0]
- Componente[4,1,1] Componente[4,1,2] Componente[4,1,3] Componente[4,1,4]
- Componente[4,2,0] Componente[4,2,1] Componente[4,2,2] Componente[4,2,3]
- Componente[4,2,4] Componente[4,3,0] Componente[4,3,1] Componente[4,3,2]
- Componente[4,3,3] Componente[4,3,4] Componente[4,4,0] Componente[4,4,1]
- Componente[4,4,2] Componente[4,4,3] Componente[4,4,4] Componente[4,5,0]
- Componente[4,5,1] Componente[4,5,2] Componente[4,5,3] Componente[4,5,4]
- Componente[4,6,0] Componente[4,6,1] Componente[4,6,2] Componente[4,6,3]
- Componente[4,6,4] Componente[4,7,0] Componente[4,7,1] Componente[4,7,2]
- Componente[4,7,3] Componente[4,7,4] Componente[5,0,0] Componente[5,0,1]
+ Componente[3,19,3] Componente[3,19,4] Componente[3,20,0]
+ Componente[3,20,1] Componente[3,20,2] Componente[3,20,3]
+ Componente[3,20,4] Componente[3,21,0] Componente[3,21,1]
+ Componente[3,21,2] Componente[3,21,3] Componente[3,21,4]
+ Componente[3,22,0] Componente[3,22,1] Componente[3,22,2]
+ Componente[3,22,3] Componente[3,22,4] Componente[3,23,0]
+ Componente[3,23,1] Componente[3,23,2] Componente[3,23,3]
+ Componente[3,23,4] Componente[3,24,0] Componente[3,24,1]
+ Componente[3,24,2] Componente[3,24,3] Componente[3,24,4]
+ Componente[3,25,0] Componente[3,25,1] Componente[3,25,2]
+ Componente[3,25,3] Componente[3,25,4] Componente[3,26,0]
+ Componente[3,26,1] Componente[3,26,2] Componente[3,26,3]
+ Componente[3,26,4] Componente[3,27,0] Componente[3,27,1]
+ Componente[3,27,2] Componente[3,27,3] Componente[3,27,4] Componente[4,0,0]
+ Componente[4,0,1] Componente[4,0,2] Componente[4,0,3] Componente[4,0,4]
+ Componente[4,1,0] Componente[4,1,1] Componente[4,1,2] Componente[4,1,3]
+ Componente[4,1,4] Componente[4,2,0] Componente[4,2,1] Componente[4,2,2]
+ Componente[4,2,3] Componente[4,2,4] Componente[4,3,0] Componente[4,3,1]
+ Componente[4,3,2] Componente[4,3,3] Componente[4,3,4] Componente[4,4,0]
+ Componente[4,4,1] Componente[4,4,2] Componente[4,4,3] Componente[4,4,4]
+ Componente[4,5,0] Componente[4,5,1] Componente[4,5,2] Componente[4,5,3]
+ Componente[4,5,4] Componente[4,6,0] Componente[4,6,1] Componente[4,6,2]
+ Componente[4,6,3] Componente[4,6,4] Componente[5,0,0] Componente[5,0,1]
  Componente[5,0,2] Componente[5,0,3] Componente[5,0,4] Componente[5,1,0]
  Componente[5,1,1] Componente[5,1,2] Componente[5,1,3] Componente[5,1,4]
  Componente[5,2,0] Componente[5,2,1] Componente[5,2,2] Componente[5,2,3]
@@ -5953,10 +7333,29 @@ Generals
  Componente[5,35,4] Componente[5,36,0] Componente[5,36,1]
  Componente[5,36,2] Componente[5,36,3] Componente[5,36,4]
  Componente[5,37,0] Componente[5,37,1] Componente[5,37,2]
- Componente[5,37,3] Componente[5,37,4] Componente[5,38,0]
- Componente[5,38,1] Componente[5,38,2] Componente[5,38,3]
- Componente[5,38,4] Componente[5,39,0] Componente[5,39,1]
- Componente[5,39,2] Componente[5,39,3] Componente[5,39,4]
- Componente[5,40,0] Componente[5,40,1] Componente[5,40,2]
- Componente[5,40,3] Componente[5,40,4]
+ Componente[5,37,3] Componente[5,37,4] Componente[6,0,0] Componente[6,0,1]
+ Componente[6,0,2] Componente[6,0,3] Componente[6,0,4] Componente[6,1,0]
+ Componente[6,1,1] Componente[6,1,2] Componente[6,1,3] Componente[6,1,4]
+ Componente[6,2,0] Componente[6,2,1] Componente[6,2,2] Componente[6,2,3]
+ Componente[6,2,4] Componente[6,3,0] Componente[6,3,1] Componente[6,3,2]
+ Componente[6,3,3] Componente[6,3,4] Componente[6,4,0] Componente[6,4,1]
+ Componente[6,4,2] Componente[6,4,3] Componente[6,4,4] Componente[6,5,0]
+ Componente[6,5,1] Componente[6,5,2] Componente[6,5,3] Componente[6,5,4]
+ Componente[6,6,0] Componente[6,6,1] Componente[6,6,2] Componente[6,6,3]
+ Componente[6,6,4] Componente[6,7,0] Componente[6,7,1] Componente[6,7,2]
+ Componente[6,7,3] Componente[6,7,4] Componente[6,8,0] Componente[6,8,1]
+ Componente[6,8,2] Componente[6,8,3] Componente[6,8,4] Componente[6,9,0]
+ Componente[6,9,1] Componente[6,9,2] Componente[6,9,3] Componente[6,9,4]
+ Componente[6,10,0] Componente[6,10,1] Componente[6,10,2]
+ Componente[6,10,3] Componente[6,10,4] Componente[6,11,0]
+ Componente[6,11,1] Componente[6,11,2] Componente[6,11,3]
+ Componente[6,11,4] Componente[6,12,0] Componente[6,12,1]
+ Componente[6,12,2] Componente[6,12,3] Componente[6,12,4]
+ Componente[6,13,0] Componente[6,13,1] Componente[6,13,2]
+ Componente[6,13,3] Componente[6,13,4] Componente[6,14,0]
+ Componente[6,14,1] Componente[6,14,2] Componente[6,14,3]
+ Componente[6,14,4] Componente[6,15,0] Componente[6,15,1]
+ Componente[6,15,2] Componente[6,15,3] Componente[6,15,4]
+ Componente[6,16,0] Componente[6,16,1] Componente[6,16,2]
+ Componente[6,16,3] Componente[6,16,4]
 End
