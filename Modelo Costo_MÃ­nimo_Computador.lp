@@ -774,7 +774,7 @@ Subject To
    + 480 Componente[2,18,2] + 480 Componente[2,18,3]
    + 480 Componente[2,18,4] + 250 Componente[2,19,0]
    + 250 Componente[2,19,1] + 250 Componente[2,19,2]
-   + 250 Componente[2,19,3] + 250 Componente[2,19,4] >= 500
+   + 250 Componente[2,19,3] + 250 Componente[2,19,4] >= 256
  Especificaciones_minimas[3]: 5.4 Componente[3,0,0] + 5.4 Componente[3,0,1]
    + 5.4 Componente[3,0,2] + 5.4 Componente[3,0,3] + 5.4 Componente[3,0,4]
    + 6.4 Componente[3,1,0] + 6.4 Componente[3,1,1] + 6.4 Componente[3,1,2]
@@ -840,7 +840,7 @@ Subject To
    + 28.8 Componente[3,26,2] + 28.8 Componente[3,26,3]
    + 28.8 Componente[3,26,4] + 28.8 Componente[3,27,0]
    + 28.8 Componente[3,27,1] + 28.8 Componente[3,27,2]
-   + 28.8 Componente[3,27,3] + 28.8 Componente[3,27,4] >= 14.8
+   + 28.8 Componente[3,27,3] + 28.8 Componente[3,27,4] >= 11.6
  Especificaciones_minimas[5]: Componente[5,0,0] + Componente[5,0,1]
    + Componente[5,0,2] + Componente[5,0,3] + Componente[5,0,4]
    + 2 Componente[5,1,0] + 2 Componente[5,1,1] + 2 Componente[5,1,2]
@@ -904,7 +904,7 @@ Subject To
    + 6 Componente[5,35,4] + 6 Componente[5,36,0] + 6 Componente[5,36,1]
    + 6 Componente[5,36,2] + 6 Componente[5,36,3] + 6 Componente[5,36,4]
    + 6 Componente[5,37,0] + 6 Componente[5,37,1] + 6 Componente[5,37,2]
-   + 6 Componente[5,37,3] + 6 Componente[5,37,4] >= 1
+   + 6 Componente[5,37,3] + 6 Componente[5,37,4] >= 4
  Respetar_limite_potencia: - 1.5 Componente[1,0,0] - 1.5 Componente[1,0,1]
    - 1.5 Componente[1,0,2] - 1.5 Componente[1,0,3] - 1.5 Componente[1,0,4]
    - 3 Componente[1,1,0] - 3 Componente[1,1,1] - 3 Componente[1,1,2]
