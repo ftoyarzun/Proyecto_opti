@@ -375,9 +375,7 @@ Minimize
    + 229990 Componente[6,15,2] + 229990 Componente[6,15,3]
    + 229990 Componente[6,15,4] + 289990 Componente[6,16,0]
    + 289990 Componente[6,16,1] + 289990 Componente[6,16,2]
-   + 289990 Componente[6,16,3] + 289990 Componente[6,16,4] + envio[0]
-   + envio[1] + envio[2] + envio[3] + envio[4] - envio_gratis[0]
-   - envio_gratis[1] - envio_gratis[2] - envio_gratis[3] - envio_gratis[4]
+   + 289990 Componente[6,16,3] + 289990 Componente[6,16,4]
 Subject To
  Componentes_unitarios[0]: Componente[0,0,0] + Componente[0,0,1]
    + Componente[0,0,2] + Componente[0,0,3] + Componente[0,0,4]
