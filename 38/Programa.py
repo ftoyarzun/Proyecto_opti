@@ -4,8 +4,6 @@ import gurobipy as gp
 from gurobipy import *
 import random
 
-random.seed(10)
-
 Placa_madre = ascii.read("Opti - Placa Madre (1).dat")
 Memorias = ascii.read("Opti - RAM (2).dat")
 Almacenamiento = ascii.read("Opti - Almacenamiento SSD (3).dat")
@@ -35,14 +33,14 @@ c = {(i,m,t) : Componentes[i]['Precio ($)'][m] for i in I_ for m in M_[i] for t 
 k = {t : 0 for t in T_}
 
 # Potencia de los componentes
-p = {(i,m): Componentes[i]['Potencia (W)'][m] for i in [1,3,4,5] for m in M_[i]}
+p = {(i,m): Componentes[i]['Potencia (W)'][m] for i in [0,1,3,4,5] for m in M_[i]}
 
 # Especificacion de los componentes
 e = {(i,m): Componentes[i]['Especificacion'][m] for i in [1,2,3,5] for m in M_[i]}
 
 #---------------------------------------------------------#
 #-----------Especificaciones------------------------------#
-E = {1: 8, 2: 256, 3: 4*2.9, 5: 4} #----------------------#
+E = {1: 8, 2: 500, 3: 6*2.9, 5: 4} #----------------------#
 #---------------------------------------------------------#
 #---------------------------------------------------------#
 
@@ -76,21 +74,21 @@ for m in M_[0]:
     R[3,m] = [i for i in range(len(Componentes[3]['Precio ($)'])) if 
              Componentes[3]['Marca'][i] != Componentes[0]['Plataforma'][m]]
 
-# Conjunto de memorias 
+# Conjunto de memorias ram incompatibles con el modelo m del procesador
 H = {(1,m): [i for i in range(len(Componentes[1]['Precio ($)'])) if 
              Componentes[1]['Frecuencia (MHz)'][i] > Componentes[3]['Velocidad maxima (MHz)'][m] or
              Componentes[1]['Tipo de memoria'][i] != Componentes[3]['Tipos de memoria'][m] + ' DIMM']
              for m in M_[3]}
 
+# Limite de precio para que el envio sea gratis. Nuevamente en este caso se asume nulo
 phi = {t: 1 for t in T_}
 
-
+#tuplas de componentes
 l = []
 for i in I_:
     for m in M_[i]:
         for t in T_:
             l.append((i,m,t))
-
 
 # MODELO
 model = Model("Costo_Mínimo_Computador")
@@ -120,7 +118,7 @@ model.addConstr((quicksum(quicksum(x[2,m,t] for m in M_[2]) for t in T_) <= quic
 model.addConstrs((quicksum(quicksum(e[i,m] * x[i,m,t] for m in M_[i]) for t in T_) >= E[i] for i in [1,2,3,5]), name = "Especificaciones_minimas")
 
 # Respetar el limite de potencia
-model.addConstr((quicksum(quicksum(quicksum(p[i,m] * x[i,m,t] for m in M_[i]) for t in T_) for i in [1,3,4,5]) >= 0), name = "Respetar_limite_potencia")
+model.addConstr((quicksum(quicksum(quicksum(p[i,m] * x[i,m,t] for m in M_[i]) for t in T_) for i in [0,1,3,4,5]) >= 0), name = "Respetar_limite_potencia")
 
 # Cobrar envio
 A = 1e10
@@ -151,11 +149,9 @@ model.addConstr((quicksum(quicksum(sl[6,m]*x[6,m,t] for m in M_[6]) for t in T_)
 # Naturaleza variables
 model.addConstrs((x[i,m,t] >= 0 for i in I_ for m in M_[i] for t in T_),name = "Naturaleza_x_it")
 model.addConstrs((y[t] >= 0 for t in T_),name = "Naturaleza_y_it")                 
-model.addConstrs((z[t] >= 0 for t in T_),name = "Naturaleza_z_ijt")
+model.addConstrs((z[t] >= 0 for t in T_),name = "Naturaleza_z_ijt")  
 
-
-
-
+# Funcion objetivo
 obj = quicksum((y[t] - z[t])*k[t]  + quicksum(quicksum(c[i,m,t] * x[i,m,t] for m in M_[i]) for i in I_) for t in T_)
                  
 model.setObjective(obj, GRB.MINIMIZE)
@@ -171,13 +167,29 @@ model.write("Modelo {}.lp".format(model.ModelName))
 model.optimize()
 
 
-
-#################################
-
-
 for i in I_:
     for m in M_[i]:
         for t in T_:
             if x[i,m,t].x>0:
-                print('Compra la {} ID {} en la sucursal en {}'.format(comps[i],Componentes[i]['ID'][m], tiendas[t]))
-print('Con un costo total de {}'.format(model.objVal))
+                print('Compra {} unidad/es de la {} ID {} en la sucursal en {}'.format(x[i,m,t].x,comps[i],Componentes[i]['ID'][m], tiendas[t]))
+print('Con un costo total de {}'.format(model.objVal))                
+
+
+url = 'https://www.pcfactory.cl/armatupc/'
+marca = ''
+piezas = ''
+for i in I_:
+    for m in M_[i]:
+        for t in T_:
+            if x[i,m,t].x>0:
+                if Componentes[3]['Marca'][m] == 'AMD':
+                    marca = 'AMD'
+                else:
+                    marca = 'INTEL'
+                piezas += '{},'.format(Componentes[i]['ID'][m])
+piezas = piezas[:-1]
+
+url = url+marca+'/6/'+piezas
+print("Debido al stock dinamico de PCfactory este link puede contener articulos que ya no tengan stock en la tienda seleccionada")
+print(url)
+#################################
